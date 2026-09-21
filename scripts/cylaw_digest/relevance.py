@@ -52,12 +52,12 @@ STRONG = {
         r"εκκαθαρισ", r"πτωχευσ", r"εμπιστευμ", r"συγχωνευσ", r"διασυνοριακ\w* μετατροπ", r"κεφαλαιαγορ",
         r"χρηματιστηρ", r"αξιογραφ", r"επενδυτικ\w* υπηρεσ", r"ξεπλυμ", r"νομιμοποιησ\w* εσοδων",
         r"εμπορικ\w* επωνυμ", r"ελεγκτ\w* επαγγελμ", r"λογιστ\w* (?:προτυπ|επαγγελμ)", r"διοικητικ\w* συμβουλι",
-        r"beneficial owner", r"companies law", r"registrar of companies",
+        r"εμπορικ\w* δικαστηρ", r"beneficial owner", r"companies law", r"registrar of companies",
     ],
     "tax": [
         r"φορολογ", r"\bφορο", r"φ\.?π\.?α\b", r"τελωνει", r"χαρτοσημ", r"κεφαλαιουχικ\w* κερδ",
         r"εισοδημ", r"αμυντικ\w* εισφορ", r"εκτακτ\w* εισφορ", r"εφοριακ", r"\btax\b", r"\bvat\b",
-        r"dac\d", r"pillar", r"διπλ\w* φορολογ",
+        r"dac\d", r"pillar", r"διπλ\w* φορολογ", r"φορ\w* καταναλωσ", r"ειδικ\w* φορ", r"excise",
     ],
     "banking": [
         r"\bτραπεζ", r"πιστωτικ\w* ιδρυμ", r"\bδανει", r"υπηρεσι\w* πληρωμ", r"ιδρυμ\w* πληρωμ", r"ηλεκτρονικ\w* χρημ",
@@ -80,10 +80,10 @@ STRONG = {
 WEAK = {
     "real_estate": [r"οικοδομ", r"κατοικ", r"γη\b", r"ιδιοκτησ", r"ενοικ", r"αναπτυξ\w* γης", r"housing"],
     "corporate": [r"\bεπιχειρησ", r"\bεμπορ", r"\bεπενδυ", r"ανταγωνισμ", r"\bcompany", r"\bbusiness"],
-    "tax": [r"εισφορ", r"τελ(?:ος|η|ων)\b", r"φορων κατανάλωσης", r"excise"],
+    "tax": [r"εισφορ", r"τελ(?:ος|η|ων)\b"],
     "banking": [r"χρηματοδοτ", r"ασφαλιστικ", r"επιτοκ", r"interest rate", r"financial", r"payment"],
     "immigration": [r"ασυλ", r"προσφυγ", r"visa", r"migration"],
-    "employment": [r"\bεργασ", r"\bεργατ", r"\bαπεργ", r"\bσυνταξ", r"ασφαλει\w* και υγει", r"labour", r"social insurance"],
+    "employment": [r"\bεργασ", r"\bεργατ", r"\bσυνταξ", r"ασφαλει\w* και υγει", r"labour", r"social insurance"],
 }
 # Titles that are administrative noise even if a weak keyword matches.
 NOISE = [
@@ -91,9 +91,16 @@ NOISE = [
     r"υποτροφ", r"σεμιναρ", r"συνεδρι", r"εκδηλωσ", r"συλλυπητ", r"συγχαιρ", r"επισκεψ", r"συναντησ",
     r"προυπολογισμ", r"budget", r"vacanc", r"blog", r"insights", r"balance sheet", r"προσωρινη διακοπη",
     r"τηλεοπτικ", r"μηνυμα", r"χαιρετισμ", r"ομιλι", r"διαλεξ", r"speech", r"conference", r"workshop",
+    r"συγχαρητηρ", r"\bδεικτ", r"\d\w* τριμην", r"τριμηνο", r"αφιξ\w* τουριστ", r"εγγραφ\w* μηχανοκινητ",
+    r"στοιχει\w* επιτοκ", r"non-performing loans", r"aggregate .*data", r"bank holiday", r"\bdata with reference",
+    r"monetary and financial statistics", r"interest rates? (?:on|for|data)",
+    # periodic releases: a title ending in ": <month> 2026", ": Ιανουάριος-Αύγουστος 2026"
+    r":\s*(?:ιανουαρ|φεβρουαρ|μαρτ|απριλ|μαι|ιουν|ιουλ|αυγουστ|σεπτεμβρ|οκτωβρ|νοεμβρ|δεκεμβρ)\w*(?:\s*-\s*[α-ω]+)?\s+\d{4}\s*$",
 ]
 # Statements and meetings: we keep them only when they carry a strong legal keyword.
-SOFT_NOISE = [r"δηλωσ\w* του (?:υπουργ|υφυπουργ)", r"δηλωσ\w* της (?:υπουργ|υφυπουργ)", r"συναντησ", r"αναχωρει", r"επιστρεφει"]
+SOFT_NOISE = [r"δηλωσ\w* τ(?:ου|ησ) (?:υπουργ|υφυπουργ|προεδρ)", r"συναντησ", r"αναχωρει", r"επιστρεφει",
+              r"^προεδρ\w* τησ δημοκρατιασ", r"παρεμβασ\w* τ(?:ου|ησ) (?:υπουργ|υφυπουργ|προεδρ)", r"συνεντευξ",
+              r"^(?:ο|η) (?:υπουργ|υφυπουργ)", r"\bκ\. ?[α-ω]{2,} [α-ω]{3,}", r"συμμετοχ\w* τ(?:ου|ησ) (?:υπουργ|υφυπουργ)"]
 
 # Nomoplatform thematic-unit ids (see references/relevance.md). Ids are a
 # convenience only – names are also matched through the keyword sets.
@@ -107,7 +114,7 @@ NOMO_TERMS = {
 }
 
 # A title that names a legal instrument is news even when it is phrased as a statement.
-INSTRUMENT = re.compile(r"\bνομ(?:οσ|ου|ο|οι|ων|ουσ|οσχεδι\w*)\b|\bδιαταγμ|\bκανονισμ|\bεγκυκλι|\bοδηγι|τροποποι|\bψηφ|\bαποφασ|\bγνωστοποιησ|\bκ\.?δ\.?π|\bdirective|\bcircular|\bregulation|\blaw\b|\bact\b")
+INSTRUMENT = re.compile(r"\bνομ(?:οσ|ου|ο|οι|ων|ουσ|οσχεδι\w*)\b|\bδιαταγμ|\bκανονισμ|\bεγκυκλι|\bοδηγι|τροποποι|\bψηφ|\bαποφασ|\bγνωστοποιησ|\bκ\.?δ\.?π|\bπαρατασ|\bπροθεσμ|\bσχεδι|\bdirective|\bcircular|\bregulation|\blaw\b|\bact\b")
 
 _STRONG = {a: [re.compile(p) for p in ps] for a, ps in STRONG.items()}
 _WEAK = {a: [re.compile(p) for p in ps] for a, ps in WEAK.items()}

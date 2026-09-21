@@ -30,7 +30,7 @@ python3 <папка скилла>/scripts/digest_collect.py --week previous --ou
 # либо --days N / --from … --to … ; --today YYYY-MM-DD фиксирует «сегодня» для воспроизводимости; -v — подробный лог
 ```
 Папка скилла может быть read-only — вывод всегда в `--out` вне её (по умолчанию `~/digest_out`).
-Зависимости: `requests`, `beautifulsoup4`, `lxml`, `pdftotext` (poppler; иначе `pypdf`). Скрипт не падает на недоступном источнике — пишет причину в `status.json`. Выход: `digest_out/<окно>/`:
+Зависимости: `requests`, `beautifulsoup4`, `lxml`, `pdftotext` (poppler; иначе `pypdf`); для офлайн-самотеста ещё `reportlab` и шрифт DejaVu (`fonts-dejavu-core`). Скрипт не падает на недоступном источнике — пишет причину в `status.json`. Выход: `digest_out/<окно>/`:
 - `status.json` — статус каждого источника: `items`, `reason` (источник не дал ничего: `proxy_denied`, `cloudflare`, `ssl_error`…), `partial` (часть запросов не прошла), предупреждения о покрытии. **Читать первым.** Консольная сводка показывает то же: `ok` / `ok (partial: …)` / `BLOCKED …`.
 - `skeleton.md` — секции A1–E со всеми дословными полями (название, длинное название, норма, вступление в силу, Σκοπός, событие, ссылки, практика и балл фильтра).
 - `items.json` / `all_items.json` — то же машинно; `texts/<id>.txt` — полные тексты законов и Κ.Δ.Π.; `raw/` — кэш ответов (повторный прогон `--offline --cache-dir digest_out/<окно>/raw` не ходит в сеть).
@@ -57,7 +57,7 @@ python3 <папка скилла>/scripts/digest_collect.py --week previous --ou
 
 ## Самотест
 ```bash
-python3 scripts/selftest.py            # офлайн: фикстуры + 21 тест (парсеры, фильтр, сквозной прогон)
+python3 scripts/selftest.py            # офлайн: фикстуры + 24 теста (парсеры, фильтр, сквозной прогон)
 python3 scripts/selftest.py --live     # + доступность каждого источника и живая структура страниц
 ```
 `--live` запускать один раз в каждой новой среде (личный Cowork, сервисный аккаунт, первое срабатывание расписания, GitHub Actions — он там в workflow). Строки `BLOCKED <reason>` — сетевая политика; `PARSE-EMPTY` — изменилась вёрстка, см. `references/sources.md`.
@@ -68,6 +68,7 @@ python3 scripts/selftest.py --live     # + доступность каждого
 ## Файлы
 - `scripts/digest_collect.py` — CLI сбора; `--plan` печатает URL, `--webfetch-plan` — план для fallback.
 - `scripts/fetch_run.py` — режим B: забрать готовый прогон из GitHub-репозитория или папки.
+- `scripts/fix_chain.py` — достраивает цепочку сертификатов mof.gov.cy по AIA (без отключения проверки); в workflow — отдельный шаг.
 - `scripts/cylaw_digest/` — `gazette.py` (Ε.Ε.), `cylaw.py` (законы + индекс Κ.Δ.Π. с per-act PDF), `nomoplatform.py`, `govcy.py`, `registrar.py`, `cbc.py`, `acts.py` (разбор текстов актов), `relevance.py` (фильтр практик), `window.py`, `http.py`, `greekdates.py`, `pdftext.py`, `model.py`.
 - `scripts/selftest.py`, `tests/` — фикстуры и тесты.
 - `deploy/README.md`, `deploy/github-actions/digest.yml`, `deploy/macos-launchd/` — сбор вне Claude (план Б).

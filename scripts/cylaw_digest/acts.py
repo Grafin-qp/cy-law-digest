@@ -60,7 +60,7 @@ ARTICLE_START = re.compile(r"(?m)^\s*(\d{1,3})\.\s*[-–]?\s*(?:\(\d+\)\s*)?(?=[
 # Margin notes that pdftotext interleaves; we drop lines that are just these.
 MARGIN_LINE = re.compile(
     r"^\s*(?:Συνοπτικός|τίτλος\.?|Ερμηνεία\.?|Έναρξη|ισχύος\.?|Τροποποίηση|του βασικού|νόμου\.?|Παράρτημα\.?|Επίσημη|Εφημερίδα,?|"
-    r"Παράρτημα Τρίτο \(Ι\):|\d+\([IΙ]+\) του \d{4}\.?|\d+\([IΙ]+\)/\d{4}\.?|Κεφ\. \d+\.?|\d{1,2}\.\d{1,2}\.\d{4}\.?|Κ\.Δ\.Π\. \d+/\d{4}\.?|_{3,})\s*$")
+    r"Παράρτημα Τρίτο \(Ι\):|Τρίτο \(Ι\):?|\d+\([IΙ]+\) του \d{4}\.?|\d+\([IΙ]+\)/\d{4}\.?|Κεφ\. \d+\.?|\d{1,2}\.\d{1,2}\.\d{4}\.?|Κ\.Δ\.Π\. \d+/\d{4}\.?|_{3,})\s*$")
 
 
 def _is_margin_fragment(ln: str) -> bool:
@@ -77,17 +77,62 @@ def _is_margin_fragment(ln: str) -> bool:
     return True
 
 
+def _blank(ln: str) -> bool:
+    return not ln.strip()
+
+
+def _terminal(ln: str) -> bool:
+    """The line ends a sentence/paragraph, so short lines after it cannot be its wrapped tail."""
+    return bool(re.search(r"[.;:·»)]\s*$", ln.strip()))
+
+
 def clean_lines(text: str) -> str:
+    """Drop the side-note fragments pdftotext interleaves above each article.
+
+    A side note comes out as a run of short lines ('Ηλεκτρονική / υποβολή / αίτησης για /
+    ένταξη στη / Ρύθμιση.'), either glued to the previous paragraph or separated from it by
+    blank lines. Walking up from an article start: a glued run is dropped when the line above
+    it is blank or ends a sentence; blank-separated blocks are dropped while every line in
+    them is a fragment; a block whose trailing fragments follow an unfinished line (the
+    wrapped last word of a paragraph, 'Νόμο.') stops the walk and is kept."""
     raw = text.splitlines()
     drop = set()
+
+    def trailing_run(end: int) -> int:
+        """Index of the first line of the fragment run ending at `end` (inclusive)."""
+        k = end
+        while k >= 0 and not _blank(raw[k]) and _is_margin_fragment(raw[k]):
+            k -= 1
+        return k + 1
+
     for i, ln in enumerate(raw):
         if MARGIN_LINE.match(ln):
             drop.add(i)
-        if ARTICLE_START.match(ln):
-            j = i - 1
-            while j >= 0 and _is_margin_fragment(raw[j]):
-                drop.add(j)
+        if not ARTICLE_START.match(ln):
+            continue
+        j = i - 1
+        s_ = trailing_run(j)
+        if s_ <= j:                                   # a run glued directly above the article line
+            above = s_ - 1
+            if above >= 0 and not _blank(raw[above]) and not _terminal(raw[above]):
+                continue                              # continuation of a paragraph – keep
+            drop.update(range(s_, i))
+            j = above
+        while True:                                   # blank-separated blocks further up
+            while j >= 0 and _blank(raw[j]):
                 j -= 1
+            if j < 0:
+                break
+            end = j
+            while j >= 0 and not _blank(raw[j]):
+                j -= 1
+            s_ = trailing_run(end)
+            if s_ == j + 1:                           # whole block is fragments
+                drop.update(range(s_, end + 1))
+                continue
+            if s_ <= end and _terminal(raw[s_ - 1]):  # fragments glued after a finished sentence
+                drop.update(range(s_, end + 1))
+            break
     out = [ln.rstrip() for i, ln in enumerate(raw) if i not in drop]
     s = "\n".join(out)
     s = re.sub(r"[ \t]+", " ", s)
@@ -127,9 +172,14 @@ def parse_gazette_header(text: str) -> tuple[str, Optional[dt.date]]:
     return "", None
 
 
+HEADER_LINE = re.compile(r"^\s*(?:\d{3,4}|Ε\.Ε\.\s*Παρ\..*|Αρ\.\s*\d{4},.*|Αριθμός\s+\d+[Α-Ω]?|\(Ν\.\s*\d+\([IΙ]+\)/\d{4}\))\s*$")
+
+
 def _excerpt(text: str, limit: int = 1800) -> str:
     """Text from the first substantive article (usually article 2, after the
-    short-title article 1) – this is 'the law's own wording' for the digest."""
+    short-title article 1) – this is 'the law's own wording' for the digest.
+    Notifications without numbered articles (one paragraph 'Ο Υπουργός … καθορίζει …')
+    start at the first full-width line after the header/instrument lines."""
     body = clean_lines(text)
     # skip past the short title article if present
     m = SHORT_TITLE.search(body)
@@ -138,9 +188,18 @@ def _excerpt(text: str, limit: int = 1800) -> str:
     nxt = ARTICLE_START.search(body, start)
     if nxt:
         start = nxt.start()
+    else:
+        pos = 0
+        for ln in body.splitlines(keepends=True):
+            t = ln.strip()
+            if t and not HEADER_LINE.match(t) and not KDP_INSTRUMENT.match(t) and not CAPS_TITLE.match(t) \
+                    and not (t.isupper() and len(t) < 120) and len(t) >= 50:
+                start = pos
+                break
+            pos += len(ln)
     ex = body[start:start + limit].strip()
     # cut at the print footer / signature block / next act's page header if they slipped in
-    ex = re.split(r"Τυπώθηκε στο Τυπογραφείο|\nΈγινε στις |\nΕ\.Ε\. Παρ\.", ex)[0].strip()
+    ex = re.split(r"Τυπώθηκε στο Τυπογραφείο|T[υ]πώθηκε στο|\nΈγινε στις |\nΕ\.Ε\. Παρ\.", ex)[0].strip()
     ex = re.sub(r"\n\d{3,4}\s*$", "", ex).strip()   # trailing page number
     return ex
 

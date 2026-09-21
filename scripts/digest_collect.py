@@ -281,10 +281,13 @@ def write_skeleton(path: Path, win: W.Window, kept: list[Item], other_laws: list
         d = it.date.strftime('%d.%m.%Y') if it.date else '?'
         a(f"- {it.number} — {it.title_el} ({d}) {it.url}")
     a("")
-    a(f"## E. Dropped by the relevance filter — for review ({len(dropped)})")
+    a(f"## E. Dropped by the relevance filter — for review ({len(dropped) - len(other_laws)})")
     a("")
     by = {}
+    other_ids = {it.id for it in other_laws}
     for it in dropped:
+        if it.id in other_ids:
+            continue                      # already listed in section D
         by.setdefault(it.source, []).append(it)
     for src, rows in by.items():
         a(f"- {src}: {len(rows)}")

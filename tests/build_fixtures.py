@@ -39,7 +39,18 @@ def text_to_pdf(txt: str) -> bytes:
     from reportlab.pdfbase.ttfonts import TTFont
     from reportlab.pdfgen import canvas
     import io
-    font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+    candidates = [
+        "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",          # Debian/Ubuntu (fonts-dejavu-core)
+        "/usr/share/fonts/dejavu/DejaVuSans.ttf",                   # Fedora
+        "/usr/share/fonts/TTF/DejaVuSans.ttf",                      # Arch
+        "/opt/homebrew/share/fonts/DejaVuSans.ttf",                 # macOS (brew)
+        "/Library/Fonts/DejaVuSans.ttf", str(Path.home() / "Library/Fonts/DejaVuSans.ttf"),
+        "/System/Library/Fonts/Supplemental/Arial Unicode.ttf",    # macOS stock Unicode font
+    ]
+    font_path = next((c for c in candidates if Path(c).exists()), None)
+    if not font_path:
+        sys.exit("build_fixtures: no Unicode TTF font found for the PDF fixtures "
+                 "(install fonts-dejavu-core on Debian/Ubuntu, or DejaVuSans.ttf elsewhere)")
     pdfmetrics.registerFont(TTFont("DejaVu", font_path))
     buf = io.BytesIO()
     c = canvas.Canvas(buf, pagesize=A4)
