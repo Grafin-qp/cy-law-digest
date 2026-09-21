@@ -3,32 +3,69 @@
     "start": "2026-09-08",
     "end": "2026-09-21"
   },
-  "generated": "2026-09-21T03:06:23",
+  "generated": "2026-09-21T03:25:54",
   "host": "runnervmlun5p",
   "sources": {
     "gazette": {
-      "items": 0,
+      "items": 25,
       "gazette_app16": {
-        "ok": false,
-        "reason": "ssl_error",
-        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16"
+        "ok": true,
+        "listed": 5,
+        "in_window": 1,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16",
+        "warning": null,
+        "label": "Παρ. Ι(Ι)",
+        "issues": [
+          {
+            "number": "5096",
+            "date": "2026-09-17"
+          }
+        ],
+        "latest_listed": "2026-09-17"
       },
       "gazette_app2": {
-        "ok": false,
-        "reason": "ssl_error",
-        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2"
+        "ok": true,
+        "listed": 1,
+        "in_window": 0,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2",
+        "warning": null,
+        "label": "Παρ. Ι(ΙΙ)",
+        "issues": [],
+        "latest_listed": "2026-07-17"
       },
       "gazette_app3": {
-        "ok": false,
-        "reason": "ssl_error",
-        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3"
+        "ok": true,
+        "listed": 2,
+        "in_window": 0,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3",
+        "warning": null,
+        "label": "Παρ. Ι(ΙΙΙ)",
+        "issues": [],
+        "latest_listed": "2026-07-24"
       },
       "gazette_app6": {
-        "ok": false,
-        "reason": "ssl_error",
-        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6"
-      },
-      "reason": "ssl_error"
+        "ok": true,
+        "listed": 16,
+        "in_window": 3,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6",
+        "warning": null,
+        "label": "Παρ. ΙΙΙ(Ι)",
+        "issues": [
+          {
+            "number": "6047",
+            "date": "2026-09-18"
+          },
+          {
+            "number": "6046",
+            "date": "2026-09-15"
+          },
+          {
+            "number": "6045",
+            "date": "2026-09-11"
+          }
+        ],
+        "latest_listed": "2026-09-18"
+      }
     },
     "cylaw": {
       "items": 2,
@@ -124,14 +161,14 @@
     }
   },
   "http": {
-    "requests": 57,
+    "requests": 65,
     "cached": 0,
-    "failed": 8
+    "failed": 4
   },
   "counts": {
-    "collected": 96,
-    "kept": 39,
-    "dropped": 57,
-    "other_laws": 1
+    "collected": 100,
+    "kept": 27,
+    "dropped": 73,
+    "other_laws": 0
   }
 }

@@ -1,33 +1,19 @@
 DEBUG urllib3.util.retry: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (2): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (3): www.mof.gov.cy:443
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (4): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (5): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (6): www.mof.gov.cy:443
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (7): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (8): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (9): www.mof.gov.cy:443
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (10): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (11): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (12): www.mof.gov.cy:443
-INFO root: gazette: 0 items (BLOCKED: ssl_error)
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16 HTTP/1.1" 200 4798
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/5601BC24BB819A11C2258E750053FF80?OpenDocument HTTP/1.1" 200 4255
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/5601BC24BB819A11C2258E750053FF80/$file/5096%2017%209%202026%20PARART%CE%97MA%201o%20MEROS%20I.pdf HTTP/1.1" 200 788012
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2 HTTP/1.1" 200 4621
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3 HTTP/1.1" 200 4653
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6 HTTP/1.1" 200 5339
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/9736D46BCBC9A5ECC2258E76001DEEB2?OpenDocument HTTP/1.1" 200 4267
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/9736D46BCBC9A5ECC2258E76001DEEB2/$file/6047%2018%209%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 1340545
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/DD061477D549EE63C2258E73002EB03D?OpenDocument HTTP/1.1" 200 4256
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/DD061477D549EE63C2258E73002EB03D/$file/6046%2015%209%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 240530
+DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument HTTP/1.1" 200 4265
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/4A7D42DCE00D6D38C2258E6F001E4045/$file/6045%2011%209%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 1372624
+INFO root: gazette: 25 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.cylaw.org:443
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/2026_arith_index.html HTTP/1.1" 200 38939
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_125.pdf HTTP/1.1" 200 832134
@@ -99,8 +85,8 @@ DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announceme
 DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/10-09-2026 HTTP/1.1" 200 None
 DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/cir-statistics-august-2026-09-09-2026 HTTP/1.1" 200 None
 INFO root: cbc: 11 items
-window 2026-09-08..2026-09-21: collected 96, kept 39, other laws 1, dropped 57
-  gazette       BLOCKED ssl_error                        items=0
+window 2026-09-08..2026-09-21: collected 100, kept 27, other laws 0, dropped 73
+  gazette       ok                                       items=25
   cylaw         ok                                       items=2
   cylawkdp      ok                                       items=21
   nomoplatform  BLOCKED cloudflare                       items=0

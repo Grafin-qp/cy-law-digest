@@ -1,12 +1,35 @@
 # Skeleton — Cyprus law digest, window 08.09.2026 – 21.09.2026
-Generated 2026-09-21T03:06:23 by digest_collect.py on runnervmlun5p. Sources: gazette: BLOCKED ssl_error; cylaw: 2 items; cylawkdp: 21 items; nomoplatform: BLOCKED cloudflare; govcy: 61 items; registrar: 1 items; cbc: 11 items
+Generated 2026-09-21T03:25:54 by digest_collect.py on runnervmlun5p. Sources: gazette: 25 items; cylaw: 2 items; cylawkdp: 21 items; nomoplatform: BLOCKED cloudflare; govcy: 61 items; registrar: 1 items; cbc: 11 items
 
-Coverage: CyLaw I: highest 125(I)/2026, walked down to 122(I)/2026; CyLaw II: highest 42(II)/2026, walked down to 39(II)/2026; CyLaw III: highest 6(III)/2026, walked down to 4(III)/2026; CyLaw Κ.Δ.Π. index: latest 372/2026, 21 in window (issues 6045, 6046, 6047)
+Coverage: Παρ. Ι(Ι): No. 5096 (17.09) (live list up to 2026-09-17); Παρ. Ι(ΙΙ): no issue in window (live list up to 2026-07-17); Παρ. Ι(ΙΙΙ): no issue in window (live list up to 2026-07-24); Παρ. ΙΙΙ(Ι): No. 6047 (18.09), No. 6046 (15.09), No. 6045 (11.09) (live list up to 2026-09-18); CyLaw I: highest 125(I)/2026, walked down to 122(I)/2026; CyLaw II: highest 42(II)/2026, walked down to 39(II)/2026; CyLaw III: highest 6(III)/2026, walked down to 4(III)/2026; CyLaw Κ.Δ.Π. index: latest 372/2026, 21 in window (issues 6045, 6046, 6047)
 Rules: write only from the fields below (verbatim = exact source wording). Invent nothing; an empty field means 'not found' – say so or open the link / texts/<id>.txt.
 
-## A1. Enacted and published — laws (Επίσημη Εφημερίδα, Παρ. Ι) (0)
+## A1. Enacted and published — laws (Επίσημη Εφημερίδα, Παρ. Ι) (1)
 
-_no items in the window_
+#### [law-125(I)/2026] Ν. 125(I)/2026 — Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) (Αρ. 3) Νόμος του 2026
+- practice areas: Tax (score 2; hits: tax:φορ\w* καταναλωσ)
+- date / event: 17.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. Ι(I), Αρ. 5096
+- link: https://www.cylaw.org/nomoi/arith/2026_1_125.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/5601BC24BB819A11C2258E750053FF80?OpenDocument
+- full text of the act: texts/law-125_I_2026.txt
+- long_title (verbatim): ΝΟΜΟΣ ΠΟΥ ΤΡΟΠΟΠΟΙΕΙ ΤΟΥΣ ΠΕΡΙ ΦΟΡΩΝ ΚΑΤΑΝΑΛΩΣΗΣ ΝΟΜΟΥΣ ΤΟΥ 2004 ΕΩΣ (ΑΡ. 2) ΤΟΥ 2026
+- text of the act (verbatim, opening): 2. Το Πρώτο Παράρτημα του βασικού νόμου τροποποιείται ως ακολούθως:
+
+(α)
+
+Με την αντικατάσταση στο τέλος της ένατης επιφύλαξης εκάστης των κλάσεων 1), 2),
+3) και 4) του σημείου της τελείας με το σημείο της άνω και κάτω τελείας και την
+προσθήκη, αμέσως μετά, της ακόλουθης νέας επιφύλαξης, αντίστοιχα:
+«Νοείται έτι έτι έτι έτι έτι έτι έτι έτι περαιτέρω ότι, από τη 18η Σεπτεμβρίου 2026
+μέχρι και την 30ή Νοεμβρίου 2026 ισχύει ο συντελεστής €359,00 τα 1 000 λίτρα.»· και
+
+(β)
+
+με την αντικατάσταση στο τέλος της ένατης επιφύλαξης εκάστης των κλάσεων 6) και
+10) του σημείου της τελείας με το σημείο της άνω και κάτω τελείας και την προσθήκη,
+αμέσως μετά, της ακόλουθης νέας επιφύλαξης, αντίστοιχα:
+«Νοείται έτι έτι έτι έτι έτι έτι έτι έτι περαιτέρω ότι, από τη 18η Σεπτεμβρίου 2026
+μέχρι και την 30ή Νοεμβρίου 2026 ισχύει ο συντελεστής €330,00 τα 1 000 λίτρα.».
 
 ## A2. Enacted and published — Κ.Δ.Π. (regulations, orders, notices; Παρ. ΙΙΙ(Ι)) (12)
 
@@ -14,6 +37,7 @@ _no items in the window_
 - practice areas: Employment & social insurance (score 2; hits: employment:κοινωνικ\w* εισφορ, tax:~εισφορ)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_329.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-329_2026.txt
 - parent_law (verbatim): ΟΙ ΠΕΡΙ ΡΥΘΜΙΣΗΣ ΛΗΞΙΠΡΟΘΕΣΜΩΝ ΚΟΙΝΩΝΙΚΩΝ ΕΙΣΦΟΡΩΝ ΝΟΜΟΙ ΤΟΥ 2016 ΕΩΣ 2026
 - instrument (verbatim): Γνωστοποίηση δυνάμει του άρθρου 5
@@ -31,19 +55,8 @@ _no items in the window_
 (2) Οποιοσδήποτε άλλος όρος στην παρούσα Γνωστοποίηση, έχει την ερμηνεία που του αποδίδεται στο
 Νόμο.
 
-Ηλεκτρονική
-υποβολή
-αίτησης για
-ένταξη στη
-Ρύθμιση.
-
 3. Οφειλέτης, ο οποίος επιθυμεί να προβεί σε ρύθμιση της οφειλής του υποβάλλει, μέχρι τις 31
 Οκτωβρίου 2026, ηλεκτρονικά την αίτηση.
-
-Τόπος
-Υποβολής
-της
-Αίτησης.
 
 4. Η Αίτηση υποβάλλεται από τον αιτητή, όπως ορίζεται στην παράγραφο 3 της παρούσας Γνωστοποίησης,
 ηλεκτρονικά μέχρι τις 31 Οκτωβρίου 2026.
@@ -59,14 +72,13 @@ _no items in the window_
 - practice areas: Banking, payments & AML (score 2; hits: banking:χρηματοοικονομ)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_333.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-333_2026.txt
 - parent_law (verbatim): Ο ΠΕΡΙ ΠΡΟΣΤΑΣΙΑΣ ΤΟΥ ΚΑΤΑΝΑΛΩΤΗ ΝΟΜΟΣ ΤΟΥ 2021 ΕΩΣ 2026 (Ν. 112(Ι)/2021 ΕΩΣ Ν. 30(Ι)/2026) – ΑΡΘΡΟ 27Δ (2)
 - entry into force (verbatim): Η παρούσα Οδηγία τίθεται σε ισχύ τέσσερις (4) μήνες από την ημερομηνία δημοσίευσής της στην Επίσημη Εφημερίδα της Δημοκρατίας.
 - text of the act (verbatim, opening): 2. Τηρουμένων των διατάξεων του άρθρου 27Δ(5) του Νόμου, η παρούσα Οδηγία εφαρμόζεται σε
 όλους τους εμπορευόμενους που παρέχουν χρηματοοικονομικές υπηρεσίες σε καταναλωτές
 μέσω εξ αποστάσεως συμβάσεων.
-
-Σκοπός.
 
 3. Σκοπός της παρούσας Οδηγίας είναι:
 (α) Η εξειδίκευση των υποχρεώσεων των εμπορευόμενων για την παροχή δωρεάν επαρκών
@@ -82,15 +94,8 @@ _no items in the window_
 
 5.
 
-Γλώσσα των
-εξηγήσεων.
-
 6. Οι εμπορευόμενοι διασφαλίζουν ότι οι επαρκείς εξηγήσεις παρέχονται στην ίδια γλώσσα με εκείνη
 που παρέχονται οι προσυμβατικές πληροφορίες.
-
-Περιεχόμενο
-των
-εξηγήσεων.
 
 7. Οι εξηγήσεις περιλαμβάνουν, κατά περίπτωση, ανάλογα με τη φύση, την πολυπλοκότητα και τον
 βαθμό κινδύνου της χρηματοοικονομικής υπηρεσίας, τουλάχιστον τα ακόλουθα:
@@ -101,12 +106,15 @@ _no items in the window_
 (δ) τους βασικούς κινδύνους και αβεβαιότητες που συνδέονται με τη σύμβαση,
 (ε)
 τις πιθανές συνέπειες για τον καταναλωτή σε περίπτωση μη πληρωμής ή καθυστέρησης,
-(στ) τη λειτουργία και τις επιπτώ
+(στ) τη λειτουργία και τις επιπτώσεις τυχόν δευτερευουσών/παρεπόμενων υπηρεσιών, και
+
+Οι εμπο
 
 #### [kdp-344/2026] Κ.Δ.Π. 344/2026 — Τροποποίηση της Κανονιστικής Απόφασης του Συμβουλίου του Χρηματιστηρίου Αξιών Κύπρου αναφορικά με τις Αγορές του Χρηματιστηρίου που δημοσιεύτηκε στην Επίσημη Εφημερίδα της Δημοκρατίας στις 8.8.2014 (Κ.Δ.Π 379/2014), δυνάμει του περί Αξιών και Χρηματιστηρίου Αξιών Κύπρου Νόμου
 - practice areas: Corporate & M&A (score 2; hits: corporate:χρηματιστηρ)
 - date / event: 18.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6047
 - link: https://www.cylaw.org/KDP/data/2026_1_344.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/9736D46BCBC9A5ECC2258E76001DEEB2?OpenDocument
 - full text of the act: texts/kdp-344_2026.txt
 - parent_law (verbatim): ΟΙ ΠΕΡΙ ΑΞΙΩΝ ΚΑΙ ΧΡΗΜΑΤΙΣΤΗΡΙΟΥ ΑΞΙΩΝ ΚΥΠΡΟΥ ΝΟΜΟΙ ΤΟΥ 1993 ΕΩΣ 2022 ΚΔΠ 379/2014
 - text of the act (verbatim, opening): 1. Με την τροποποίηση της παραγράφου 4.1.2.7 αυτής, ως ακολούθως:
@@ -143,10 +151,24 @@ _no items in the window_
 ………, ………..προνομιούχες μετοχές ονομαστικής αξίας …….
 Εκδομένο μετ
 
+#### [kdp-348/2026] Κ.Δ.Π. 348/2026 — Γνωστοποίηση δυνάμει του άρθρου 20 του περί της Ίδρυσης και Λειτουργίας Εμπορικού Δικαστηρίου και Ναυτοδικείου Νόμου
+- practice areas: Corporate & M&A (score 2; hits: corporate:εμπορικ\w* δικαστηρ)
+- date / event: 18.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6047
+- link: https://www.cylaw.org/KDP/data/2026_1_348.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/9736D46BCBC9A5ECC2258E76001DEEB2?OpenDocument
+- full text of the act: texts/kdp-348_2026.txt
+- parent_law (verbatim): Ο ΠΕΡΙ ΤΗΣ ΙΔΡΥΣΗΣ ΚΑΙ ΛΕΙΤΟΥΡΓΙΑΣ ΕΜΠΟΡΙΚΟΥ ΔΙΚΑΣΤΗΡΙΟΥ ΚΑΙ ΝΑΥΤΟΔΙΚΕΙΟΥ ΝΟΜΟΣ ΤΟΥ 2022 (Ν. 69(I)/2022)
+- instrument (verbatim): Γνωστοποίηση δυνάμει του άρθρου 20
+- text of the act (verbatim, opening): Ο Υπουργός Δικαιοσύνης και Δημοσίας Τάξεως, ασκώντας τις εξουσίες που του παρέχονται δυνάμει των διατάξεων
+του άρθρου 20 του περί της Ίδρυσης και Λειτουργίας Εμπορικού Δικαστηρίου και Ναυτοδικείου Νόμου του 2022
+(Ν. 69(Ι)/2022), κατόπιν συνεννόησης με το Ανώτατο Δικαστήριο, καθορίζει το κτίριο που βρίσκεται στην οδό Χαράλαμπου
+Μούσκου αρ. 4, Τ.Κ. 1102, Λευκωσία, ως τόπο συνεδριάσεων του Ναυτοδικείου, από την 5η Οκτωβρίου 2026.
+
 #### [kdp-328/2026] Κ.Δ.Π. 328/2026 — Το περί Ασφάλειας και Υγείας στην Εργασία (Καθορισμός Τελών για την υποβολή Γνωστοποίησης εγκαταστάσεων υγρών πετρελαιοειδών) Διάταγμα του 2026
 - practice areas: Employment & social insurance, Tax (score 1; hits: tax:~τελ(?:ος|η|ων)\b, employment:~\bεργασ)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_328.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-328_2026.txt
 - instrument (verbatim): Διάταγμα δυνάμει του άρθρου 38Α
 - entry into force (verbatim): Το παρόν Διάταγμα τίθεται σε ισχύ από την 1η Οκτωβρίου 2026.
@@ -162,6 +184,7 @@ _no items in the window_
 - practice areas: Tax (score 1; hits: tax:~τελ(?:ος|η|ων)\b)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_334.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-334_2026.txt
 - parent_law (verbatim): Ο ΠΕΡΙ ΕΠΑΡΧΙΑΚΩΝ ΟΡΓΑΝΙΣΜΩΝ ΑΥΤΟΔΙΟΙΚΗΣΗΣ ΝΟΜΟΣ ΤΟΥ 2022, ΜΕΡΟΣ VII ΟΙ ΠΕΡΙ ΑΠΟΧΕΤΕΥΣΕΩΝ ΠΑΦΟΥ ΚΑΝΟΝΙΣΜΟΙ ΤΟΥ 1999 ΕΩΣ 2019
 - instrument (verbatim): Γνωστοποίηση σύμφωνα με τους Κανονισμούς 32, 33, 35, 36, 38, 39 και 40
@@ -186,6 +209,7 @@ _no items in the window_
 - practice areas: Tax (score 1; hits: tax:~τελ(?:ος|η|ων)\b)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_335.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-335_2026.txt
 - parent_law (verbatim): Ο ΠΕΡΙ ΕΠΑΡΧΙΑΚΩΝ ΟΡΓΑΝΙΣΜΩΝ ΑΥΤΟΔΙΟΙΚΗΣΗΣ ΝΟΜΟΣ ΤΟΥ 2022, ΜΕΡΟΣ VII ΟΙ ΠΕΡΙ ΑΠΟΧΕΤΕΥΣΕΩΝ ΠΑΦΟΥ ΚΑΝΟΝΙΣΜΟΙ ΤΟΥ 1999 ΕΩΣ 2019
 - instrument (verbatim): Γνωστοποίηση σύμφωνα με τους Κανονισμούς 32, 33, 34, 35, 36, 38, 39 και 40
@@ -210,6 +234,7 @@ _no items in the window_
 - practice areas: Tax (score 1; hits: tax:~τελ(?:ος|η|ων)\b)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_336.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-336_2026.txt
 - parent_law (verbatim): Ο ΠΕΡΙ ΕΠΑΡΧΙΑΚΩΝ ΟΡΓΑΝΙΣΜΩΝ ΑΥΤΟΔΙΟΙΚΗΣΗΣ ΝΟΜΟΣ ΤΟΥ 2022, ΜΕΡΟΣ VII ΟΙ ΠΕΡΙ ΑΠΟΧΕΤΕΥΣΕΩΝ ΠΟΛΗΣ ΧΡΥΣΟΧΟΥΣ ΚΑΝΟΝΙΣΜΟΙ ΤΟΥ 2007
 - instrument (verbatim): Γνωστοποίηση σύμφωνα με τους Κανονισμούς 32, και/ή 33, και/ή 35 και/ή 37
@@ -233,6 +258,7 @@ _no items in the window_
 - practice areas: Tax (score 1; hits: tax:~τελ(?:ος|η|ων)\b)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_337.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-337_2026.txt
 - parent_law (verbatim): ΟΙ ΠΕΡΙ ΕΠΑΡΧΙΑΚΩΝ ΟΡΓΑΝΙΣΜΩΝ ΑΥΤΟΔΙΟΙΚΗΣΗΣ ΝΟΜΟΙ ΤΟΥ 2022 ΜΕΧΡΙ (ΑΡ. 3) ΤΟΥ 2025
 - instrument (verbatim): Γνωστοποίηση σύμφωνα με τις παραγράφου 33, 34 και 35 του παρόντος Νόμου
@@ -266,24 +292,64 @@ _no items in the window_
 - practice areas: Tax (score 1; hits: tax:~τελ(?:ος|η|ων)\b)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_338.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-338_2026.txt
 - parent_law (verbatim): ΟΙ ΠΕΡΙ ΕΠΑΡΧΙΑΚΩΝ ΟΡΓΑΝΙΣΜΩΝ ΑΥΤΟΔΙΟΙΚΗΣΗΣ ΝΟΜΟΙ ΤΟΥ 2022 ΜΕΧΡΙ (ΑΡ. 3) ΤΟΥ 2025
 - instrument (verbatim): Γνωστοποίηση σύμφωνα με τις παραγράφου 33, 34 και 35 του παρόντος Νόμου
-- text of the act (verbatim, opening): 2118
+- text of the act (verbatim, opening): για καθορισμό και πληρωμή των ετησίων τελών αποχέτευσης με βάση την κατανάλωση νερού
+Ο Επαρχιακός Οργανισμός Αυτοδιοίκησης Αμμοχώστου, ασκώντας τις εξουσίες που του χορηγούνται από τις
+παραγράφους 33, 34 και 35 του περί Ίδρυσης και Λειτουργίας των Επαρχιακών Οργανισμών Αυτοδιοίκησης Νόμου του
+2022 όπως αυτός έχει τροποποιηθεί, αποφάσισε και καθόρισε για το έτος 2026 τα ακόλουθα τέλη σε σχέση με την επιβολή
+και είσπραξη τελών χρήσης του αποχετευτικού συστήματος:
+(α)
+
+Τέλος χρήσης με βάση την κατανάλωση νερού:
+Τέλος τριάντα τέσσερα σεντ του ευρώ (€0.34) για κάθε κυβικό μέτρο νερού που καταναλώνεται από κάθε κάτοχο
+ή ιδιοκτήτη υποστατικού που εξυπηρετείται ή δύναται να εξυπηρετηθεί από το Σύστημα Αποχετεύσεων του
+Επαρχιακού Οργανισμού Αυτοδιοίκησης Αμμοχώστου σύμφωνα με την ένδειξη του υδρομετρητή. Το τέλος αυτό
+αναγράφεται στους λογαριασμούς υδατοπρομήθειας του Οργανισμού και θα καταβάλλεται στον ίδιο τόπο και χρόνο
+που καταβάλλεται το αντίστοιχο τέλος υδατοπρομήθειας.
+
+(β)
+
+Τέλος χρήσης με βάση την εκκένωση λυμάτων στο σύστημα:
+Τέλος δύο ευρώ (€2) για κάθε κυβικό μέτρο νερού που εκκενώνεται στο κεντρικό αποχετευτικό σύστημα από
+υποστατικά τα οποία προμηθεύονται νερό από άλλες πηγές πέραν της Υδατοπρομήθειας του Επαρχιακού
+Οργανισμού Αυτοδιοίκησης Αμμοχώστου και ή άλλης Αρχής. Το τέλος καταβάλλεται στα Γραφεία του Οργανισμού,
+στον χρόνο που καταγράφεται στον σχετικό λογαριασμό που θα αποστέλλει ο Οργανισμός για τον σκοπό αυτό.
+
+Σε περίπτωση που τα τέλη δεν πληρωθούν κατά τον κα
 
 #### [kdp-339/2026] Κ.Δ.Π. 339/2026 — Γνωστοποίηση σύμφωνα με τις παραγράφους 33, 34 και 35 του παρόντος Νόμου για καθορισμό και πληρωμή των ετησίων τελών Αποχέτευσης Ομβρίων Υδάτων, δυνάμει των Επαρχιακών Οργανισμών Αυτοδιοίκησης Νόμου
 - practice areas: Tax (score 1; hits: tax:~τελ(?:ος|η|ων)\b)
 - date / event: 11.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6045
 - link: https://www.cylaw.org/KDP/data/2026_1_339.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/4A7D42DCE00D6D38C2258E6F001E4045?OpenDocument
 - full text of the act: texts/kdp-339_2026.txt
 - parent_law (verbatim): ΟΙ ΠΕΡΙ ΕΠΑΡΧΙΑΚΩΝ ΟΡΓΑΝΙΣΜΩΝ ΑΥΤΟΔΙΟΙΚΗΣΗΣ ΝΟΜΟΙ ΤΟΥ 2022 ΜΕΧΡΙ (ΑΡ. 3) ΤΟΥ 2025
 - instrument (verbatim): Γνωστοποίηση σύμφωνα με τις παραγράφου 33, 34 και 35 του παρόντος Νόμου
-- text of the act (verbatim, opening): 2119
+- text of the act (verbatim, opening): για καθορισμό και πληρωμή των ετησίων τελών Αποχέτευσης Ομβρίων Υδάτων
+Ο Επαρχιακός Οργανισμός Αυτοδιοίκησης Αμμοχώστου, ασκώντας τις εξουσίες που του χορηγούνται από τις
+παραγράφους 33, 34 και 35 του περί Ίδρυσης και Λειτουργίας των Επαρχιακών Οργανισμών Αυτοδιοίκησης Νόμου του
+2022 όπως αυτός έχει τροποποιηθεί, αποφάσισε και καθόρισε για το έτος 2026 τα ακόλουθα τέλη:
+Τέλος αποχέτευσης ομβρίων υδάτων το οποίο καθορίζεται σε οκτώ σέντ του ευρώ για κάθε χίλια ευρώ (0,08‰) πάνω
+στην αξία γενικής εκτίμησης του ακινήτου για ιδιοκτήτες ή κατόχους ακίνητης ιδιοκτησίας που βρίσκεται στις
+Δημαρχούμενες περιοχές εντός των ορίων του Επαρχιακού Οργανισμού Αυτοδιοίκησης Αμμοχώστου και η οποία
+εξυπηρετείται ήδη ή που θα δύναται να εξυπηρετηθεί από τα συστήματα Αποχέτευσης Ομβρίων Υδάτων του Οργανισμού.
+Η επιβολή φορολογίας καθορίζεται επί της αξίας γενικής εκτίμησης όπως είναι γραμμένη ή καταχωρημένη στα βιβλία
+του Επαρχιακού Κτηματολογικού Γραφείου Αμμοχώστου, μετά από την τελευταία γενική εκτίμηση της ακίνητης ιδιοκτησίας
+που διενεργήθηκε με βάση τις διατάξεις του άρθρου 69 του περί Ακίνητης Ιδιοκτησίας (Διακατοχή, Εγγραφή και Εκτίμηση)
+Νόμου.
+Τα καθορισθέντα πιο πάνω τέλη θα πρέπει να πληρωθούν από κάθε ιδιοκτήτη ή κάτοχο της ακίνητης ιδιοκτησίας μέσω
+της ιστοσελίδας του Οργανισμού www.eoaa.org.cy με πιστωτική κάρτα ή στα Γραφεία του Οργανισμού στη Λεωφόρο
+Πρωταρά 205, 5291 Παραλίμνι μέχρι τις 30 Νοεμβρίου 2026, διαφορετικά θα επιβάλλεται πρόσθετη επιβάρυνση ίση με
+δέκα τοις εκατόν (1
 
 #### [kdp-345/2026] Κ.Δ.Π. 345/2026 — Η περί Ασφάλειας και Υγείας στην Εργασία (Έγκριση Εγκαταστατών Υγραερίου) Γνωστοποίηση του 2026 (Αρ. 2), δυνάμει των περί Ασφάλειας και Υγείας στην Εργασία (Εγκατάσταση, Λειτουργία, Συντήρηση και Έλεγχος Εγκαταστάσεων Υγραερίου) Κανονισμοί του 2021 και 2026
 - practice areas: Employment & social insurance (score 1; hits: employment:~\bεργασ)
 - date / event: 18.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6047
 - link: https://www.cylaw.org/KDP/data/2026_1_345.pdf
+- Gazette issue page: https://www.mof.gov.cy/mof/gpo/gazette.nsf/All/9736D46BCBC9A5ECC2258E76001DEEB2?OpenDocument
 - full text of the act: texts/kdp-345_2026.txt
 - parent_law (verbatim): ΟΙ ΠΕΡΙ ΑΣΦΑΛΕΙΑΣ ΚΑΙ ΥΓΕΙΑΣ ΣΤΗΝ ΕΡΓΑΣΙΑ (ΕΓΚΑΤΑΣΤΑΣΗ, ΛΕΙΤΟΥΡΓΙΑ, ΣΥΝΤΗΡΗΣΗ ΚΑΙ ΕΛΕΓΧΟΣ ΕΓΚΑΤΑΣΤΑΣΕΩΝ ΥΓΡΑΕΡΙΟΥ) ΚΑΝΟΝΙΣΜΟΙ ΤΟΥ 2021 ΚΑΙ 2026
 - instrument (verbatim): Γνωστοποίηση σύμφωνα με τον Κανονισμό 18(1)(δ)
@@ -292,8 +358,6 @@ _no items in the window_
 (Εγκατάσταση, Λειτουργία, Συντήρηση και Έλεγχος Εγκαταστάσεων Υγραερίου) Κανονισμών του
 2021 και 2026, εγκρίνονται ως Εγκαταστάτες Υγραερίου, εγγράφονται στο Μητρώο Εγκαταστατών
 Υγραερίου και χορηγείται σ’ αυτά σχετικό πιστοποιητικό.
-
-Τρίτο (Ι):
 
 3. Με τη δημοσίευση της παρούσας γνωστοποίησης καταργείται η περί Ασφάλειας και Υγείας στην
 Εργασία (Έγκριση Εγκαταστατών Υγραερίου) Γνωστοποίηση του 2026.
@@ -365,15 +429,6 @@ HELLENIC TECHNICAL ENTERPRISES LTD
 
 Y. EMMANUEL ENGINEERING LTD
 
-#### [kdp-348/2026] Κ.Δ.Π. 348/2026 — Γνωστοποίηση δυνάμει του άρθρου 20 του περί της Ίδρυσης και Λειτουργίας Εμπορικού Δικαστηρίου και Ναυτοδικείου Νόμου
-- practice areas: Corporate & M&A (score 1; hits: corporate:~\bεμπορ)
-- date / event: 18.09.2026 — published; source: CyLaw / Επίσημη Εφημερίδα, Παρ. ΙΙΙ(1), Αρ. 6047
-- link: https://www.cylaw.org/KDP/data/2026_1_348.pdf
-- full text of the act: texts/kdp-348_2026.txt
-- parent_law (verbatim): Ο ΠΕΡΙ ΤΗΣ ΙΔΡΥΣΗΣ ΚΑΙ ΛΕΙΤΟΥΡΓΙΑΣ ΕΜΠΟΡΙΚΟΥ ΔΙΚΑΣΤΗΡΙΟΥ ΚΑΙ ΝΑΥΤΟΔΙΚΕΙΟΥ ΝΟΜΟΣ ΤΟΥ 2022 (Ν. 69(I)/2022)
-- instrument (verbatim): Γνωστοποίηση δυνάμει του άρθρου 20
-- text of the act (verbatim, opening): 2160
-
 ## A3. Voted by the plenary (Ολομέλεια), not yet in the Gazette (0)
 
 _no items in the window_
@@ -386,7 +441,7 @@ _no items in the window_
 
 _no items in the window_
 
-## C. Regulators and departments (27)
+## C. Regulators and departments (14)
 
 #### [govcy-129177] Ενίσχυση του συστήματος ανάκτησης και διαχείρισης παράνομων εσόδων
 - practice areas: Banking, payments & AML (score 2; hits: banking:body:οδηγι)
@@ -442,19 +497,6 @@ _no items in the window_
 
 (ΑΝ/ΕΑθ)
 
-#### [govcy-129536] Πρόεδρος της Δημοκρατίας: Όλα προχωρούν προς την κατεύθυνση υλοποίησης του έργου της ηλεκτρικής διασύνδεσης
-- practice areas: Corporate & M&A (score 2; hits: corporate:body:\bεταιρει)
-- date / event: 10.09.2026 — announced; source: gov.cy — Ενέργεια, Εμπόριο και Βιομηχανία
-- link: https://www.gov.cy/proedros-proedria/proedros-tis-dimokratias-ola-prochoroun-pros-tin-katefthynsi-ylopoiisis-tou-ergou-tis-ilektrikis-diasyndesis/
-- excerpt (verbatim): Ειδικότερα μετά τη συμμετοχή της γαλλικής εταιρείας, όλα προχωρούν προς την κατεύθυνση υλοποίησης του έργου της ηλεκτρικής διασύνδεσης, είπε απόψε, 10 Σεπτεμβρίου 2026, ο Πρόεδρος της Δημοκρατίας κ. Νίκος Χριστοδουλίδης.…
-- body (verbatim): Ειδικότερα μετά τη συμμετοχή της γαλλικής εταιρείας, όλα προχωρούν προς την κατεύθυνση υλοποίησης του έργου της ηλεκτρικής διασύνδεσης, είπε απόψε, 10 Σεπτεμβρίου 2026, ο Πρόεδρος της Δημοκρατίας κ. Νίκος Χριστοδουλίδης.
-
-
-Σε δηλώσεις του στους δημοσιογράφους, προσερχόμενος σε εκδήλωση του Δήμου Αθηένου, και ερωτηθείς τι προκύπτει από τη συνάντηση του Γάλλου Προέδρου κ. Emmanuel Macron με τον Έλληνα Πρωθυπουργό κ. Κυριάκο Μητσοτάκη σε σχέση με το θέμα της ηλεκτρικής διασύνδεσης, ο Πρόεδρος της Δημοκρατίας είπε: «Είμαστε σε επαφή, το Διπλωματικό μου Γραφείο με τη γαλλική Πρεσβεία στη Λευκωσία συγκεκριμένα, και θεωρούμε στη βάση της ενημέρωσης που έχουμε από τη Γαλλική Κυβέρνηση, αλλά και από τη συνομιλία που είχα με τον Έλληνα Πρωθυπουργό, ότι όλα, ειδικότερα μετά τη συμμετοχή της γαλλικής εταιρείας, προχωρούν προς την κατεύθυνση υλοποίησης του έργου.»
-
-
-(ΡΜ/ΓΣ)
-
 #### [govcy-129638] Ανακοίνωση της Υπηρεσίας Κοινωνικών Ασφαλίσεων αναφορικά με την παράταση για τη ρύθμιση Ληξιπρόθεσμων Κοινωνικών Εισφορών
 - practice areas: Employment & social insurance (score 2; hits: employment:κοινωνικ\w* ασφαλισ, tax:~εισφορ)
 - date / event: 11.09.2026 — announced; source: Υπηρεσίες Κοινωνικών Ασφαλίσεων
@@ -509,442 +551,6 @@ _no items in the window_
 
 (ΓΣ/NZ)
 
-#### [govcy-129689] Κρατικοί Υπάλληλοι κατά Κατηγορία: Αύγουστος 2026
-- practice areas: Employment & social insurance (score 2; hits: employment:body:\bαπασχολησ)
-- date / event: 11.09.2026 — announced; source: gov.cy — Οικονομία
-- link: https://www.gov.cy/oikonomia/kratikoi-ypalliloi-kata-katigoria-avgoustos-2026/
-- excerpt (verbatim): Συνολική Απασχόληση: 53.080 Οι Κρατικοί Υπάλληλοι τον Αύγουστο του 2026 ανήλθαν στα 53.080 άτομα, σημειώνοντας αύξηση κατά 419 άτομα (0,8%) σε σύγκριση με τον αντίστοιχο μήνα του 2025. Η απασχόληση…
-- body (verbatim): Συνολική Απασχόληση: 53.080
-
-
-Οι Κρατικοί Υπάλληλοι τον Αύγουστο του 2026 ανήλθαν στα 53.080 άτομα, σημειώνοντας αύξηση κατά 419 άτομα (0,8%) σε σύγκριση με τον αντίστοιχο μήνα του 2025. Η απασχόληση στη Δημόσια Υπηρεσία μειώθηκε κατά 1,0%, ενώ στην Εκπαιδευτική Υπηρεσία και στις Δυνάμεις Ασφαλείας σημειώθηκε αύξηση 2,2% και στις δύο κατηγορίες.
-
-
-Στο σύνολο των Κρατικών Υπαλλήλων, η μεγαλύτερη αύξηση (3,0%) παρατηρείται στους Εργοδοτούμενους Αορίστου Χρόνου (ΕΑΧ) σε σύγκριση με τον Αύγουστο του 2025, ενώ μικρή μείωση (-0,1%) παρατηρείται στο Ωρομίσθιο Προσωπικό. Στις επιμέρους κατηγορίες προσωπικού ανά Υπηρεσία, η μεγαλύτερη ποσοστιαία αύξηση παρουσιάζεται στους ΕΑΧ της Εκπαιδευτικής Υπηρεσίας (26,0%) και η μεγαλύτερη ποσοστιαία μείωση στους Εργοδοτούμενους Ορισμένου Χρόνου (EOX) των Δυνάμεων Ασφαλείας (-96,6%).
-
-
-Σημειώνεται ότι η μεγάλη μείωση που παρατηρείται στους ΕΟΧ των Δυνάμεων Ασφαλείας (-96,6%) οφείλεται κατά κύριο λόγο στην ολοκλήρωση και μη επέκταση συγκεκριμένων συμβάσεων ορισμένου χρόνου από τον Αύγουστο του 2025.
-
-
-Για την περίοδο Ιανουαρίου-Αυγούστου 2026 ο μέσος όρος των Κρατικών Υπαλλήλων αυξήθηκε κατά 0,4% σε σύγκριση με την αντίστοιχη περίοδο του 2025.
-
-
-
-
-Πίνακας
- 
- 
- 
- 
- 
-Κατηγορία Προσωπικού
-Αριθμός Ατόμων
-Μεταβολές (%)
-Αυγ
- 
-2025
-Αυγ
- 
-2026
- 
- 
-Αυγ 26/
- 
-Αυγ 25
- 
- 
-Ιαν 
-–
- Αυγ 26/
- 
-Ιαν – Αυγ 25
-Δημόσια
- 
-Υπηρεσία
-Σύνολο
-23.108
-22.872
--1,0
--1,0
-Μόνιμοι
-11.894
-11.841
--0,4
--0,5
-Εργοδοτούμενοι Αορίστου Χρόνου (ΕΑΧ)
-4.108
-3.989
--2,9
--2,9
-Εργοδοτούμενοι Ορισμένου Χρόνου (ΕΟΧ)
-1.300
-1.352
-4,0
-2,3
-Ωρομίσθιο Προσωπικό
-5.806
-5.690
--2,0
--1,4
-Εκπαιδευτική Υπηρεσία
-Σύνολο
-15.948
-16.301
-2,2
-2,1
-Μόνιμοι
-12.465
-12.444
--0,2
--0,2
-Εργοδοτούμενοι Αορίστου Χρόνου (ΕΑΧ)
-920
-1.159
-26,0
-25,1
-Εργοδοτούμενοι Ορισμένου Χρόνου (ΕΟΧ)
-2.423
-2.552
-5,3
-3,8
-Ωρομίσθιο Προσωπικό
-140
-146
-4,3
-2,5
-Δυνάμεις Ασφαλείας
-Σύνολο
-13.605
-13.907
-2,2
-0,3
-Μόνιμοι
-8.494
-8.622
-1,5
-1,7
-Εργοδοτούμενοι Αορίστου Χρόνου (ΕΑΧ)
-4.275
-4.433
-3,7
-1,3
-Εργοδοτούμενοι Ορισμένου Χρόνου (ΕΟΧ)
-87
-3
--96,6
--90,6
-Ωρομίσθιο Προσωπικό
-749
-849
-13,4
-8,7
-Σύνολο
-Σύνολο
-52.661
-53.080
-0,8
-0,4
- 
-Μόνιμοι
-32.853
-32.907
-0,2
-0,2
- 
-Εργοδοτούμενοι Αορίστου Χρόνου (ΕΑΧ)
-9.303
-9.581
-3,0
-1,8
-Εργοδοτούμενοι Ορισμένου Χρόνου (ΕΟΧ)
-3.810
-3.907
-2,5
--0,6
-Ωρομίσθιο Προσωπικό
-6.695
-6.685
--0,1
--0,2
-
-
-Μεθοδολογικές Πληροφορίες
-
-
-Κάλυψη Στοιχείων
-
-
-Στους Κρατικούς Υπαλλήλους περιλαμβάνονται: η Δημόσια Υπηρεσία, η Εκπαιδευτική Υπηρεσία και οι Δυνάμεις Ασφαλείας. Στη Δημόσια Υπηρεσία περιλαμβάνονται οι υπάλληλοι των Υπουργείων, Τ
-
-#### [cbc-imir-ref-month-july-2026-14-09-2026] Στοιχεία επιτοκίων για καταθέσεις και δάνεια για κάθε πιστωτικό ίδρυμα με μήνα αναφοράς Ιούλιο 2026
-- practice areas: Banking, payments & AML (score 2; hits: banking:πιστωτικ\w* ιδρυμ)
-- date / event: 14.09.2026 — announced; source: Central Bank of Cyprus
-- link: https://www.centralbank.cy/en/announcements/imir-ref-month-july-2026-14-09-2026
-- body (verbatim): ×
-Cookie Settings
-											Your privacy
-											Necessary (8)
-											Functional (4)
-											Targeting and Advertising (20)
-											Marketing (1)
-											Statistics (2)
-											Cookie Policy 
-Your privacy
-We use cookies to ensure that you have the best possible experience as a visitor to our website. Please set your cookie preferences before proceeding.
-Necessary 
-Always active
-These cookies are strictly necessary to allow you to traffic to the website and to provide you with certain features that you have requested. Your consent is not required for the use of these cookies.
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-ASP.NET_SessionId
-www.centralbank.cy
-Session
-First party
-CFID
-www.centralbank.cy
-1 day
-First party
-CFTOKEN
-www.centralbank.cy
-1 day
-First party
-S
-www.google.com
-Session
-Third party
-SEARCH_SAMESITE
-www.google.com
-6 months
-Third party
-SIDCC
-www.google.com
-1 year
-Third party
-__RequestVerificationToken
-www.centralbank.cy
-Session
-First party
-cf_clearance
-www.centralbank.cy
-1 year
-Third party
-Functional 
-These cookies ensure that the website stores your selections (eg your username, language and location) and offers enhanced and personalized features.
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-AEC
-www.google.com
-6 months
-Third party
-SOCS
-www.google.com
-13 months
-Third party
-__Secure-BUCKET
-www.google.com
-1 year
-Third party
-__Secure-ENID
-www.google.com
-13 months
-Third party
-Targeting and Advertising 
-These cookies collect information about how you use the website. These cookies do not collect information that could identify you. All data collected by these cookies is collective and therefore anonymous
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-ADS_VISITOR_ID
-www.google.com
-2 years
-Third party
-APISID
-www.google.com
-2 years
-Third party
-DV
-www.google.com
-1 day
-Third party
-HSID
-www.google.com
-2 years
-Third party
-NID
-www.google.com
-6 months
-Third party
-SAPISID
-www.google.com
-2 years
-Third party
-SID
-www.google.com
-2 years
-Third party
-SSID
-www.google.com
-2 years
-Third party
-__Secure-1PAPISID
-www.google.com
-2 years
-Third party
-__Secure-1PSID
-www.google.com
-2 years
-Third party
-__Secure-1PSIDCC
-www.google.com
-1 year
-Third party
-__Secure-1PSIDTS
-www.google.com
-2 years
-Third party
-__Secure-3PAPISID
-www.google.com
-2 years
-Third party
-__Secure-3PSID
-www.google.com
-2 years
-Third party
-__Secure-3PSIDCC
-www.google.com
-1 year
-Third party
-__Secure-3PSIDTS
-www.google.com
-2 years
-Third party
-_ce
-
-#### [govcy-129995] Απασχόληση στον Ευρύ Δημόσιο Τομέα: 2ο Τρίμηνο 2026
-- practice areas: Employment & social insurance (score 2; hits: employment:\bαπασχολησ)
-- date / event: 14.09.2026 — announced; source: gov.cy — Οικονομία
-- link: https://www.gov.cy/oikonomia/apascholisi-ston-evry-dimosio-tomea-2o-trimino-2026/
-- excerpt (verbatim): Σύνολο Εργαζομένων 78.433 Η απασχόληση στον Ευρύ Δημόσιο Τομέα κατά το 2ο τρίμηνο του 2026 ανήλθε στα 78.433 άτομα, παρουσιάζοντας αύξηση κατά 1.119 άτομα ή 1,4% σε σύγκριση με το…
-- body (verbatim): Σύνολο Εργαζομένων 
-78.
-433
-
-
-Η απασχόληση στον Ευρύ Δημόσιο Τομέα κατά το 2ο τρίμηνο του 2026 ανήλθε στα 78.433 άτομα, παρουσιάζοντας αύξηση κατά 1.119 άτομα ή 1,4% σε σύγκριση με το αντίστοιχο τρίμηνο του 2025.
-
-
-Από το σύνολο των εργαζομένων, 73.284 απασχολούνταν στη Γενική Κυβέρνηση και 5.149 σε Εταιρείες και Επιχειρήσεις Ελεγχόμενες από την Κυβέρνηση. Ειδικότερα, στη Γενική Κυβέρνηση καταγράφηκαν 55.372 Κρατικοί Υπάλληλοι, 11.314 εργαζόμενοι σε Μη Κερδοσκοπικούς Οργανισμούς και 6.598 εργαζόμενοι στις Τοπικές Αρχές.
-
-
-
-
-Συγκριτικά με το αντίστοιχο τρίμηνο του 2025, η απασχόληση στη Γενική Κυβέρνηση αυξήθηκε κατά 1.009 άτομα (1,4%), με αύξηση κατά 293 άτομα (0,4%) στην Κεντρική Κυβέρνηση και κατά 716 άτομα (12,2%) στις Τοπικές Αρχές. Η αύξηση στην απασχόληση των Τοπικών Αρχών οφείλεται κατά κύριον λόγο στους Επαρχιακούς Οργανισμούς Αυτοδιοίκησης (ΕΟΑ), όπου η απασχόληση ενισχύθηκε κατά 416 άτομα (39,1%). Στις Εταιρείες και Επιχειρήσεις Ελεγχόμενες από την Κυβέρνηση καταγράφηκε αύξηση κατά 110 άτομα (2,2%).
-
-
-Συγκριτικά με το 1ο τρίμηνο του 2026, η απασχόληση στον Ευρύ Δημόσιο Τομέα αυξήθηκε κατά 45 άτομα (0,1%). Η απασχόληση στη Γενική Κυβέρνηση παρουσίασε αύξηση κατά 48 άτομα (0,1%), με μείωση απασχόλησης στην Κεντρική Κυβέρνηση κατά 144 άτομα (-0,2%) και αύξηση απασχόλησης στις Τοπικές Αρχές κατά 192 άτομα (3,0%). Στις Εταιρείες και Επιχειρήσεις Ελεγχόμενες από την Κυβέρνηση παρατηρήθηκε μείωση κατά 3 άτομα (-0,1%).
-
-
-Πίνακας
- 
-Αριθμός
- 
-Ατόμων
-% Μεταβολή
- 
-Τ2 2025
-Τ1 2026
-Τ2 2026
-Τ2
- 
-2026/ Τ1 2026
-Τ2
- 
-2026
-/
-2025
-Γενική Κυβέρνηση
-72.275
-73.236
-73.284
-0,1
-1,4
-Κεντρική Κυβέρνηση
-66.393
-66.830
-66.686
--0,2
-0,4
-Κρατικοί Υπάλληλοι
-55.208
-55.354
-55.372
-0,0
-0,3
-Μη Κερδοσκοπικοί Οργανισμοί
-11.185
-11.476
-11.314
--1,4
-1,2
-Τοπικές Αρχές
-5.882
-6.406
-6.598
-3,0
-12,2
-Επαρχιακοί Οργανισμοί Αυτοδιοίκησης
-1.063
-1.439
-1.479
-2,8
-39,1
-Δημαρχεία
-3.759
-3.907
-4.049
-3,6
-7,7
-Άλλες Τοπικές Αρχές
-1.060
-1.060
-1.070
-0,9
-0,9
-Εταιρείες και Επιχειρήσεις Ελεγχόμενες από την Κυβέρνηση
-5.039
-5.152
-5.149
--0,1
-2,2
-Ευρύς Δημόσιος Τομέας
-77.314
-78.388
-78.433
-0,1
-1,4
-
-
-Μεθοδολογικές Πληροφορίες
-
-
-Κάλυψη Στοιχείων
-
-
-Η απασχόληση στον Ευρύ Δημόσιο Τομέα περιλαμβάνει την απασχόληση στη Γενική Κυβέρνηση και στις Εταιρείες και Επιχειρήσεις Ελεγχόμενες από την Κυβέρνηση.
-
-
-Η Γενική Κυβέρνηση περιλαμβάνει την Κεντρική Κυβέρνηση και τις Τοπικές Αρχές
-
-
-Η Κεντρική Κυβέρνηση περιλαμβάνει τους Κρατικούς Υπαλλήλους και τους Μη Κερδοσκοπικούς Οργανισμούς. Στους Κρατικούς Υπαλλήλους περιλαμβάνονται οι υπ
-
 #### [govcy-129862] Οδηγία για την παροχή επαρκών εξηγήσεων κατά τη σύναψη εξ’ αποστάσεως συμβάσεων χρηματοοικονομικών υπηρεσιών με καταναλωτές
 - practice areas: Banking, payments & AML (score 2; hits: banking:χρηματοοικονομ)
 - date / event: 14.09.2026 — announced; source: gov.cy — Ενέργεια, Εμπόριο και Βιομηχανία
@@ -975,23 +581,6 @@ _ce
 
 
 (ΕΑθ/ΚΑ)
-
-#### [govcy-130096] O Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων κ. Μαρίνος Μουσιούττας εκπροσώπησε την Κυπριακή Δημοκρατία στον Διεθνή Οργανισμό Ατομικής Ενέργειας (ΔΟΑΕ) στη Βιέννη
-- practice areas: Employment & social insurance (score 2; hits: employment:κοινωνικ\w* ασφαλισ)
-- date / event: 15.09.2026 — announced; source: Υπηρεσίες Κοινωνικών Ασφαλίσεων
-- link: https://www.gov.cy/ergasia-kai-koinonikes-asfaliseis/o-ypourgos-ergasias-kai-koinonikon-asfaliseon-k-marinos-mousiouttas-ekprosopise-tin-kypriaki-dimokratia-ston-diethni-organismo-atomikis-energeias-doae-sti-vienni/
-- department: Υπηρεσίες Κοινωνικών Ασφαλίσεων
-- excerpt (verbatim): Ο Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων κ. Μαρίνος Μουσιούττας εκπροσώπησε την Κυπριακή Δημοκρατία στη Γενική Διάσκεψη του Διεθνούς Οργανισμού Ατομικής Ενέργειας (ΔΟΑΕ). Στο επίκεντρο των εργασιών της Διάσκεψης βρέθηκε η…
-- body (verbatim): Ο Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων κ. Μαρίνος Μουσιούττας εκπροσώπησε την Κυπριακή Δημοκρατία στη Γενική Διάσκεψη του Διεθνούς Οργανισμού Ατομικής Ενέργειας (ΔΟΑΕ).
-
-
-Στο επίκεντρο των εργασιών της Διάσκεψης βρέθηκε η ενίσχυση της διεθνούς πυρηνικής ασφάλειας και ασφάλειας των πυρηνικών υλικών, η προώθηση της μη διάδοσης των πυρηνικών όπλων και η εφαρμογή των διεθνών συμφωνιών διασφαλίσεων, καθώς και η αξιοποίηση της πυρηνικής επιστήμης και τεχνολογίας για ειρηνικούς σκοπούς. Παράλληλα, συζητήθηκαν ζητήματα διεθνούς και περιφερειακού ενδιαφέροντος που άπτονται της πυρηνικής ασφάλειας, της ετοιμότητας και αντιμετώπισης πυρηνικών και ραδιολογικών συμβάντων, καθώς και της ενίσχυσης της διεθνούς και περιφερειακής συνεργασίας. Η Κυπριακή Δημοκρατία αποδίδει ιδιαίτερη σημασία στα ζητήματα πυρηνικής ασφάλειας στην ευρύτερη περιοχή της Ανατολικής Μεσογείου, δεδομένης και της γεωγραφικής της εγγύτητας με πυρηνικές εγκαταστάσεις της περιοχής.
-
-
-Στο πλαίσιο της Διάσκεψης, ο Υπουργός πραγματοποίησε συνάντηση με τον Γενικό Διευθυντή του ΔΟΑΕ κ. Rafael Mariano Grossi και υπέγραψε εκ μέρους της Κυπριακής Δημοκρατίας Μνημόνιο Συνεργασίας στον τομέα της πυρηνικής προστασίας. Στο επίκεντρο της συνάντησης βρέθηκε επίσης η περαιτέρω ενίσχυση της συνεργασίας μεταξύ της Κυπριακής Δημοκρατίας και του Διεθνούς Οργανισμού Ατομικής Ενέργειας (ΔΟΑΕ), με ιδιαίτερη έμφαση στην αξιοποίηση των δυνατοτήτων του CYCLOPS («Cyprus Center for Land, Open-seas and Port Security») στην Κύπρο ως περιφερειακού εκπαιδευτικού κέντρου του Οργανισμού. Ο Υπουργός υπογράμμισε τη σημασία της στενότερης συνεργασίας με τον ΔΟΑΕ και της περαιτέρω ανάδειξης της Κύπρου ως κόμβου εκπαίδευσης και τεχνογνωσίας στην περιοχή. Παράλληλα, συζητήθηκε η επιτάχυνση των διαδικασιών που εκκρεμούν για την ολοκλήρωση των υποδομών που προορίζονται για τη λειτουργία εργαστηρίου στείρωσης αρσενικών κουνουπιών, έργο το οποίο ο ΔΟΑΕ προωθεί σε συνεργασία με τις αρμόδιες κυπριακές Αρχές, με σκοπό τον έλεγχο της μετάδοσης μολυσματικών ασθενειών. Όπως τόνισε ο Υπουργός, «το Μνημόνιο αποτελεί αξιόπιστο πλαίσιο ως προς τη συνεργασία των δύο πλευρών, στον τομέα της πυρηνικής προστασίας».
-
-
-(ΝΖ/ΓΣ)
 
 #### [govcy-130113] Ανακοίνωση προς οικονομικούς φορείς – Υποχρεωτική μετάβαση των υπηρεσιών UCCB2G από το MessageGateway στο CYConnect
 - practice areas: Tax (score 2; hits: tax:body:τελωνει)
@@ -1173,308 +762,6 @@ English
 νομικού προσώπου,
  του οποίου ο κύκλος εργασιών ή τα περιουσιακά στοιχεία υπερβαίνουν το ποσό του ενός εκατομμυρίου ευρώ (€1.000.000) σε χρηματική επιβάρυνση ύψους πεντακοσίων ευρώ (€500) και σε κάθε άλλη περίπτωση νομικού προσώπου σε χρηματική επιβάρυνση ύψους διακοσίων πενήντα ευρώ (€250).
 
-#### [cbc-npls-30-june-2026-17-09-2026] Aggregate Cyprus banking sector data (non-performing loans data) with reference date 30 June 2026
-- practice areas: Banking, payments & AML (score 2; hits: banking:\bbank)
-- date / event: 17.09.2026 — announced; source: Central Bank of Cyprus
-- link: https://www.centralbank.cy/en/announcements/npls-30-june-2026-17-09-2026
-- body (verbatim): ×
-Cookie Settings
-											Your privacy
-											Necessary (8)
-											Functional (4)
-											Targeting and Advertising (20)
-											Marketing (1)
-											Statistics (2)
-											Cookie Policy 
-Your privacy
-We use cookies to ensure that you have the best possible experience as a visitor to our website. Please set your cookie preferences before proceeding.
-Necessary 
-Always active
-These cookies are strictly necessary to allow you to traffic to the website and to provide you with certain features that you have requested. Your consent is not required for the use of these cookies.
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-ASP.NET_SessionId
-www.centralbank.cy
-Session
-First party
-CFID
-www.centralbank.cy
-1 day
-First party
-CFTOKEN
-www.centralbank.cy
-1 day
-First party
-S
-www.google.com
-Session
-Third party
-SEARCH_SAMESITE
-www.google.com
-6 months
-Third party
-SIDCC
-www.google.com
-1 year
-Third party
-__RequestVerificationToken
-www.centralbank.cy
-Session
-First party
-cf_clearance
-www.centralbank.cy
-1 year
-Third party
-Functional 
-These cookies ensure that the website stores your selections (eg your username, language and location) and offers enhanced and personalized features.
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-AEC
-www.google.com
-6 months
-Third party
-SOCS
-www.google.com
-13 months
-Third party
-__Secure-BUCKET
-www.google.com
-1 year
-Third party
-__Secure-ENID
-www.google.com
-13 months
-Third party
-Targeting and Advertising 
-These cookies collect information about how you use the website. These cookies do not collect information that could identify you. All data collected by these cookies is collective and therefore anonymous
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-ADS_VISITOR_ID
-www.google.com
-2 years
-Third party
-APISID
-www.google.com
-2 years
-Third party
-DV
-www.google.com
-1 day
-Third party
-HSID
-www.google.com
-2 years
-Third party
-NID
-www.google.com
-6 months
-Third party
-SAPISID
-www.google.com
-2 years
-Third party
-SID
-www.google.com
-2 years
-Third party
-SSID
-www.google.com
-2 years
-Third party
-__Secure-1PAPISID
-www.google.com
-2 years
-Third party
-__Secure-1PSID
-www.google.com
-2 years
-Third party
-__Secure-1PSIDCC
-www.google.com
-1 year
-Third party
-__Secure-1PSIDTS
-www.google.com
-2 years
-Third party
-__Secure-3PAPISID
-www.google.com
-2 years
-Third party
-__Secure-3PSID
-www.google.com
-2 years
-Third party
-__Secure-3PSIDCC
-www.google.com
-1 year
-Third party
-__Secure-3PSIDTS
-www.google.com
-2 years
-Third party
-_ce
-
-#### [cbc-bank-holiday-17-09-2026] Bank holiday
-- practice areas: Banking, payments & AML (score 2; hits: banking:\bbank)
-- date / event: 17.09.2026 — announced; source: Central Bank of Cyprus
-- link: https://www.centralbank.cy/en/announcements/bank-holiday-17-09-2026
-- body (verbatim): ×
-Cookie Settings
-											Your privacy
-											Necessary (8)
-											Functional (4)
-											Targeting and Advertising (20)
-											Marketing (1)
-											Statistics (2)
-											Cookie Policy 
-Your privacy
-We use cookies to ensure that you have the best possible experience as a visitor to our website. Please set your cookie preferences before proceeding.
-Necessary 
-Always active
-These cookies are strictly necessary to allow you to traffic to the website and to provide you with certain features that you have requested. Your consent is not required for the use of these cookies.
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-ASP.NET_SessionId
-www.centralbank.cy
-Session
-First party
-CFID
-www.centralbank.cy
-1 day
-First party
-CFTOKEN
-www.centralbank.cy
-1 day
-First party
-S
-www.google.com
-Session
-Third party
-SEARCH_SAMESITE
-www.google.com
-6 months
-Third party
-SIDCC
-www.google.com
-1 year
-Third party
-__RequestVerificationToken
-www.centralbank.cy
-Session
-First party
-cf_clearance
-www.centralbank.cy
-1 year
-Third party
-Functional 
-These cookies ensure that the website stores your selections (eg your username, language and location) and offers enhanced and personalized features.
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-AEC
-www.google.com
-6 months
-Third party
-SOCS
-www.google.com
-13 months
-Third party
-__Secure-BUCKET
-www.google.com
-1 year
-Third party
-__Secure-ENID
-www.google.com
-13 months
-Third party
-Targeting and Advertising 
-These cookies collect information about how you use the website. These cookies do not collect information that could identify you. All data collected by these cookies is collective and therefore anonymous
-Cookies used
-Cookie Name
-Used by
-Expiration
-First/third party
-ADS_VISITOR_ID
-www.google.com
-2 years
-Third party
-APISID
-www.google.com
-2 years
-Third party
-DV
-www.google.com
-1 day
-Third party
-HSID
-www.google.com
-2 years
-Third party
-NID
-www.google.com
-6 months
-Third party
-SAPISID
-www.google.com
-2 years
-Third party
-SID
-www.google.com
-2 years
-Third party
-SSID
-www.google.com
-2 years
-Third party
-__Secure-1PAPISID
-www.google.com
-2 years
-Third party
-__Secure-1PSID
-www.google.com
-2 years
-Third party
-__Secure-1PSIDCC
-www.google.com
-1 year
-Third party
-__Secure-1PSIDTS
-www.google.com
-2 years
-Third party
-__Secure-3PAPISID
-www.google.com
-2 years
-Third party
-__Secure-3PSID
-www.google.com
-2 years
-Third party
-__Secure-3PSIDCC
-www.google.com
-1 year
-Third party
-__Secure-3PSIDTS
-www.google.com
-2 years
-Third party
-_ce
-
 #### [govcy-130361] Κατάργηση Oδηγού «Cyprus Administrative Service Providers (ASPs) Are They FIs under FATCA and CRS (June 2017)»
 - practice areas: Tax (score 2; hits: tax:body:φορολογ)
 - date / event: 17.09.2026 — announced; source: gov.cy — Οικονομία
@@ -1533,29 +820,6 @@ For example, in certain instances, a professional accounting or law firm sets up
 
 Δεν εφαρμόζεται (α) σε διατηρητέες οικοδομές και Περιοχές Ειδικού Χαρακτήρα, (β) σε περιπτώσεις οικιστικών διαμερισμάτων σε υφιστάμενες πολυκατοικίες και σε κατοικίες μέρος υφιστάμενων ενιαίων οικιστικών αναπτύξεων, (γ) σε τεμάχια που εμπίπτουν σε περιοχές εκτός Ορίου Ανάπτυξης, (δ) σε τεμάχια/οικόπεδα που εμπίπτουν σε Τουριστικές Ζώνες, (ε) σε περιβαλλοντικά ευαίσθητες περιοχές, προστατευόμενα τοπία, περιοχές προστασίας της φύσης και Ελεγχόμενες Περιοχές βάσει του περί Αρχαιοτήτων Νόμου και (στ) για τη νομιμοποίηση αυθαίρετων κατασκευών που υφίστανται κατά την ημε
 
-#### [govcy-130455] Παρέμβαση του Υπουργού Εργασίας και Κοινωνικών Ασφαλίσεων στο Ετήσιο Φόρουμ του Παγκόσμιου Συνασπισμού για την Κοινωνική Δικαιοσύνη
-- practice areas: Employment & social insurance, Tax (score 2; hits: tax:\bφορο, employment:κοινωνικ\w* ασφαλισ)
-- date / event: 17.09.2026 — announced; source: Υπηρεσίες Κοινωνικών Ασφαλίσεων
-- link: https://www.gov.cy/ergasia-kai-koinonikes-asfaliseis/paremvasi-tou-ypourgou-ergasias-kai-koinonikon-asfaliseon-sto-etisio-foroum-tou-pagkosmiou-synaspismou-gia-tin-koinoniki-dikaiosyni/
-- department: Υπηρεσίες Κοινωνικών Ασφαλίσεων
-- excerpt (verbatim): Τη σταθερή προσήλωση της Κύπρου στην προώθηση της κοινωνικής δικαιοσύνης και στη μετατροπή των διεθνών δεσμεύσεων σε συγκεκριμένες πολιτικές και δράσεις ανέδειξε ο Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων κ. Μαρίνος…
-- body (verbatim): Τη σταθερή προσήλωση της Κύπρου στην προώθηση της κοινωνικής δικαιοσύνης και στη μετατροπή των διεθνών δεσμεύσεων σε συγκεκριμένες πολιτικές και δράσεις ανέδειξε ο Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων κ. Μαρίνος Μουσιούττας, κατά την παρέμβασή του στο Ετήσιο Φόρουμ του Παγκόσμιου Συνασπισμού για την Κοινωνική Δικαιοσύνη του Διεθνούς Οργανισμού Εργασίας, που πραγματοποιήθηκε στις 16 και 17 Σεπτεμβρίου 2026.
-
-
-Ο Υπουργός υπογράμμισε ότι η κοινωνική δικαιοσύνη δεν πρέπει να παραμένει απλώς μια επιδίωξη ή διεθνής δέσμευση, αλλά να ενσωματώνεται ουσιαστικά στον σχεδιασμό πολιτικών και στη διαδικασία λήψης αποφάσεων, με απτό αντίκτυπο στη ζωή των πολιτών.
-
-
-Στο πλαίσιο αυτό, παρουσίασε τη βασική συνεισφορά της Κύπρου στον Παγκόσμιο Συνασπισμό, η οποία αφορά την ανάπτυξη εκπαιδευτικής δράσης για υπεύθυνους χάραξης πολιτικής, με στόχο την ενίσχυση της ικανότητάς τους να ενσωματώνουν συστηματικά τη διάσταση της κοινωνικής δικαιοσύνης στον σχεδιασμό και τη λήψη πολιτικών αποφάσεων. Η πρωτοβουλία στηρίζεται στις αρχές της Διακήρυξης της Φιλαδέλφειας του 1944, με στόχο τη μεταφορά των θεμελιωδών αρχών της κοινωνικής δικαιοσύνης στην πρακτική άσκηση δημόσιας πολιτικής.
-
-
-Η πρώτη εκπαιδευτική δράση πραγματοποιήθηκε στις 8 Μαΐου 2026, υπό την αιγίδα του Υπουργείου Εργασίας και Κοινωνικών Ασφαλίσεων, με τη συμμετοχή κοινωνικών εταίρων, εκπροσώπων των τοπικών αρχών και Επιτρόπων. Αξιοποιώντας την εμπειρία αυτή, η Κύπρος προτίθεται να συνεχίσει και να διευρύνει την πρωτοβουλία με νέα εκπαιδευτική δράση το 2027, η οποία θα απευθύνεται σε πρόσθετες ομάδες-στόχους.
-
-
-Ο κ. Μουσιούττας τόνισε παράλληλα ότι η κοινωνική δικαιοσύνη δεν μπορεί να επιτευχθεί αποκλειστικά μέσα από τις πολιτικές απασχόλησης και κοινωνικής προστασίας, αλλά απαιτεί οριζόντια προσέγγιση, συνοχή μεταξύ των πολιτικών και ουσιαστική συμμετοχή των κοινωνικών εταίρων και άλλων εμπλεκόμενων φορέων. Η προσέγγιση αυτή αποτυπώθηκε και στις προτεραιότητες της Κυπριακής Προεδρίας του Συμβουλίου της Ευρωπαϊκής Ένωσης κατά το πρώτο εξάμηνο του 2026, με την «Δίκαιη και Ασφαλή Απασχόληση για Κοινωνική Δικαιοσύνη» να βρίσκεται στο επίκεντρο της ατζέντας για την απασχόληση.
-
-
-Ιδιαίτερη αναφορά έκανε επίσης στον πρόσφατο διορισμό της Κύπρου ως μέλους της Συντονιστικής Ομάδας του Παγκόσμιου Συνασπισμού για την Κοινωνική Δικαιοσύνη για τη νέα θητεία, χαρακτηρίζοντας τη συμμετοχή αυτή τόσο τιμή όσο και ευθύνη και επιβεβαιώνοντας την ετοιμότητα της Κύπρου να συμβάλει ενεργά στην ενίσχυση της συνεργασίας και της συλλογικ
-
 #### [govcy-130714] Νέο Σχέδιο Διάθεσης Οικοπέδων σε Οικογένειες – Περισσότερα από 570 κρατικά οικόπεδα θα διατεθούν σε πρώτη φάση το επόμενο διάστημα
 - practice areas: Real estate & transactions (score 2; hits: real_estate:body:στεγαστ)
 - date / event: 20.09.2026 — announced; source: gov.cy — Εσωτερικά Θέματα
@@ -1607,6 +871,64 @@ For example, in certain instances, a professional accounting or law firm sets up
 Οικογένεια 3 ατόμων: μέχρι €50.000
 Οικογένεια 4 ατόμων: μέχρι €55.000
 
+#### [govcy-129157] Αρχική δήλωση του Υπουργού Εσωτερικών κ. Κωνσταντίνου Ιωάννου στη συνέντευξη Τύπου για την παρουσίαση των νέων στεγαστικών σχεδίων
+- practice areas: Real estate & transactions (score 1; hits: real_estate:στεγαστ)
+- date / event: 09.09.2026 — announced; source: Υπουργείο Εσωτερικών
+- link: https://www.gov.cy/esoterika-themata/archiki-dilosi-tou-ypourgou-esoterikon-k-konstantinou-ioannou-sti-synentefxi-typou-gia-tin-parousiasi-ton-neon-stegastikon-schedion/
+- department: Υπουργείο Εσωτερικών
+- excerpt (verbatim): Κατ’ αρχάς, επιτρέψτε μου να σας καλωσορίσω στη σημερινή συνέντευξη Τύπου, με αφορμή την ανακοίνωση δύο νέων στεγαστικών σχεδίων, τα οποία ενισχύουν και διευρύνουν την ολοκληρωμένη στεγαστική πολιτική του Κράτους.…
+- body (verbatim): Κατ’ αρχάς, επιτρέψτε μου να σας καλωσορίσω στη σημερινή συνέντευξη Τύπου, με αφορμή την ανακοίνωση δύο νέων στεγαστικών σχεδίων, τα οποία ενισχύουν και διευρύνουν την ολοκληρωμένη στεγαστική πολιτική του Κράτους.
+
+
+Η στεγαστική πολιτική αποτελεί για την Κυβέρνηση μια συνεχή και πολυεπίπεδη προσπάθεια, με έναν σαφή στόχο: να διευρύνουμε τις επιλογές στέγασης και να δημιουργήσουμε περισσότερες δυνατότητες για τους πολίτες να αποκτήσουν κατοικία.
+
+
+Στο πλαίσιο αυτό, παρουσιάζουμε σήμερα δύο νέα στοχευμένα σχέδια, τα οποία συμπληρώνουν τα υφιστάμενα εργαλεία και ανταποκρίνονται σε διαφορετικές ανάγκες.
+
+
+Το πρώτο αφορά στη δυνατότητα ανέγερσης ενός επιπρόσθετου ορόφου σε υφιστάμενη κατοικία, για τη στέγαση μελών της οικογένειας, ενώ το δεύτερο σχέδιο αφορά στη διάθεση κρατικών οικοπέδων σε οικογένειες που πληρούν συγκεκριμένα κριτήρια.
+
+
+Κοινή φιλοσοφία και των δύο είναι η καλύτερη αξιοποίηση των δυνατοτήτων που ήδη διαθέτουμε, ώστε αυτές να μετατρέπονται σε περισσότερες και πιο προσιτές επιλογές στέγασης για τους πολίτες.
+
+
+1. Σχέδιο παραχώρησης δικαιώματος ανέγερσης επιπρόσθετου ορόφου σε υφιστάμενη κατοικία
+
+
+Μέσα σε αυτή τη συνολική προσέγγιση εντάσσεται το νέο Σχέδιο παραχώρησης δικαιώματος ανέγερσης νέας κατοικίας, σε επιπρόσθετο όροφο, για σκοπούς στέγασης μελών της οικογένειας.
+
+
+Με απλά λόγια, δίνουμε τη δυνατότητα στους ιδιοκτήτες υφιστάμενων κατοικιών, υπό συγκεκριμένες προϋποθέσεις και ανεξαρτήτως αν έχει εξαντληθεί ο συντελεστής δόμησης, να ανεγείρουν έναν επιπρόσθετο όροφο για τη στέγαση των παιδιών ή των εγγονιών τους. Το Σχέδιο εφαρμόζεται παγκύπρια, με συγκεκριμένες εξαιρέσεις που καθορίζονται στους όρους του.
+
+
+Πρόκειται για μια παρέμβαση με σαφή κοινωνική διάσταση, καθώς δίνει τη δυνατότητα στις οικογένειες να αξιοποιήσουν την περιουσία που ήδη διαθέτουν, περιορίζοντας την ανάγκη για εξεύρεση νέας στεγαστικής λύσης και μειώνοντας το κατασκευαστικό κόστος, εξοικονομώντας με τον τρόπο αυτό πόρους από τον οικογενειακό προϋπολογισμό.
+
+
+Παράλληλα, αξιοποιείται καλύτερα το υφιστάμενο οικιστικό απόθεμα και οι πολεοδομικές δυνατότητες που υπάρχουν ήδη στις πόλεις και τις κοινότητες.
+
+
+Συγκεκριμένα, υπό τις προβλεπόμενες προϋποθέσεις, μπορεί να δημιουργηθεί μια επιπρόσθετη κατοικία είτε εντός της υφιστάμενης οικοδομής είτε με επέκταση, προσθήκη ορόφου ή αξιοποίηση του ελεύθερου χώρου του τεμαχίου. Η νέα μονάδα μπορεί να έχει δομήσιμο εμβαδόν μέχρι 150 τετραγωνικά μέτρα και, υπό προϋποθέσεις, μέχρι 180 τετραγωνικά μέτρα σε μεγαλύτερα τεμάχια. Παράλλη
+
+#### [govcy-129466] Δήλωση του Υπουργού Οικονομικών κ. Μάκη Κεραυνού αναφορικά με την παράταση της μείωσης του Ειδικού Φόρου Κατανάλωσης στα καύσιμα
+- practice areas: Tax (score 1; hits: tax:\bφορο)
+- date / event: 10.09.2026 — announced; source: Υπουργείο Οικονομικών
+- link: https://www.gov.cy/oikonomia/dilosi-tou-ypourgou-oikonomikon-k-maki-keravnou-anaforika-me-tin-paratasi-tis-meiosis-tou-eidikou-forou-katanalosis-sta-kafsima/
+- department: Υπουργείο Οικονομικών
+- excerpt (verbatim): Κατά τη σημερινή του συνεδρία, 10 Σεπτεμβρίου 2026, το Υπουργικό Συμβούλιο ενέκρινε πρόταση που κατέθεσε το Υπουργείο Οικονομικών, με την οποία η μείωση των συντελεστών Ειδικού Φόρου Κατανάλωσης (ΕΦΚ) στα…
+- body (verbatim): Κατά τη σημερινή του συνεδρία, 10 Σεπτεμβρίου 2026, το Υπουργικό Συμβούλιο ενέκρινε πρόταση που κατέθεσε το Υπουργείο Οικονομικών, με την οποία η μείωση των συντελεστών Ειδικού Φόρου Κατανάλωσης (ΕΦΚ) στα καύσιμα κίνησης, η οποία έληγε στις 17 Σεπτεμβρίου, παρατείνεται μέχρι τις 30 Νοεμβρίου 2026.
+
+
+Η ρύθμιση αφορά ελάφρυνση 8,33 σεντ ανά λίτρο τόσο στη βενζίνη όσο και στο πετρέλαιο κίνησης.
+
+
+Η απόφαση αυτή προκύπτει από την πολιτική βούληση της Κυβέρνησης να συνεχίσει τη στήριξη προς τα νοικοκυριά και τις επιχειρήσεις απέναντι στην ακρίβεια.
+
+
+Το Υπουργείο Οικονομικών θα συνεχίσει να παρακολουθεί τις εξελίξεις των τιμών ενέργειας στη διεθνή αγορά.
+
+
+(ΝΖ/ΚΑ)
+
 #### [govcy-129435] Υπουργείο Δικαιοσύνης και Δημοσίας Τάξεως: Προχωρεί η δημιουργία Ενιαίου Κέντρου Επιχειρήσεων στο Βασιλικό
 - practice areas: Corporate & M&A (score 1; hits: corporate:~\bεπιχειρησ)
 - date / event: 10.09.2026 — announced; source: gov.cy — Δικαιοσύνη και Δημόσια Τάξη
@@ -1638,616 +960,6 @@ For example, in certain instances, a professional accounting or law firm sets up
 
 (ΝΖ/ΚΑ)
 
-#### [govcy-129839] Συγχαρητήρια του Υπουργού Δικαιοσύνης και Δημοσίας Τάξεως για τη σημαντική επιτυχία της Αστυνομίας κατά των εμπόρων ναρκωτικών
-- practice areas: Corporate & M&A (score 1; hits: corporate:~\bεμπορ)
-- date / event: 13.09.2026 — announced; source: gov.cy — Δικαιοσύνη και Δημόσια Τάξη
-- link: https://www.gov.cy/dikaiosyni-kai-dimosia-taxi/sygcharitiria-tou-ypourgou-dikaiosynis-kai-dimosias-taxeos-gia-ti-simantiki-epitychia-tis-astynomias-kata-ton-eboron-narkotikon/
-- excerpt (verbatim): Ο Υπουργός Δικαιοσύνης και Δημοσίας Τάξεως κ. Κώστας Φυτιρής συγχαίρει την ηγεσία, τους επικεφαλής και το προσωπικό των ειδικών μονάδων της Αστυνομίας που συμμετείχαν στην επιτυχή επιχείρηση στη Λεμεσό, η…
-- body (verbatim): Ο Υπουργός Δικαιοσύνης και Δημοσίας Τάξεως κ. Κώστας Φυτιρής συγχαίρει την ηγεσία, τους επικεφαλής και το προσωπικό των ειδικών μονάδων της Αστυνομίας που συμμετείχαν στην επιτυχή επιχείρηση στη Λεμεσό, η οποία οδήγησε στον εντοπισμό μεγάλης ποσότητας ναρκωτικών ουσιών και στην εξάρθρωση οργανωμένου κυκλώματος αλλοδαπών διακινητών.
-
-
-Η αποφασιστική αντιμετώπιση του οργανωμένου εγκλήματος και ιδιαίτερα της εμπορίας ναρκωτικών αποτελεί κεντρική προτεραιότητα της Κυβέρνησης και του Προέδρου της Δημοκρατίας. Στο πλαίσιο αυτής της πολιτικής, το Υπουργείο Δικαιοσύνης ενισχύει έμπρακτα τις ειδικές μονάδες της Αστυνομίας με τα αναγκαία μέσα, δυνατότητες και υποστήριξη, ώστε να επιτελούν αποτελεσματικά την αποστολή τους.
-
-
-Συνεχίζουμε με ακόμη μεγαλύτερη ένταση και αποφασιστικότητα. Στόχος μας είναι η αντιμετώπιση των οργανωμένων εγκληματικών δικτύων και ιδιαίτερα εκείνων που εμπορεύονται ναρκωτικά. Κάθε ποσότητα ναρκωτικών που αποτρέπουμε από το να φτάσει στην κοινωνία μας είναι προστασία ανθρώπινων ζωών και κυρίως της νέας γενιάς.
-
-
-(ΝΖ/ΕΑθ)
-
-#### [govcy-130177] Απεργία του Ωρομίσθιου Κυβερνητικού Προσωπικού στις 17 Σεπτεμβρίου 2026
-- practice areas: Employment & social insurance (score 1; hits: employment:~\bαπεργ)
-- date / event: 15.09.2026 — announced; source: gov.cy — Οικονομία
-- link: https://www.gov.cy/oikonomia/apergia-tou-oromisthiou-kyvernitikou-prosopikou-stis-17-septemvriou-2026/
-- excerpt (verbatim): Το Υπουργείο Οικονομικών εκφράζει τη λύπη και την απογοήτευσή του για την απόφαση των συντεχνιών του Ωρομίσθιου Κυβερνητικού Προσωπικού (ΩΚΠ) να προχωρήσουν σε απεργία στις 17 Σεπτεμβρίου 2026. Η απόφαση…
-- body (verbatim): Το Υπουργείο Οικονομικών εκφράζει τη λύπη και την απογοήτευσή του για την απόφαση των συντεχνιών του Ωρομίσθιου Κυβερνητικού Προσωπικού (ΩΚΠ) να προχωρήσουν σε απεργία στις 17 Σεπτεμβρίου 2026. Η απόφαση αυτή έρχεται παρά τις πέντε υπηρεσιακές συναντήσεις που έχουν ήδη γίνει, σε επίπεδο Τμήματος Δημόσιας Διοίκησης και Προσωπικού και Γενικού Διευθυντή, καθώς και τις δύο συνεδρίες της Μικτής Εργατικής Επιτροπής (ΜΕΕ).
-
-
-Η Κυβέρνηση έχει δεχθεί θετικά τη μεγάλη πλειοψηφία των αιτημάτων των συντεχνιών. Εξαίρεση αποτελούν όσα αφορούν μισθολογικές αυξήσεις εκτός της καθιερωμένης διαδικασίας, τα οποία εξετάζονται με βάση την πρακτική που ακολουθείται στο πλαίσιο των σχετικών Συμφωνιών Πλαισίου.
-
-
-Η ουσιαστική διαφωνία αφορά στο αίτημα για γενική αύξηση 8% αποκλειστικά στο ΩΚΠ. Αυτό το αίτημα δεν μπορεί να εξεταστεί μόνο του, γιατί ό,τι ισχύσει για τους 6.500 ωρομίσθιους του ΩΚΠ θα χρειαστεί στην πράξη να ισχύσει και για τις υπόλοιπες κατηγορίες προσωπικού του δημόσιου και ευρύτερου δημόσιου τομέα. Το συνολικό κόστος των αιτημάτων των Συντεχνιών ανέρχεται σε €50 εκατ. για την τριετία της σύμβασης (€23 εκατ. ετησίως από το 2027 και μετά, εκ των οποίων περίπου €17 εκατ. τον χρόνο από το 2027 και μετά αφορούν στη γενική αύξηση 8%). Αν όμως επεκταθεί σε όλες τις κατηγορίες προσωπικού, το πραγματικό κόστος της γενικής αύξησης μισθών ξεπερνά τα €300 εκατ. τον χρόνο μόνο για τον δημόσιο τομέα, γεγονός το οποίο είναι πέραν των οικονομικών δυνατοτήτων του κράτους και αποτελεί απόλυτη πρόκληση για τους φορολογουμένους του ιδιωτικού τομέα. Είναι πάγια τακτική, οι μισθολογικές αυξήσεις να συμφωνούνται μέσω Συμφωνίας Πλαισίου του Υπουργού Οικονομικών με όλες τις συντεχνίες και όχι αποσπασματικά για μία κατηγορία προσωπικού, όπως εξάλλου ακολουθείτο μέχρι σήμερα.
-
-
-Στην απεργία συμμετέχουν συνολικά περίπου 11.000 ωρομίσθιοι. Οι 6.500 ανήκουν στο ΩΚΠ και οι υπόλοιποι 5.500 εργάζονται στον Οργανισμό Κρατικών Υπηρεσιών Υγείας (ΟΚΥπΥ) και τις Σχολικές Εφορείες, εκτός κρατικού μισθολογίου.
-
-
-Επισημαίνεται ότι θα ήταν ανεύθυνη ενέργεια αν μια απεργία είναι καθολική χωρίς πρόνοια για προσωπικό έκτακτης ανάγκης σε ευαίσθητες υπηρεσίες. Σε τομείς όπως τα νοσηλευτήρια, η δασοπυρόσβεση, η υδροδότηση, οι φυλακές και οι τηλεπικοινωνίες, πρέπει να διασφαλίζεται κατ’ ελάχιστον όριο υπηρεσίας, για τη δημόσια υγεία και ασφάλεια, ακόμη και κατά τη διάρκεια της απεργίας.
-
-
-Η Κυβέρνηση Χριστοδουλίδη διαχειρίζεται υπεύθυνα τα πλεονάσματα της οικονομίας, στηρίζοντας τους χαμηλόμισθους χωρίς να θέτει
-
-#### [govcy-130149] Δείκτης Αξίας Κύκλου Εργασιών στους Κλάδους του Χονδρικού Εμπορίου και του Εμπορίου/Επισκευής Μηχανοκίνητων Οχημάτων: 2ο Τρίμηνο 2026
-- practice areas: Corporate & M&A, Employment & social insurance (score 1; hits: corporate:~\bεμπορ, employment:~\bεργασ)
-- date / event: 15.09.2026 — announced; source: gov.cy — Οικονομία
-- link: https://www.gov.cy/oikonomia/deiktis-axias-kyklou-ergasion-stous-kladous-tou-chondrikou-eboriou-kai-tou-eboriou-episkevis-michanokiniton-ochimaton-2o-trimino-2026/
-- excerpt (verbatim): Ετήσια μεταβολή +17,8% στο Χονδρικό Εμπόριο και -2,5% στα Οχήματα Ο Δείκτης Αξίας Κύκλου Εργασιών Χονδρικού Εμπορίου (Κλάδος 46) κατά το δεύτερο τρίμηνο του 2026 αυξήθηκε κατά 17,8%, σε σύγκριση…
-- body (verbatim): Ετήσια μεταβολή +17,8% στο Χονδρικό Εμπόριο και -2,5% στα Οχήματα
-
-
-Ο Δείκτης Αξίας Κύκλου Εργασιών Χονδρικού Εμπορίου (Κλάδος 46) κατά το δεύτερο τρίμηνο του 2026 αυξήθηκε κατά 17,8%, σε σύγκριση με το αντίστοιχο τρίμηνο του προηγούμενου έτους. Κατά το ίδιο τρίμηνο, ο Δείκτης Αξίας Κύκλου Εργασιών Εμπορίου και Επισκευής Μηχανοκίνητων Οχημάτων (Κλάδος 45) μειώθηκε κατά 2,5%, σε σύγκριση με το αντίστοιχο τρίμηνο του προηγούμενου έτους.
-
-
-
-
-Πίνακας 1
-Κώδικας (NACE Αναθ. 2)
-Οικονομική Δραστηριότητα
-Δείκτης (2021=100)
-Ποσοστιαία Μεταβολή (%)
-Απρ-Ιούν 2026
-Απρ-Ιούν 2026/2025
-Ιαν-Ιούν 2026/2025
-45.1
-Πώληση μηχανοκίνητων οχημάτων
-163,7
--6,7
--8,1
-45.2
-Συντήρηση και επισκευή μηχανοκίνητων οχημάτων
-147,7
-5,4
-4,4
-45.3
-Πώληση μερών και εξαρτημάτων μηχανοκίνητων οχημάτων
-148,7
-2,6
-4,5
-45.4
-Πώληση, συντήρηση και επισκευή μοτοσικλετών και των μερών και εξαρτημάτων τους
-201,8
--1,4
-4,0
-45
-ΧΟΝΔΡΙΚΟ ΚΑΙ ΛΙΑΝΙΚΟ ΕΜΠΟΡΙΟ ΚΑΙ ΕΠΙΣΚΕΥΗ ΜΗΧΑΝΟΚΙΝΗΤΩΝ ΟΧΗΜΑΤΩΝ ΚΑΙ ΜΟΤΟΣΙΚΛΕΤΩΝ
-157,9
--2,5
--3,1
-
-
-Πίνακας 2
-Κώδικας (NACE Αναθ. 2)
-Οικονομική Δραστηριότητα
-Δείκτης (2021=100)
-Ποσοστιαία Μεταβολή (%)
-Απρ-Ιούν 2026
-Απρ-Ιούν 2026/2025
-Ιαν-Ιούν 2026/2025
-46.1
-Χονδρικό εμπόριο έναντι αμοιβής ή βάσει σύμβασης
-132,0
-28,1
-0,7
-46.2
-Χονδρικό εμπόριο ακατέργαστων γεωργικών πρώτων υλών και ζώντων ζώων
-96,5
--0,6
-0,0
-46.3
-Χονδρικό εμπόριο τροφίμων, ποτών και καπνού
-149,7
-0,0
-1,9
-46.4
-Χονδρικό εμπόριο ειδών οικιακής χρήσης
-170,4
-12,6
-13,7
-46.5
-Χονδρικό εμπόριο εξοπλισμού πληροφοριακών και επικοινωνιακών συστημάτων
-131,7
-8,0
-9,1
-46.6
-Χονδρικό εμπόριο άλλων μηχανημάτων, εξοπλισμού και προμηθειών
-144,9
-1,8
-4,8
-46.7
-Άλλο ειδικευμένο χονδρικό εμπόριο
-200,2
-45,3
-32,8
-46.9
-Μη ειδικευμένο χονδρικό εμπόριο
-141,6
-1,7
-3,2
-46
-ΧΟΝΔΡΙΚΟ ΕΜΠΟΡΙΟ, ΕΚΤΟΣ ΜΗΧΑΝΟΚΙΝΗΤΩΝ ΟΧΗΜΑΤΩΝ
-166,2
-17,8
-14,6
-
-
-Μεθοδολογικές Πληροφορίες
-
-
-Σκοπός και Κάλυψη
-
-
-Σκοπός των Δεικτών Αξίας Κύκλου Εργασιών είναι η παρακολούθηση των βραχυπρόθεσμων εξελίξεων των δραστηριοτήτων της οικονομίας που εμπίπτουν στους Κλάδους 45 (Εμπόριο και Επισκευή Μηχανοκίνητων Οχημάτων) και 46 (Χονδρικό Εμπόριο) της στατιστικής ταξινόμησης οικονομικών δραστηριοτήτων NACE Αναθ.2 της Ευρωπαϊκής Ένωσης (ΕΕ). Ο Κύκλος Εργασιών περιλαμβάνει τις πωλήσεις αγαθών και υπηρεσιών της επιχείρησης στη διάρκεια της περιόδου αναφοράς, εξαιρουμένου του Φόρου Προστιθέμενες Αξίας (ΦΠΑ) και συμπεριλαμβανομένων δασμών και φόρων.
-
-
-Συλλογή Στοιχείων
-
-
-Η συλλογή των δεδομένων γίνεται μηνιαία από τη Στατιστική Υπηρεσία, είτε με τηλεφωνικές συνεντεύξεις είτε μέσω του ηλεκτρονικού ταχυδρο
-
-#### [govcy-130139] Δείκτης Εργατικού Κόστους: 2ο τρίμηνο 2026
-- practice areas: Employment & social insurance (score 1; hits: employment:~\bεργατ)
-- date / event: 15.09.2026 — announced; source: gov.cy — Οικονομία
-- link: https://www.gov.cy/oikonomia/deiktis-ergatikou-kostous-2o-trimino-2026/
-- excerpt (verbatim): Ετήσια Μεταβολή 3,8% Σύμφωνα με προκαταρκτικά στοιχεία, το ωριαίο εργατικό κόστος (συνολικό κόστος) κατά το 2ο τρίμηνο του 2026 σημείωσε αύξηση 3,8%, σε σύγκριση με το αντίστοιχο τρίμηνο του προηγούμενου…
-- body (verbatim): Ετήσια Μεταβολή 
-3,
-8%
-
-
-Σύμφωνα με προκαταρκτικά στοιχεία, το ωριαίο εργατικό κόστος (συνολικό κόστος) κατά το 2ο τρίμηνο του 2026 σημείωσε αύξηση 3,8%, σε σύγκριση με το αντίστοιχο τρίμηνο του προηγούμενου έτους. (Διάγραμμα)
-
-
-
-
-Σημείωση: Τα στοιχεία από το 1ο τρίμηνο του 2025 και έπειτα είναι προκαταρκτικά.
-
-
-Οι δύο συνιστώσες του εργατικού κόστους, οι μισθοί και τα ημερομίσθια ανά ώρα εργασίας και το μη μισθολογικό κόστος ανά ώρα εργασίας σημείωσαν αύξηση 3,9% και 3,6% αντίστοιχα, σε σύγκριση με το αντίστοιχο τρίμηνο του προηγούμενου έτους. (Πίνακας)
-
-
-Το ωριαίο εργατικό κόστος (συνολικό κόστος), διορθωμένο ως προς τις εποχικές διακυμάνσεις, σημείωσε αύξηση 1,0% σε σχέση με το προηγούμενο τρίμηνο. Κατά 1,0% σε σχέση με το προηγούμενο τρίμηνο αυξήθηκε και το ωριαίο εργατικό κόστος που αναφέρεται στους μισθούς και ημερομίσθια διορθωμένο ως προς τις εποχικές διακυμάνσεις. Το ωριαίο μη μισθολογικό κόστος διορθωμένο ως προς τις εποχικές διακυμάνσεις αυξήθηκε κατά 0,9%. (Πίνακας)
-
-
-Πίνακας
- 
-Δείκτης (2020=100)
-Μεταβολή (%)
-Χωρίς διόρθωση
-Εποχικά διορθωμένος
-Με το αντίστοιχο τρίμηνο του προηγούμενου έτους 
-Με το προηγούμενο τρίμηνο (εποχικά διορθωμένος Δείκτης)
-Συνολικό Εργατικό Κόστος
-2ο Τρίμηνο 2026
-121,87
-129,11
-3,8
-1,0
-1ο Τρίμηνο 2026
-119,43
-127,84
-3,4
-1,0
-2ο Τρίμηνο 2025
-117,38
-124,71
-3,7
-0,6
-Μισθοί και Ημερομίσθια
-2ο Τρίμηνο 2026
-122,20
-128,98
-3,9
-1,0
-1ο Τρίμηνο 2026
-119,79
-127,68
-3,4
-1,0
-2ο Τρίμηνο 2025
-117,64
-124,52
-3,7
-0,6
-Μη Μισθολογικό Κόστος
-2ο Τρίμηνο 2026
-120,48
-129,69
-3,6
-0,9
-1ο Τρίμηνο 2026
-117,92
-128,53
-3,0
-1,1
-2ο Τρίμηνο 2025
-116,33
-125,53
-3,6
-0,5
-Σημείωση: Λόγω στρογγυλοποίησης των αριθμών, ο υπολογισμός της μεταβολής ενδεχομένως να διαφέρει από την ποσοστιαία μεταβολή που παρουσιάζεται στον πίνακα.
-
-
-Μεθοδολογικές Πληροφορίες
-
-
-Ταυτότητα του Δείκτη
-
-
-Ο Δείκτης Εργατικού Κόστους είναι ένας από τους κύριους ευρωπαϊκούς οικονομικούς δείκτες που παράγονται από όλες τις χώρες της Ευρωπαϊκής Ένωσης (EE) βάσει του κανονισμού (ΕΚ) αριθ. 1216/2003 της Επιτροπής για την εφαρμογή του κανονισμού (ΕΚ) αριθ. 450/2003 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου όσον αφορά στον Δείκτη Κόστους Εργασίας. Ο Δείκτης χρησιμοποιείται ως ένδειξη για την πληθωριστική πίεση που μπορεί να προκύψει από τις εξελίξεις στην αγορά εργασίας.
-
-
-Κάλυψη Στοιχείων
-
-
-Ο Δείκτης καλύπτει όλες τις οικονομικές δραστηριότητες, εκτός από τον Τομέα Α: Γεωργία, Δασοκομία και Αλιεία, τον Τομέα Τ: Δραστηριότητες νοικοκυριών ως εργοδοτών και τον Τομέα U: Δραστηριότητες ετερόδικων οργ
-
-#### [govcy-130166] Συμμετοχή ναυαγοσωστών στην απεργία του ωρομίσθιου κυβερνητικού προσωπικού
-- practice areas: Employment & social insurance (score 1; hits: employment:~\bαπεργ)
-- date / event: 15.09.2026 — announced; source: gov.cy — Εσωτερικά Θέματα
-- link: https://www.gov.cy/esoterika-themata/symmetochi-navagososton-stin-apergia-tou-oromisthiou-kyvernitikou-prosopikou/
-- excerpt (verbatim): Σε συνέχεια των ανακοινώσεων των συνδικαλιστικών οργανώσεων για την πραγματοποίηση 24ωρης παγκύπριας απεργίας του Ωρομίσθιου Κυβερνητικού Προσωπικού την Πέμπτη, 17 Σεπτεμβρίου 2026, το Υπουργείο Εσωτερικών ενημερώνει ότι, ως αποτέλεσμα της…
-- body (verbatim): Σε συνέχεια των ανακοινώσεων των συνδικαλιστικών οργανώσεων για την πραγματοποίηση 24ωρης παγκύπριας απεργίας του Ωρομίσθιου Κυβερνητικού Προσωπικού την Πέμπτη, 17 Σεπτεμβρίου 2026, το Υπουργείο Εσωτερικών ενημερώνει ότι, ως αποτέλεσμα της απεργίας, θα επηρεαστεί η ναυαγοσωστική κάλυψη των παραλιών σε όλες τις Επαρχίες.
-
-
-Ως εκ τούτου, το κοινό καλείται να επιδεικνύει ιδιαίτερη προσοχή κατά την κολύμβηση και τις θαλάσσιες δραστηριότητες στις παραλίες όπου δεν θα υπάρχει ναυαγοσωστική κάλυψη.
-
-
-(ΜΚυ/ΕΑθ/ΚΑ)
-
-#### [govcy-130243] Άδειες Οικοδομής: Μάιος 2026
-- practice areas: Real estate & transactions (score 1; hits: real_estate:~οικοδομ)
-- date / event: 16.09.2026 — announced; source: gov.cy — Οικονομία
-- link: https://www.gov.cy/oikonomia/adeies-oikodomis-maios-2026/
-- excerpt (verbatim): Αύξηση 21,1% στον Αριθμό των Αδειών Οικοδομής Η Στατιστική Υπηρεσία ανακοινώνει ότι ο αριθμός των αδειών οικοδομής που εκδόθηκαν κατά τον Μάιο 2026 ανήλθε στις 735, καταγράφοντας άνοδο 21,1% σε…
-- body (verbatim): Αύξηση 21,1% στον Αριθμό των Αδειών Οικοδομής
-
-
-Η Στατιστική Υπηρεσία ανακοινώνει ότι ο αριθμός των αδειών οικοδομής που εκδόθηκαν κατά τον Μάιο 2026 ανήλθε στις 735, καταγράφοντας άνοδο 21,1% σε σύγκριση με τον αντίστοιχο μήνα του προηγούμενου έτους. Η συνολική αξία των αδειών αυτών έφθασε τα €428,2 εκατομμύρια και το συνολικό εμβαδόν τις 352,1 χιλιάδες τετραγωνικά μέτρα. Με τις άδειες αυτές προβλέπεται να ανεγερθούν 1.847 οικιστικές μονάδες.
-
-
-Κατά την περίοδο Ιανουαρίου-Μαΐου 2026 εκδόθηκαν 3.650 άδειες οικοδομής σε σύγκριση με 2.764 την αντίστοιχη περίοδο του προηγούμενου έτους, σημειώνοντας αύξηση 32,1%. Η συνολική αξία των αδειών αυτών αυξήθηκε κατά 43,9% και το συνολικό εμβαδόν κατά 43,1%. Ο αριθμός των οικιστικών μονάδων παρουσίασε αύξηση της τάξης του 63,7%.
-
-
-
-
-Πίνακας 1
-Κατηγορία Έργου
-Αριθμός Αδειών
-Ποσοστιαία Μεταβολή (%)
-Μάιος 2026
-Ιαν-Μάιος 2026
-Ιαν-Μάιος 2025
-Ιαν-Μάιος 2026/2025
-Οικιστικά Κτήρια
-530
-2.684
-2.044
-31,3
-Μη Οικιστικά Κτήρια
-75
-330
-308
-7,1
-Έργα Πολιτικού Μηχανικού
-43
-213
-169
-26,0
-Διαίρεση Οικοπέδων
-73
-343
-211
-62,6
-Κατασκευή Δρόμων
-14
-80
-32
-150,0
-Σύνολο
-735
-3.650
-2.764
-32,1
-
-
-Πίνακας 2
-Κατηγορία Έργου
-Εμβαδόν (μ²)
-Ποσοστιαία Μεταβολή (%)
-Μάιος 2026
-Ιαν-Μάιος 2026
-Ιαν-Μάιος 2025
-Ιαν-Μάιος 2026/2025
-Οικιστικά Κτήρια
-309.398
-1.542.202
-947.511
-62,8
-Μη Οικιστικά Κτήρια
-42.067
-142.629
-238.338
--40,2
-Έργα Πολιτικού Μηχανικού
-661
-17.892
-3.784
-372,8
-Σύνολο
-352.126
-1.702.723
-1.189.633
-43,1
-
-
-Πίνακας 3
-Κατηγορία Έργου
-Αξία (€000’ς)
-Ποσοστιαία Μεταβολή (%)
-Μάιος 2026
-Ιαν-Μάιος 2026
-Ιαν-Μάιος 2025
-Ιαν-Μάιος 2026/2025
-Οικιστικά Κτήρια
-360.449
-1.789.624
-1.107.357
-61,6
-Μη Οικιστικά Κτήρια
-52.448
-196.479
-275.990
--28,8
-Έργα Πολιτικού Μηχανικού
-9.357
-85.763
-61.286
-39,9
-Διαίρεση Οικοπέδων
-5.198
-23.386
-11.739
-99,2
-Κατασκευή Δρόμων
-743
-4.087
-2.456
-66,4
-Σύνολο
-428.195
-2.099.339
-1.458.828
-43,9
-
-
-Πίνακας 4
-Οικιστικά Κτήρια
-Αριθμός Οικιστικών Μονάδων
-Ποσοστιαία Μεταβολή (%)
-Μάιος 2026
-Ιαν-Μάιος 2026
-Ιαν-Μάιος 2025
-Ιαν-Μάιος 2026/2025
-Μονοκατοικίες
-232
-1.469
-1.369
-7,3
-Διπλοκατοικίες
-128
-547
-456
-20,0
-Οικιστικές πολυκατοικίες
-1.483
-6.667
-3.497
-90,6
-Μικτές πολυκατοικίες
-4
-295
-162
-82,1
-Σύνολο
-1.847
-8.978
-5.484
-63,7
-
-
-Μεθοδολογικές Πληροφορίες
-
-
-Σκοπός και Κάλυψη
-
-
-Σκοπός είναι η συλλογή βασικών στοιχείων που αφορούν οικιστικά και μη οικιστικά κτήρια, καθώς και άλλες οικοδομικές δραστηριότητες όπως έργα πολιτικού μηχανικού, διαίρεση οικοπέδων και κατασκευή δρόμων ανά επαρχία (αστικές και αγροτικές περιοχές). Για κάθε κατηγορία έργου καταρτίζονται πληροφορίες που 
-
-#### [govcy-130491] Αφίξεις Τουριστών και Επιστροφές Κατοίκων Κύπρου από Ταξίδια στο Εξωτερικό: Αύγουστος 2026
-- practice areas: Real estate & transactions (score 1; hits: real_estate:~κατοικ)
-- date / event: 17.09.2026 — announced; source: gov.cy — Οικονομία
-- link: https://www.gov.cy/oikonomia/afixeis-touriston-kai-epistrofes-katoikon-kyprou-apo-taxidia-sto-exoteriko-avgoustos-2026/
-- excerpt (verbatim): Αφίξεις Τουριστών –3,3% και Επιστροφές Κατοίκων Κύπρου 0,3% Αφίξεις Τουριστών Οι αφίξεις τουριστών τον Αύγουστο 2026 ανήλθαν σε 581.880 σε σύγκριση με 602.026 τον Αύγουστο 2025, σημειώνοντας μείωση 3,3%. Για…
-- body (verbatim): Αφίξεις Τουριστών –
-3,
-3% και Επιστροφές Κατοίκων Κύπρου 0,3%
-
-
-Αφίξεις Τουριστών
-
-
-Οι αφίξεις τουριστών τον Αύγουστο 2026 ανήλθαν σε 581.880 σε σύγκριση με 602.026 τον Αύγουστο 2025, σημειώνοντας μείωση 3,3%.
-
-
-Για την περίοδο Ιανουαρίου-Αυγούστου 2026, οι αφίξεις τουριστών ανήλθαν σε 2.820.649 σε σύγκριση με 3.034.155 την αντίστοιχη περίοδο του 2025, σημειώνοντας μείωση 7,0%.
-
-
-
-
-Οι αφίξεις από το Ηνωμένο Βασίλειο υπήρξαν η κυριότερη πηγή τουρισμού για τον Αύγουστο 2026, αφού αποτέλεσαν το 
-30,5% (177.603) 
-των συνολικών αφίξεων, οι αφίξεις από το Ισραήλ 
-23,3% (135.628),
- οι αφίξεις από την Πολωνία το 6,3% (36.622), οι αφίξεις από 
-τη Γερμανία 
-4,4% (25.823) και οι αφίξεις από τη 
-Σουηδία 
-3,0% (17.441) (Πίνακας 1).
-
-
-Πίνακας 1
- 
-Χώρα
-Συνήθους
-Διαμονής
-Αφίξεις Τουριστών 
-Αύγουστος
-Ποσοστιαία Μεταβολή
- 
-(%)
- 
- 
- 
-Αύγ 2026/25
-2024
-2025
-2026
-ΣΥΝΟΛΟ
-554.923
-602.026
-581.880
--3,3
-Αυστρία
-10.620
-11.935
-10.389
--13,0
-Γαλλία
-16.798
-15.663
-8.453
--46,0
-Γερμανία
-23.068
-27.665
-25.823
--6,7
-Δανία
-8.816
-9.984
-9.733
--2,5
-Ελβετία
-8.459
-7.277
-6.739
--7,4
-Ελλάδα
-14.307
-15.294
-13.810
--9,7
-Ηνωμένο Βασίλειο
-192.424
-193.091
-177.603
--8,0
-Ισραήλ
-74.032
-105.597
-135.628
-28,4
-Λίβανος
-5.663
-5.745
-5.085
--11,5
-Νορβηγία
-6.782
-7.896
-8.006
-1,4
-Ολλανδία
-6.740
-7.672
-6.331
--17,5
-Ουγγαρία
-8.960
-9.378
-8.465
--9,7
-Πολωνία
-42.650
-41.844
-36.622
--12,5
-Ρουμανία
-14.448
-18.300
-15.317
--16,3
-Σουηδία
-22.508
-18.636
-17.441
--6,4
-Άλλες
-98.648
-106.049
-96.435
--9,1
-
-
-Ο σκοπός ταξιδιού τον Αύγουστο 2026 ήταν για ποσοστό 84,5% των τουριστών οι διακοπές, για 13,0% η επίσκεψη σε φίλους ή συγγενείς και για ποσοστό 2,4% επαγγελματικός. Αντίστοιχα, για τον Αύγουστο 2025, ποσοστό 86,5% επισκέφθηκε την Κύπρο για διακοπές, 11,4% για επίσκεψη σε φίλους ή συγγενείς και 2,1% για επαγγελματικούς λόγους (Πίνακας 2).
-
-
-Πίνακας 2
- 
- 
- 
-Σκοπός Ταξιδιού
-Ποσοστό (%)
-Αύγ 2024
-Αύγ 2025
-Αύγ 2026
-Διακοπές
-87,3
-86,5
-84,5
-Επίσκεψη σε συγγενείς & φίλους
-10,2
-11,4
-13,0
-Επαγγελματικός
-2,5
-2,1
-2,4
-
-
-Επιστροφές Κατοίκων Κύπρου
-
-
-Τα ταξίδια κατοίκων Κύπρου στο εξωτερικό τον Αύγουστο 2026 ανήλθαν στις 239.337 σε σύγκριση με 238.740 τον Αύγουστο 2025, σημειώνοντας αύξηση 0,3%.
-
-
-Οι κυριότερες χώρες, από τις οποίες επέστρεψαν οι κάτοικοι Κύπρου τον Αύγουστο 2026 ήταν η Ελλάδα με 36,6% (87.684), το Ηνωμένο Βασίλειο με 6,9% (16.448), η Ιταλία 4,6% (11.054), η Πολωνία 4,3% (10.408) και η Ρωσία με 
-4,2% (10.021).
-
-
-
-
-Ο σκοπός ταξιδιού των κατοίκων Κύπρου τον Αύγουστο 2026 ήταν κυρίως οι διακοπές με ποσοστό 93,1%, ενώ οι επαγγελματικοί λόγοι κατείχαν 
-
 #### [govcy-130459] Επεξηγήθηκε στα μέλη του Εργατικού Συμβουλευτικού Σώματος το κόστος της συνταξιοδοτικής μεταρρύθμισης
 - practice areas: Employment & social insurance (score 1; hits: employment:~\bεργατ)
 - date / event: 17.09.2026 — announced; source: gov.cy — Εργασία και Κοινωνικές Ασφαλίσεις
@@ -2270,15 +982,13 @@ For example, in certain instances, a professional accounting or law firm sets up
 
 (KA/ΑΣ)
 
-## D. Other laws of the week (outside the practice areas) — one line each (1)
+## D. Other laws of the week (outside the practice areas) — one line each (0)
 
-- Ν. 125(I)/2026 — Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) (Αρ. 3) Νόμος του 2026 (17.09.2026) https://www.cylaw.org/nomoi/arith/2026_1_125.pdf
 
-## E. Dropped by the relevance filter — for review (57)
+## E. Dropped by the relevance filter — for review (73)
 
-- cylaw: 11
+- cylaw: 10
     - ? law Ν. 40(II)/2026 Ο περί Προϋπολογισμού της Αρχής Ψηφιακής Ασφάλειας του 2026 Νόμος του 2026
-    - 2026-09-17 law Ν. 125(I)/2026 Ο περί Φόρων Κατανάλωσης (Τροποποιητικός) (Αρ. 3) Νόμος του 2026
     - 2026-09-11 kdp Κ.Δ.Π. 330/2026 Το περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Καθορισμός Γενικών Όρων Λειτουργίας για Εγκαταστάσεις Επεξεργασί
     - 2026-09-11 kdp Κ.Δ.Π. 331/2026 Το περί Ελέγχου της Ρύπανσης της Ατμόσφαιρας (Καθορισμός Γενικών Όρων Λειτουργίας για Εγκαταστάσεις Βαφής και 
     - 2026-09-11 kdp Κ.Δ.Π. 332/2026 Το περί Ραδιοεπικοινωνιών (Χρήση Ραδιοσυχνοτήτων και Ζωνών Ραδιοσυχνοτήτων από Ραδιοεξοπλισμό που Εξαιρείται α
@@ -2288,51 +998,61 @@ For example, in certain instances, a professional accounting or law firm sets up
     - 2026-09-18 kdp Κ.Δ.Π. 346/2026 Γνωστοποίηση βάσει του άρθρου 5 του βασικού νόμου 156(Ι) του 2002 και 6 του Τροποποιητικού Νόμου 57(Ι)/2011, δ
     - 2026-09-18 kdp Κ.Δ.Π. 347/2026 Γνωστοποίηση βάσει του άρθρου 5 του βασικού νόμου 156(Ι) του 2002 και 6 του Τροποποιητικού Νόμου 57(Ι)/2011, δ
     - 2026-09-18 kdp Κ.Δ.Π. 372/2026 Το περί Προστασίας Κυπριακών Πλοίων από Πράξεις Πειρατείας και άλλες Παράνομες Πράξεις (Προσωρινή Τροποποίηση 
-- govcy: 38
+- gazette: 4
+    - 2026-09-11 kdp Κ.Δ.Π. 6045/2026 
+    - 2026-09-15 kdp Κ.Δ.Π. 6046/2026 
+    - 2026-09-18 kdp Κ.Δ.Π. 342/2026 Το περί Προστασίας Κυπριακών Πλοίων από Πράξεις Πειρατείας και άλλες Παράνομες Πράξεις (Προσωρινή Τροποποίηση 
+    - 2026-09-18 kdp Κ.Δ.Π. 6047/2026 
+- govcy: 48
     - 2026-09-08 announcement  Εγγραφές Μηχανοκίνητων Οχημάτων: Ιανουάριος-Αύγουστος 2026
     - 2026-09-08 announcement  Νέα θεσμική διαδικασία για τις φρουρές Αξιωματούχων – Η εκτίμηση κινδύνου καθορίζει την αστυνομική προστασία
     - 2026-09-08 announcement  Υπό πλήρη έλεγχο δασική πυρκαγιά στα διοικητικά όρια της Κοινότητας Λυμπιών της Επαρχίας Λευκωσίας
     - 2026-09-09 announcement  Ανακοίνωση της Υπηρεσίας Προστασίας Καταναλωτή αναφορικά με τον νέον πρακτικό Οδηγό για την Πράσινη Μετάβαση
-    - 2026-09-09 announcement  Αρχική δήλωση του Υπουργού Εσωτερικών κ. Κωνσταντίνου Ιωάννου στη συνέντευξη Τύπου για την παρουσίαση των νέων
     - 2026-09-09 announcement  Προσωρινή διακοπή στη λειτουργία Μηχανογραφικών Συστημάτων του Τμήματος Φορολογίας
     - 2026-09-09 announcement  Πρόεδρος της Δημοκρατίας: Για πρώτη φορά βρισκόμαστε πολύ κοντά στο να έχουμε ουσιαστικές εξελίξεις για υλοποί
     - 2026-09-09 announcement  Στατιστικές Εξωτερικού Εμπορίου: Προκαταρκτικά Στοιχεία Ιουλίου 2026 και Τελικά Στοιχεία Ιουνίου 2026
-    - 2026-09-10 announcement  Δήλωση του Υπουργού Οικονομικών κ. Μάκη Κεραυνού αναφορικά με την παράταση της μείωσης του Ειδικού Φόρου Καταν
+    - 2026-09-10 announcement  Πρόεδρος της Δημοκρατίας: Όλα προχωρούν προς την κατεύθυνση υλοποίησης του έργου της ηλεκτρικής διασύνδεσης
     - 2026-09-10 announcement  Υπό πλήρη έλεγχο δασική πυρκαγιά στην Κοινότητα Κλαυδιών
     - 2026-09-11 announcement  Ανακοίνωση του Ιδρύματος Κρατικών Υποτροφιών Κύπρου αναφορικά με τις Υποτροφίες εις μνήμην «Ρέας Παπαγεωργίου»
     - 2026-09-11 announcement  Εθιμοτυπική συνάντηση του Υπουργού Δικαιοσύνης και Δημοσίας Τάξεως με τη νέα Εκπρόσωπο της UNHCR στην Κύπρο
+    - 2026-09-11 announcement  Κρατικοί Υπάλληλοι κατά Κατηγορία: Αύγουστος 2026
     - 2026-09-11 announcement  Ολοκληρώθηκε η Συνεδρία του Παγκύπριου Συμβούλιο Ασφάλειας και ΥγείαςΚΔΟΥ 11/2026
     - 2026-09-13 announcement  Μαγνητοσκοπημένο Μήνυμα του Προέδρου της Δημοκρατίας κ. Νίκου Χριστοδουλίδη για τη Στεγαστική Πολιτική
     - 2026-09-13 announcement  Ο Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων αναχωρεί για τη Βιέννη, για εκπροσώπηση της Κυπριακής Δημοκρατία
+    - 2026-09-13 announcement  Συγχαρητήρια του Υπουργού Δικαιοσύνης και Δημοσίας Τάξεως για τη σημαντική επιτυχία της Αστυνομίας κατά των εμ
     - 2026-09-13 announcement  Το Τμήμα Δασών σε συνεργασία με την Πολιτική Άμυνα τίμησαν την Ελληνική Ομάδα Δασοπυρόσβεσης της ΕΜΟΔΕ
     - 2026-09-14 announcement  Ανακοίνωση της Υπηρεσίας Προστασίας Καταναλωτή αναφορικά με τη δημοσίευση εβδομαδιαίων κοινοποιήσεων της ΕΕ γι
+    - 2026-09-14 announcement  Απασχόληση στον Ευρύ Δημόσιο Τομέα: 2ο Τρίμηνο 2026
     - 2026-09-14 announcement  Κενές Θέσεις Εργασίας: 2ο Τρίμηνο 2026
     - 2026-09-14 announcement  Ο Υπουργός Δικαιοσύνης πραγματοποίησε συναντήσεις με τις συνδικαλιστικές οργανώσεις Αστυνομίας και Φυλακών
     - 2026-09-14 announcement  Συνάντηση του Υπουργού Ενέργειας, Εμπορίου και Βιομηχανίας με τον Υφυπουργό Εξωτερικών της Ελληνικής Δημοκρατί
+    - 2026-09-15 announcement  O Υπουργός Εργασίας και Κοινωνικών Ασφαλίσεων κ. Μαρίνος Μουσιούττας εκπροσώπησε την Κυπριακή Δημοκρατία στον 
+    - 2026-09-15 announcement  Απεργία του Ωρομίσθιου Κυβερνητικού Προσωπικού στις 17 Σεπτεμβρίου 2026
+    - 2026-09-15 announcement  Δείκτης Αξίας Κύκλου Εργασιών στους Κλάδους του Χονδρικού Εμπορίου και του Εμπορίου/Επισκευής Μηχανοκίνητων Οχ
+    - 2026-09-15 announcement  Δείκτης Εργατικού Κόστους: 2ο τρίμηνο 2026
     - 2026-09-15 announcement  Νέες Κεντρικές Φυλακές στον Άγιο Σωζόμενο – Σύσκεψη στο Υπουργείο Δικαιοσύνης
+    - 2026-09-15 announcement  Συμμετοχή ναυαγοσωστών στην απεργία του ωρομίσθιου κυβερνητικού προσωπικού
+    - 2026-09-16 announcement  Άδειες Οικοδομής: Μάιος 2026
     - 2026-09-16 announcement  Ανακοίνωση Υπουργείου Εσωτερικών σχετικά με τη διαδικασία των Βουλευτικών Εκλογών 2026
     - 2026-09-16 announcement  Δήλωση του Υπουργού Οικονομικών κ. Μάκη Κεραυνού – Έγκριση Προϋπολογισμού του Κράτους 2027 από το Υπουργικό Συ
     - 2026-09-16 announcement  Κρατικός Προϋπολογισμός 2027 και Μεσοπρόθεσμο Δημοσιονομικό Πλαίσιο 2027-2029
+    - 2026-09-17 announcement  Αφίξεις Τουριστών και Επιστροφές Κατοίκων Κύπρου από Ταξίδια στο Εξωτερικό: Αύγουστος 2026
     - 2026-09-17 announcement  Δυναμική παρουσία της Κύπρου στη διεθνή ναυτιλιακή έκθεση SMM Hamburg 2026
     - 2026-09-17 announcement  Εναρμονισμένος Δείκτης Τιμών Καταναλωτή (ΕνΔΤΚ): Αύγουστος 2026
     - 2026-09-17 announcement  Ο Υπουργός Δικαιοσύνης και Δημοσίας Τάξεως συναντήθηκε με τον Υπουργό Προστασίας του Πολίτη, στην Αθήνα
     - 2026-09-17 announcement  Ο Υπουργός Οικονομικών κ. Μάκης Κεραυνός μεταβαίνει στο Δουβλίνο
+    - 2026-09-17 announcement  Παρέμβαση του Υπουργού Εργασίας και Κοινωνικών Ασφαλίσεων στο Ετήσιο Φόρουμ του Παγκόσμιου Συνασπισμού για την
     - 2026-09-17 announcement  Συστάσεις Πολιτικής Άμυνας προς το κοινό για ελαχιστοποίηση των αρνητικών συνεπειών από έντονες βροχοπτώσεις, 
     - 2026-09-17 announcement  Υπό πλήρη έλεγχο δασική πυρκαγιά στα διοικητικά όρια της Κοινότητας Δρούσειας
-    - 2026-09-18 announcement  Ανακοίνωση του Κρατικού Λαχείου αναφορικά με έναρξη πρόσκλησης ενδιαφέροντος για πρακτόρευση στο Κρατικό Λαχεί
-    - 2026-09-18 announcement  Δείκτης Τιμών Κατασκευαστικών Υλικών: Αύγουστος 2026
-    - 2026-09-18 announcement  Ο Υπουργός Δικαιοσύνης και Δημοσίας Τάξεως παρέστη στη μουσικοθεατρική παράσταση «ΤΙΜΟΚΥΠΡΑ», στην Αθήνα
-    - 2026-09-18 announcement  Παρατηρητήριο Βασικών Καταναλωτικών Αγαθών για τον μήνα Αύγουστο 2026
-    - 2026-09-19 announcement  Ανακοίνωση του Υπουργείου Οικονομικών για την αναβάθμιση της πιστοληπτικής ικανότητας της Κυπριακής Δημοκρατία
-    - 2026-09-19 announcement  Γραπτή Δήλωση του Υπουργού Οικονομικών κ. Μάκη Κεραυνού σχετικά με την αναβάθμιση της πιστοληπτικής ικανότητας
-    - 2026-09-19 announcement  Μήνυμα του Προέδρου της Δημοκρατίας για την αναβάθμιση της πιστοληπτικής ικανότητας της Κυπριακής Δημοκρατίας 
-    - 2026-09-20 announcement  Συμμετοχή του Υπουργού Οικονομικών στις συνεδριάσεις του Eurogroup και Ecofin στο Δουβλίνο, 18-19 Σεπτεμβρίου 
-- cbc: 8
+- cbc: 11
     - 2026-09-09 announcement  CIR Statistics August 2026
     - 2026-09-10 announcement  Η Κεντρική Τράπεζα της Κύπρου συγχαίρει τον νέο Πρόεδρο της Επιτροπής Κεφαλαιαγοράς Κύπρου και καλωσορίζει τον
     - 2026-09-11 announcement  CBC Governor’s statement regarding yesterday’s monetary policy decision
+    - 2026-09-14 announcement  Στοιχεία επιτοκίων για καταθέσεις και δάνεια για κάθε πιστωτικό ίδρυμα με μήνα αναφοράς Ιούλιο 2026
     - 2026-09-14 announcement  The Rise and Fall of NPLs in Cyprus: Solved, Transferred or Transformed?
+    - 2026-09-17 announcement  Aggregate Cyprus banking sector data (non-performing loans data) with reference date 30 June 2026
     - 2026-09-17 announcement  Aggregate Cyprus banking sector data (profitability, balance sheet and capital adequacy data) with reference d
+    - 2026-09-17 announcement  Bank holiday
     - 2026-09-17 announcement  Central Bank of Cyprus balance sheet as at the end of August 2026
     - 2026-09-17 announcement  CBC Macroeconomic Forecasts for the Cyprus Economy
     - 2026-09-18 announcement  Προκήρυξη Διαγωνισμού για την Παροχή Υπηρεσιών Καθαρισμού των Εσωτερικών και των Εξωτερικών χώρων των Κτηρίων 
