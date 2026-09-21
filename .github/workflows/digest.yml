@@ -46,10 +46,24 @@ jobs:
           sudo apt-get update -q
           sudo apt-get install -y -q poppler-utils fonts-dejavu-core
           python -m pip install --quiet --upgrade pip
-          python -m pip install --quiet requests beautifulsoup4 lxml pypdf reportlab
+          python -m pip install --quiet requests beautifulsoup4 lxml pypdf reportlab cryptography certifi
 
       - name: Offline self-test (parsers + fixtures)
         run: python scripts/selftest.py
+
+      # mof.gov.cy sends its certificate without the intermediate CA; complete the chain the way a
+      # browser does (AIA) and keep verification on. Only if that fails, verification is switched
+      # off for that single host, with a warning in the run summary.
+      - name: Complete the Gazette certificate chain
+        id: chain
+        run: |
+          if BUNDLE=$(python scripts/fix_chain.py www.mof.gov.cy --out "$RUNNER_TEMP/ca-bundle.pem"); then
+            echo "REQUESTS_CA_BUNDLE=$BUNDLE" >> "$GITHUB_ENV"
+            echo "chain completed via AIA: $BUNDLE"
+          else
+            echo "EXTRA_ARGS=--insecure-hosts www.mof.gov.cy" >> "$GITHUB_ENV"
+            echo "::warning::could not complete the mof.gov.cy certificate chain – TLS verification disabled for that host only"
+          fi
 
       - name: Collect
         id: collect
@@ -64,9 +78,10 @@ jobs:
             *..*)     ARGS="--from ${WINDOW%..*} --to ${WINDOW#*..}" ;;
             *)        echo "bad window: $WINDOW"; exit 1 ;;
           esac
-          python scripts/digest_collect.py $ARGS --out runs -v 2>&1 | tee collect.log
+          python scripts/digest_collect.py $ARGS $EXTRA_ARGS --out runs -v 2>&1 | tee collect.log
           RUN_DIR=$(ls -d runs/*_* | sort | tail -1)
           echo "run_dir=$RUN_DIR" >> "$GITHUB_OUTPUT"
+          echo "run_name=$(basename "$RUN_DIR")" >> "$GITHUB_OUTPUT"
           # the raw HTTP cache is large and reproducible – not committed
           rm -rf "$RUN_DIR/raw"
           rm -rf runs/latest && cp -r "$RUN_DIR" runs/latest
@@ -88,12 +103,12 @@ jobs:
           git config user.name "digest-bot"
           git config user.email "digest-bot@users.noreply.github.com"
           git add runs
-          git commit -m "digest run ${{ steps.collect.outputs.run_dir }} [skip ci]" || echo "nothing to commit"
+          git commit -m "digest run ${{ steps.collect.outputs.run_name }} [skip ci]" || echo "nothing to commit"
           git push
 
       - name: Upload run as artifact (backup, 90 days)
         uses: actions/upload-artifact@v5
         with:
-          name: ${{ steps.collect.outputs.run_dir }}
+          name: digest-${{ steps.collect.outputs.run_name }}
           path: runs/latest
           retention-days: 90
