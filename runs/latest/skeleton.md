@@ -1,5 +1,5 @@
 # Skeleton — Cyprus law digest, window 14.09.2026 – 20.09.2026
-Generated 2026-09-21T04:13:50 by digest_collect.py on runnervmlun5p. Sources: gazette: 11 items; cylaw: 2 items; cylawkdp: 8 items; nomoplatform: BLOCKED cloudflare; govcy: 38 items; registrar: 1 items; cbc: 8 items
+Generated 2026-09-21T09:12:18 by digest_collect.py on runnervmlun5p. Sources: gazette: 11 items; cylaw: 2 items; cylawkdp: 8 items; nomoplatform: BLOCKED cloudflare; govcy: 38 items; registrar: 1 items; cbc: 8 items
 
 Coverage: Παρ. Ι(Ι): No. 5096 (17.09) (live list up to 2026-09-17); Παρ. Ι(ΙΙ): no issue in window (live list up to 2026-07-17); Παρ. Ι(ΙΙΙ): no issue in window (live list up to 2026-07-24); Παρ. ΙΙΙ(Ι): No. 6047 (18.09), No. 6046 (15.09) (live list up to 2026-09-18); CyLaw I: highest 125(I)/2026, walked down to 122(I)/2026; CyLaw II: highest 42(II)/2026, walked down to 39(II)/2026; CyLaw III: highest 6(III)/2026, walked down to 4(III)/2026; CyLaw Κ.Δ.Π. index: latest 372/2026, 8 in window (issues 6046, 6047)
 Rules: write only from the fields below (verbatim = exact source wording). Invent nothing; an empty field means 'not found' – say so or open the link / texts/<id>.txt.

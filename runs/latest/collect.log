@@ -8,7 +8,7 @@ DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.n
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6 HTTP/1.1" 200 5339
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/9736D46BCBC9A5ECC2258E76001DEEB2?OpenDocument HTTP/1.1" 200 4267
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/9736D46BCBC9A5ECC2258E76001DEEB2/$file/6047%2018%209%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 1340545
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/DD061477D549EE63C2258E73002EB03D?OpenDocument HTTP/1.1" 200 4256
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/DD061477D549EE63C2258E73002EB03D?OpenDocument HTTP/1.1" 200 4253
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/DD061477D549EE63C2258E73002EB03D/$file/6046%2015%209%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 240530
 INFO root: gazette: 11 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.cylaw.org:443
