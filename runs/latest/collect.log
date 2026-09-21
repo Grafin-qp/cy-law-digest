@@ -1,0 +1,110 @@
+DEBUG urllib3.util.retry: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (2): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (3): www.mof.gov.cy:443
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (4): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (5): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (6): www.mof.gov.cy:443
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (7): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (8): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (9): www.mof.gov.cy:443
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (10): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (11): www.mof.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6'): Retry(total=0, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)'))': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (12): www.mof.gov.cy:443
+INFO root: gazette: 0 items (BLOCKED: ssl_error)
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.cylaw.org:443
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/2026_arith_index.html HTTP/1.1" 200 38939
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_125.pdf HTTP/1.1" 200 832134
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_124.pdf HTTP/1.1" 200 580694
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_123.pdf HTTP/1.1" 200 594621
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_122.pdf HTTP/1.1" 200 189389
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_042.pdf HTTP/1.1" 200 1086231
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_041.pdf HTTP/1.1" 200 1667795
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_040.pdf HTTP/1.1" 200 1442366
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_039.pdf HTTP/1.1" 200 766470
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_006.pdf HTTP/1.1" 200 5412238
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_005.pdf HTTP/1.1" 200 5397237
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_004.pdf HTTP/1.1" 200 4190560
+INFO root: cylaw: 2 items
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/2026.html HTTP/1.1" 200 99937
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_328.pdf HTTP/1.1" 200 242087
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_329.pdf HTTP/1.1" 200 672276
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_330.pdf HTTP/1.1" 200 795139
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_331.pdf HTTP/1.1" 200 764679
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_332.pdf HTTP/1.1" 200 928591
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_333.pdf HTTP/1.1" 200 807072
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_334.pdf HTTP/1.1" 200 756855
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_335.pdf HTTP/1.1" 200 753596
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_336.pdf HTTP/1.1" 200 752756
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_337.pdf HTTP/1.1" 200 734745
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_338.pdf HTTP/1.1" 200 796015
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_339.pdf HTTP/1.1" 200 763206
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_340.pdf HTTP/1.1" 200 830619
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_341.pdf HTTP/1.1" 200 286539
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_343.pdf HTTP/1.1" 200 791495
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_344.pdf HTTP/1.1" 200 909761
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_345.pdf HTTP/1.1" 200 765703
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_346.pdf HTTP/1.1" 200 932960
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_347.pdf HTTP/1.1" 200 820133
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_348.pdf HTTP/1.1" 200 818611
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_372.pdf HTTP/1.1" 200 876754
+INFO root: cylawkdp: 21 items
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.nomoplatform.cy:443
+DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v2/bill-status?_fields=id%2Cname%2Cslug&per_page=100&page=1 HTTP/1.1" 403 None
+WARNING cylaw_digest.http: fetch failed https://www.nomoplatform.cy/wp-json/wp/v2/bill-status?_fields=id%2Cname%2Cslug&per_page=100&page=1 -> 403 cloudflare
+DEBUG urllib3.connectionpool: Resetting dropped connection: www.nomoplatform.cy
+DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v2/thematic-unit?_fields=id%2Cname%2Cslug&per_page=100&page=1 HTTP/1.1" 403 None
+WARNING cylaw_digest.http: fetch failed https://www.nomoplatform.cy/wp-json/wp/v2/thematic-unit?_fields=id%2Cname%2Cslug&per_page=100&page=1 -> 403 cloudflare
+DEBUG urllib3.connectionpool: Resetting dropped connection: www.nomoplatform.cy
+DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v2/type-of-legislation?_fields=id%2Cname%2Cslug&per_page=100&page=1 HTTP/1.1" 403 None
+WARNING cylaw_digest.http: fetch failed https://www.nomoplatform.cy/wp-json/wp/v2/type-of-legislation?_fields=id%2Cname%2Cslug&per_page=100&page=1 -> 403 cloudflare
+DEBUG urllib3.connectionpool: Resetting dropped connection: www.nomoplatform.cy
+DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v2/competent-ministry?_fields=id%2Cname%2Cslug&per_page=100&page=1 HTTP/1.1" 403 None
+WARNING cylaw_digest.http: fetch failed https://www.nomoplatform.cy/wp-json/wp/v2/competent-ministry?_fields=id%2Cname%2Cslug&per_page=100&page=1 -> 403 cloudflare
+INFO root: nomoplatform: 0 items (BLOCKED: cloudflare)
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.gov.cy:443
+DEBUG urllib3.connectionpool: https://www.gov.cy:443 "GET /wp-json/wp/v2/posts?after=2026-09-08T00%3A00%3A00&before=2026-09-21T23%3A59%3A59&categories=182%2C183%2C254%2C218%2C188%2C217&per_page=100&page=1&orderby=date&order=desc&_fields=id%2Cdate%2Cmodified%2Clink%2Ctitle%2Cexcerpt%2Ccontent%2Ccategories HTTP/1.1" 200 None
+INFO root: govcy: 61 items
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.companies.gov.cy:443
+DEBUG urllib3.connectionpool: https://www.companies.gov.cy:443 "GET /gr/%CE%B2%CE%AC%CF%83%CE%B7-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/%CE%BD%CE%AD%CE%B1 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.companies.gov.cy:443 "GET /gr/%CE%B2%CE%AC%CF%83%CE%B7-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/%CE%BD%CE%AD%CE%B1/%CE%B5%CF%80%CE%B9%CE%B2%CE%B5%CE%B2%CE%B1%CE%B9%CF%89%CF%83%CE%B7-%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%B9%CF%89%CE%BD-%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%89%CE%BD-%CE%B4%CE%B9%CE%BA%CE%B1%CE%B9%CE%BF%CF%85%CF%87%CF%89%CE%BD-%CF%83%CF%84%CE%BF-%CF%83%CF%85%CF%83%CF%84%CE%B7%CE%BC%CE%B1-%CF%84%CE%BF%CF%85-%CE%BC%CE%B7%CF%84%CF%81%CF%89%CE%BF%CF%85-%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%89%CE%BD-%CE%B4%CE%B9%CE%BA%CE%B1%CE%B9%CE%BF%CF%85%CF%87%CF%89%CE%BD-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-%CE%B5%CF%84%CE%BF%CF%83-2026 HTTP/1.1" 200 None
+INFO root: registrar: 1 items
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.centralbank.cy:443
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/tender-21-2026-18-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/npls-30-june-2026-17-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/profit-bs-and-capital-adequacy-30-june-2026-17-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/bank-holiday-17-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/central-bank-of-cyprus-balance-sheet-as-at-the-end-of-august-2026-17-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/macroeconomic-forecasts-2026-2028-17-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/imir-ref-month-july-2026-14-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/npls-14-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/governor-statement-11-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/10-09-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/cir-statistics-august-2026-09-09-2026 HTTP/1.1" 200 None
+INFO root: cbc: 11 items
+window 2026-09-08..2026-09-21: collected 96, kept 39, other laws 1, dropped 57
+  gazette       BLOCKED ssl_error                        items=0
+  cylaw         ok                                       items=2
+  cylawkdp      ok                                       items=21
+  nomoplatform  BLOCKED cloudflare                       items=0
+  govcy         ok                                       items=61
+  registrar     ok                                       items=1
+  cbc           ok                                       items=11
+→ runs/2026-09-08_2026-09-21/skeleton.md

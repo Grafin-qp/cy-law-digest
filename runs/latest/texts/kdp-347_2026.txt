@@ -1,0 +1,849 @@
+2154
+Ε.Ε. Παρ. ΙΙΙ(Ι)
+Αρ. 6047, 18.9.2026
+
+Αριθμός 347
+ΟΙ ΠΕΡΙ ΤΥΠΟΠΟΙΗΣΗΣ, ΔΙΑΠΙΣΤΕΥΣΗΣ ΚΑΙ ΤΕΧΝΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ ΝΟΜΟI ΤΟΥ 2002 ΕΩΣ 2012
+Γνωστοποίηση βάσει του άρθρου 5 του βασικού νόμου 156(Ι)/2002
+και του άρθρου 6 του Τροποποιητικού Νόμου 57(Ι)/2011
+Με το παρόν γνωστοποιείται ότι βάσει των άρθρων 5 του βασικού νόμου 156(Ι) του 2002 και 6 του Τροποποιητικού
+Νόμου 57(Ι)/2011 που ρυθμίζουν τις δραστηριότητες της Τυποποίησης, Διαπίστευσης και Τεχνικής Πληροφόρησης, ο
+Κυπριακός Οργανισμός Τυποποίησης (CYS) δημοσιεύει ως Κυπριακά πρότυπα τα πιο κάτω Ευρωπαϊκά πρότυπα:
+STANDARDS FROM EUROPEAN COMMITTEE FOR ELECTROTECHNICAL STANDARDIZATION (CENELEC)
+
+01
+
+Generalities. Terminology. Standardization. Documentation
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN IEC
+81346-14:2026
+
+Industrial systems, installations and equipment and industrial
+products - Structuring principles and reference designations - Part
+14: Manufacturing and processing systems
+
+01.110
+
+CLC Guide
+32:2026
+
+Guidelines for Safety Related Risk Assessment and Risk
+Reduction for Low Voltage Equipment
+
+01.120
+
+S/S CLC
+Guide
+32:2014=W/D
+
+ICS1
+
+Withdrawn
+
+11.140
+
+S/S CYS EN
+IEC 80601-252:2010
+(+A1:2015
++AC:2011)
+=W/D
+
+ICS1
+
+Withdrawn
+S/S CYS EN
+62321-31:2014=W/D
+
+11
+
+CYS EN
+Document:
+CYS EN IEC
+80601-252:2026
+
+Withdrawn
+
+Health care technology
+
+Title
+
+Medical electrical equipment - Part 2-52: Particular requirements
+for the basic safety and essential performance of medical beds for
+adults
+
+13
+
+Environment. Health protection. Safety
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+62321-31:2026
+
+Determination of certain substances in electrotechnical products Part 3-1: Screening - Lead, mercury, cadmium, total chromium,
+total bromine, total phosphorus, total chlorine, total tin and total
+antimony content by X-ray fluorescence spectrometry
+
+13.020.01
+
+CYS EN IEC
+63395:2026
+
+Sustainable management of waste electrical and electronic
+equipment (e-waste)
+
+13.020.01
+
+CYS EN IEC
+62321-14:2026
+
+Determination of certain substances in electrotechnical products Part 14: Short-chain chlorinated paraffins (SCCPs) and mediumchain chlorinated paraffins (MCCPs) in plastics by gas
+chromatography-negative chemical ionization-mass spectrometry
+(GC-NCI-MS)
+
+13.020.01
+
+2155
+
+CYS EN IEC
+60695-210:2026
+
+Fire hazard testing - Part 2-10: Glowing/Hot-wire based test
+methods - Glow-wire apparatus and common test procedure
+
+13.220.40
+
+CYS EN IEC
+62061:2021
+/A2:2026
+
+Safety of machinery - Functional safety of safety-related control
+systems
+
+13.110
+
+CYS CLC
+IEC/TS
+63457-1:2026
+
+Household and similar appliances - Subsequent safety testing after
+repair, refurbishment, and remanufacturing - Part 1: General
+requirements
+
+17
+
+S/S CYS EN
+IEC 60695-210:2021
+(+AC:202401) =W/D
+
+13.020.60
+
+Metrology and measurement. Physical phenomena
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+62301:2026
+
+Measurement of standby power for appliances and equipment
+
+ICS1
+
+Withdrawn
+
+17.220.20
+
+S/S CYS EN
+50564:2011
+=W/D
+
+ICS1
+
+Withdrawn
+
+Manufacturing engineering
+
+25
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+62841-33:2026
+/A11:2026
+
+Electric motor-operated hand-held tools, transportable tools and
+lawn and garden machinery - Safety - Part 3-3: Particular
+requirements for transportable planers and thicknessers
+
+25.140.20
+
+Electric motor-operated hand-held tools, transportable tools and
+lawn and garden machinery - Safety - Part 3-15: Particular
+requirements for transportable magnetic drills
+
+25.140.20
+
+CYS EN IEC
+62841-315:2026
+/A11:2026
+
+Electric motor-operated hand-held tools, transportable tools and
+lawn and garden machinery - Safety - Part 3-15: Particular
+requirements for transportable magnetic drills
+
+25.140.20
+
+CYS EN IEC
+62541-9:2026
+
+OPC unified architecture - Part 9: Alarms and Conditions
+
+25.040.40
+
+S/S CYS EN
+IEC 625419:2020=W/D
+
+CYS EN IEC
+62395-1:2026
+
+Electrical resistance trace heating systems for industrial and
+commercial applications - Part 1: General and testing requirements
+
+25.180.10
+
+S/S CYS EN
+623951:2013=W/D
+
+CYS EN
+IEC/IEEE
+62395-2:2026
+
+Electrical resistance trace heating systems for industrial and
+commercial applications - Part 2: Application guide for system
+design, installation and maintenance
+
+25.180.10
+
+S/S CYS EN
+623952:2013=W/D
+
+CYS EN IEC
+62841-46:2024
+/AC:2026-06
+
+Electric motor-operated hand-held tools, transportable tools and
+lawn and garden machinery - Safety - Part 4-6: Particular
+requirements for garden blowers, garden vacuums and garden
+blower/vacuums
+
+25.140.20
+
+CYS EN IEC
+62841-222:2025
+/AC:2026-07
+
+Electric motor-operated hand-held tools, transportable tools and
+lawn and garden machinery - Safety - Part 2-22: Particular
+requirements for hand-held cut-off machines
+
+25.140.20
+
+CYS EN IEC
+62841-315:2026
+
+2156
+
+27
+
+Energy and heat transfer engineering
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN IEC
+63257:2026
+
+Power line communication for DC shutdown equipment Communication signal, physical layer
+
+27.160
+
+CYS EN IEC
+63230:2026
+
+Fatigue assessment of hydraulic turbine runners: from design to
+quality assurance
+
+27.140
+
+CYS EN
+IEC/IEEE
+62582-1:2026
+
+Nuclear power plants - Instrumentation and control important to
+safety - Electrical equipment condition monitoring methods - Part 1:
+General
+
+27.120.20
+
+CYS EN
+IEC/IEEE
+62582-2:2026
+
+Nuclear power plants - Instrumentation and control important to
+safety - Electrical equipment condition monitoring methods - Part 2:
+Indenter measurements
+
+27.120.20
+
+CYS EN
+IEC/IEEE
+62582-3:2026
+
+Nuclear power plants - Instrumentation and control important to
+safety - Electrical equipment condition monitoring methods - Part 3:
+Elongation at break
+
+27.120.20
+
+CYS EN
+IEC/IEEE
+62582-4:2026
+
+Nuclear power plants - Instrumentation and control important to
+safety - Electrical equipment condition monitoring methods - Part 4:
+Oxidation induction techniques
+
+27.120.20
+
+CYS EN IEC
+62705:2026
+
+Nuclear facilities - Instrumentation and control important to safety Radiation monitoring systems (RMS): Characteristics and lifecycle
+
+27.120.20
+
+CYS EN IEC
+62397:2026
+
+Nuclear power plants - Instrumentation and control important to
+safety - Resistance temperature detectors
+
+27.120.20
+
+CYS EN IEC
+61225:2026
+
+Nuclear power plants - Instrumentation, control and electrical
+power systems - Requirements for static uninterruptible DC and AC
+power supply systems
+
+CWA
+50784:2026
+
+Impact of P2P trading at distribution grid level
+
+29
+
+27.120.20
+
+Withdrawn
+
+S/S CYS
+EN IEC
+61225:2020
+=W/D
+
+27.015
+
+Electrical engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+62275:2026
+
+Cable management systems - Cable ties for electrical
+installations
+
+29.120.10
+
+CYS EN IEC
+6352241:2026
+
+Electrical relays - Tests and measurements - Part 41: Tests
+and measurement procedures - Insulation coordination
+
+29.120.70
+
+CYS EN IEC
+61995-1:2026
+
+Devices for the connection of luminaires for household and
+similar purposes - Part 1: General requirements
+
+29.120.20
+
+CYS EN IEC
+61995-1:2026
+/A11:2026
+
+Devices for the connection of luminaires for household and
+similar purposes - Part 1: General requirements
+
+29.120.20
+
+CYS EN IEC
+6094710:2026
+
+Low-voltage switchgear and controlgear - Part 10:
+Semiconductor circuit-breakers
+
+29.130.20
+
+ICS1
+
+Withdrawn
+S/S CYS
+EN IEC 62275:2019
+=W/D
+
+S/S CYS EN 619951:2008
+(+A11:2021+A1:2017)
+=W/D
+
+2157
+
+CYS EN IEC
+60947-55:2026
+
+Low-voltage switchgear and controlgear - Part 5-5: Control
+circuit devices and switching elements - Electrical
+emergency stop device with mechanical latching function
+
+29.120.99
+
+S/S CYS EN 609475-5:1997
+(+A11:2013+A1:2005
++A2:2017) =W/D
+
+CYS EN IEC
+62683-1:2026
+
+Switchgear, controlgear and their assemblies for lowvoltage - Product data and properties for information
+exchange - Part 1: Catalogue data
+
+29.130.20
+
+S/S CYS EN 626831:2017=W/D
+
+CYS EN IEC
+62196-3:2026
+
+Plugs, socket-outlets, vehicle connectors and vehicle inlets Conductive charging of electric vehicles - Part 3:
+Dimensional compatibility requirements for DC and AC/DC
+pin and contact-tube vehicle couplers
+
+29.120.30
+
+S/S CYS EN IEC
+62196-3:2022=W/D
+
+CYS EN IEC
+61643361:2026
+
+Low-voltage surge protective devices - Part 361: Surge
+isolation transformers (SITs) connected to low-voltage
+distribution system - Requirements and test methods
+
+29.180
+
+CYS EN IEC
+61803:2026
+
+Determination of power losses in high-voltage direct current
+(HVDC) converter stations
+
+29.200
+
+CYS EN
+50310:2016
+/A2:2026
+
+Telecommunications bonding networks for buildings and
+other structures
+
+29.120.50
+
+CYS EN
+50341-223:2026
+
+Overhead electrical lines exceeding AC 1 kV - Part 2-23:
+National Normative Aspects (NNA) for SLOVAKIA (based
+on EN 50341-1:2012)
+
+29.240.20
+
+CYS EN
+50171:2021
+/AC:2026-07
+
+Central safety power supply systems
+
+29.240
+
+CYS EN IEC
+6007911:2024
+/AC:2026-07
+
+Explosive atmospheres - Part 11: Equipment protection by
+intrinsic safety "i"
+
+29.260.20
+
+31
+
+S/S CYS
+EN IEC 61803:2020
+=W/D
+
+S/S CYS EN 503412-23:2016=W/D
+
+Electronics
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN IEC
+61249-36:2026
+
+Materials for circuit boards and other interconnecting structures Part 3-6: Sectional specification set for unreinforced base materials
+clad and unclad - Polytetrafluoroethylene (PTFE) filled laminate
+sheets of defined flammability (vertical burning test), copper-clad
+
+31.180
+
+CYS EN IEC
+60444-11:2026
+
+Measurement of quartz crystal unit parameters - Part 11: Standard
+method for the determination of the load resonance frequency fL
+and the effective load capacitance CLeff using automatic network
+analyzer techniques and error correction
+
+31.140
+
+S/S CYS EN
+6044411:2010=W/D
+
+CYS EN IEC
+61760-4:2026
+
+Surface mounting technology - Part 4: Classification, packaging,
+labelling and handling of moisture sensitive devices
+
+31.190
+
+S/S CYS EN
+61760-4:2015
+(+A1:2018)
+=W/D
+
+CYS EN IEC
+63171-1:2026
+
+Connectors for electrical and electronic equipment - Part 1: Detail
+specification for 2-way, shielded or unshielded, free and fixed
+connectors - Mechanical mating information, pin assignment and
+additional requirements for Type 1 (copper LC style)
+
+31.220.10
+
+S/S CYS EN
+IEC 631711:2020=W/D
+
+Withdrawn
+
+2158
+
+33
+
+Telecommunications. Audio and video engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+61753-02213:2026
+
+Fibre optic interconnecting devices and passive components Performance standard - Part 022-13: Multimode fibre optic
+connectors terminated as pigtails and patchcords for category OP+
+HD - Extended outdoor protected environment with additional heat
+dissipation
+
+33.180.20
+
+CYS EN IEC
+61753-02103:2026
+
+Fibre optic interconnecting devices and passive components Performance standard - Part 021-03: Single-mode fibre optic
+connectors terminated as pigtails and patchcords for category OP Outdoor protected environment
+
+33.180.20
+
+CYS EN IEC
+60794-1117:2026
+
+Optical fibre cables - Part 1-117: Generic specification - Basic
+optical cable test procedures - Mechanical test methods - Bending
+stiffness, method E17
+
+33.180.10
+
+CYS EN IEC
+60794-1125:2026
+
+Optical fibre cables - Part 1-125: Generic specification - Basic
+optical cable test procedures - Mechanical tests methods - Ripcord
+functional test, Method E25
+
+33.180.10
+
+CYS EN IEC
+61169-13:2026
+
+Radio-frequency connectors - Part 1-3: Electrical test methods Surge withstand - Surge protective devices built in a coaxial
+connector - Performance requirements and testing methods
+
+33.120.30
+
+CYS EN IEC
+60794-1136:2026
+
+Optical fibre cables - Part 1-136: Generic specification - Basic
+optical cable test procedures - Determination of the maximum
+applicable push force during cable installation by blowing
+
+33.180.10
+
+CYS EN IEC
+60794-1126:2026
+
+Optical fibre cables - Part 1-126: Generic specification - Basic
+optical cable test procedures - Mechanical tests methods Galloping, Method E26
+
+33.180.10
+
+S/S CYS EN
+60794-121:2015
+(+A1:2020)
+=W/D
+
+CYS EN IEC
+61754-2:2026
+
+Fibre optic interconnecting devices and passive components Fibre optic connector interfaces - Part 2: Type BFOC/2,5 connector
+family
+
+33.180.20
+
+S/S CYS EN
+617542:1997=W/D
+
+ICS1
+
+Withdrawn
+
+35.020
+
+S/S CYS EN
+IEC
+63474:2023
+=W/D
+
+35.240.60
+
+S/S CYS EN
+50159:2010
+(+A1:2020)
+=W/D
+
+35.240.60
+
+S/S CYS
+CLC/TR
+505423:2016=W/D
+
+35
+
+ICS1
+
+Withdrawn
+
+S/S CYS EN
+61753-0213:2013=W/D
+S/S CYS EN
+60794-121:2015
+(+A1:2020)
+=W/D
+
+Information technology
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+63474:2026
+
+Electrical and electronic household and office equipment Measurement of networked standby power of edge equipment
+
+CYS EN
+50159:2026
+
+Railway applications - Communication, signalling and processing
+systems - Safety-related communication in transmission systems
+
+CYS CLC/TR
+50542-3:2026
+
+Railway applications - Driver's cab Train Display Controller (TDC) Part 3: Other Train Systems FIS
+
+2159
+
+45
+
+Railway engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+60310:2026
+
+Railway applications - Transformers and inductors on
+board rolling stock
+
+59
+
+ICS1
+45.060.01
+
+S/S CYS EN
+60310:2016(+AC:201803) =W/D
+
+Textile and leather technology
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+63517:2026
+
+Wearable electronic textiles - Test method for performance of
+heating products - Heating temperature and power consumption
+
+ICS1
+
+Withdrawn
+
+59.080.80
+
+Domestic and commercial equipment. Entertainment. Sports
+
+97
+CYS EN
+Document:
+
+Withdrawn
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN IEC
+60730-29:2026
+
+Automatic electrical controls - Part 2-9: Particular requirements for
+temperature sensing controls
+
+97.120
+
+S/S CYS EN
+IEC 60730-29:2019
+(+A1:2019
++A2:2020)
+=W/D
+
+CYS EN IEC
+60730-215:2026
+
+Automatic electrical controls - Part 2-15: Particular requirements for
+automatic electrical air flow, water flow and water level sensing
+controls
+
+97.120
+
+S/S CYS EN
+IEC 60730-215:2019=W/D
+
+CYS EN IEC
+60730-25:2026
+
+Automatic electrical controls - Part 2-5: Particular requirements for
+automatic electrical burner control systems
+
+97.120
+
+S/S CYS EN
+60730-25:2015
+(+A2:2021
++A1:2019
++AC:2023-12)
+=W/D
+
+CYS EN IEC
+60730-224:2026
+
+Automatic electrical controls - Part 2-24: Particular requirements for
+displacement electrical controls
+
+97.120
+
+CYS EN IEC
+60730-224:2026

@@ -1,0 +1,2215 @@
+2140
+Ε.Ε. Παρ. ΙΙΙ(Ι)
+Αρ. 6047, 18.9.2026
+
+Αριθμός 346
+ΟΙ ΠΕΡΙ ΤΥΠΟΠΟΙΗΣΗΣ, ΔΙΑΠΙΣΤΕΥΣΗΣ ΚΑΙ ΤΕΧΝΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ ΝΟΜΟI ΤΟΥ 2002 ΕΩΣ 2012
+Γνωστοποίηση βάσει του άρθρου 5 του βασικού νόμου 156(Ι)/2002
+και του άρθρου 6 του Τροποποιητικού Νόμου 57(Ι)/2011
+Με το παρόν γνωστοποιείται ότι βάσει των άρθρων 5 του βασικού νόμου 156(Ι) του 2002 και 6 του Τροποποιητικού
+Νόμου 57(Ι)/2011 που ρυθμίζουν τις δραστηριότητες της Τυποποίησης, Διαπίστευσης και Τεχνικής Πληροφόρησης, ο
+Κυπριακός Οργανισμός Τυποποίησης (CYS) δημοσιεύει ως Κυπριακά πρότυπα τα πιο κάτω Ευρωπαϊκά πρότυπα:
+STANDARDS FROM EUROPEAN COMMITTEE FOR STANDARDIZATION (CEN)
+
+01
+
+Generalities. Terminology. Standardization. Documentation
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+11145:2026
+
+Optics and photonics - Lasers and laser-related equipment Vocabulary and symbols (ISO 11145:2026)
+
+03
+
+ICS1
+
+Withdrawn
+
+01.040.31
+
+S/S CYS
+EN ISO
+11145:2018
+=W/D
+
+Services. Company organization, management and quality. Administration. Transport.
+Sociology
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+14819-2:2021
+/A1:2026
+
+Intelligent transport systems - Traffic and travel information
+messages via traffic message coding - Part 2: Event and
+information codes for Radio Data System-Traffic Message Channel
+(RDS-TMC) using ALERT-C - Amendment 1 (ISO 148192:2021/Amd 1:2026)
+
+03.220.20
+
+CYS EN ISO
+41002:2026
+
+Facility management - Development of the facility management
+organization (ISO 41002:2026)
+
+03.080.10
+
+CYS EN ISO
+14097:2026
+
+Greenhouse gas management and related activities - Framework
+including principles and requirements for assessing and reporting
+investments and financing activities related to climate change (ISO
+14097:2021)
+
+03.060
+
+CYS EN
+18167:2026
+
+Quality along the patient pathway for medical imaging in radiology
+services
+
+03.100.70
+
+CWA
+18399:2026
+
+Good practice recommendations for a common EU guiding
+framework for the valuation of ecosystem services (monetary and
+non- monetary)
+
+03.080.01
+
+CWA
+18366:2026
+
+Commercial ports - Guidelines and requirements for the green
+transition of passenger terminals
+
+03.220.40
+
+CWA
+18387:2026
+
+Seafood marketing - Recommendations - Consumer and seafood
+types
+
+03.100.20
+
+ICS1
+
+Withdrawn
+
+2141
+
+07
+
+Natural and applied sciences
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+11290-1:2017
+/A1:2026
+
+Microbiology of the food chain - Horizontal method for the detection
+and enumeration of Listeria monocytogenes and of Listeria spp. Part 1: Detection method - Amendment 1: Inclusion of storage of
+the samples before analysis and changes in the control strain for
+performance testing of culture media and reagents (ISO 11290
+1:2017/Amd 1:2026)
+
+07.100.30
+
+CYS EN ISO
+11290-2:2017
+/A1:2026
+
+Microbiology of the food chain - Horizontal method for the detection
+and enumeration of Listeria monocytogenes and of Listeria spp. Part 2: Enumeration method - Amendment 1: Inclusion of storage
+of the samples before analysis and changes in the control strain for
+performance testing of culture media and reagents (ISO 112902:2017/Amd 1:2026)
+
+07.100.30
+
+CYS EN ISO
+18744:2016
+/A1:2026
+
+Microbiology of the food chain - Detection and enumeration of
+Cryptosporidium and Giardia in fresh leafy green vegetables and
+berry fruits - Amendment 1: Method validation studies and
+performance characteristics (ISO 18744:2016/Amd 1:2026)
+
+07.100.30
+
+CWA
+18386:2026
+
+Determination of nucleic acid encapsulation efficiency in Lipid
+Nanoparticles using fluorometry
+
+07.120
+
+11
+
+CYS EN
+Document:
+
+ICS1
+
+Withdrawn
+
+Health care technology
+
+Title
+
+ICS1
+
+Withdrawn
+S/S CYS
+EN ISO
+9680:2021
+=W/D
+
+CYS EN ISO
+9680:2026
+
+Dentistry - Operating lights (ISO 9680:2026)
+
+11.060.20
+
+CYS EN ISO
+3630-8:2026
+
+Dentistry - Endodontic instruments - Part 8: Accuracy of electronic
+apex locator (ISO 3630-8:2026)
+
+11.060.25
+
+CYS EN ISO
+3964-1:2026
+
+Dentistry - Coupling dimensions for handpiece connectors - Part 1:
+Mechanical properties (ISO 3964-1:2026)
+
+11.060.25
+
+S/S CYS
+EN ISO
+3964:2016
+(+A1:2019)
+=W/D
+
+CYS EN ISO
+23402-1:2026
+
+Dentistry - Portable dental equipment for use in non‐permanent
+healthcare environments - Part 1: General requirements (ISO
+23402-1:2026)
+
+11.060.20
+
+S/S CYS EN
+ISO 234021:2020=W/D
+
+11.060.20
+
+S/S CYS
+EN ISO
+10650:2018
+=W/D
+
+11.100.10
+
+S/S CYS
+EN ISO
+15193:2009
+=W/D
+
+CYS EN ISO
+10650:2026
+
+Dentistry - Powered polymerization activators (ISO 10650:2026)
+
+CYS EN ISO
+15193:2026
+
+In vitro diagnostic medical devices - Requirements for reference
+measurement procedures (ISO 15193:2026)
+
+CYS EN ISO
+15194:2026
+
+In vitro diagnostic medical devices - Requirements for certified
+reference materials and the content of supporting documentation
+(ISO 15194:2026)
+
+11.100.10
+
+S/S CYS
+EN ISO
+15194:2009
+=W/D
+
+CYS EN ISO
+8980-4:2026
+
+Ophthalmic optics - Uncut finished spectacle lenses - Part 4:
+Specifications and test methods for the properties of anti-reflective
+coatings and hydrophobic coating (ISO 8980-4:2026)
+
+11.040.70
+
+S/S CYS EN
+ISO 89804:2006=W/D
+
+2142
+
+CYS EN ISO
+11137-1:2026
+
+Sterilization of health care products - Radiation - Part 1:
+Requirements for the development, validation and routine control of
+a sterilization process for medical devices (ISO 11137-1:2025)
+
+11.080.01
+
+CYS CEN
+ISO/TS
+17664-3:2026
+
+Processing of health care products - Information to be provided by
+the medical device manufacturer for the processing of medical
+devices - Part 3: Guidance on the designation of a reusable
+medical device to a cleaning classification (ISO/TS 17664-3:2026)
+
+11.080.01
+
+CYS EN ISO
+12487:2026
+
+Medical electrical equipment - Clinical performance evaluation of
+clinical thermometers (ISO 12487:2026)
+
+11.040.55
+
+CYS EN ISO
+5364:2026
+
+Anaesthetic and respiratory equipment - Oropharyngeal airways
+(ISO 5364:2026)
+
+11.040.10
+
+CYS EN ISO
+5361:2023
+/A1:2026
+
+Anaesthetic and respiratory equipment - Tracheal tubes and
+connectors - Amendment 1: Reinstatement of third edition S1
+dimensions (ISO 5361:2023/Amd 1:2026)
+
+11.040.10
+
+CYS EN ISO
+80369-1:2026
+
+Small-bore connectors for liquids and gases in healthcare
+applications - Part 1: General requirements (ISO 80369-1:2025)
+
+11.040.10
+
+CYS CEN
+ISO/TS
+24971-2:2026
+
+Medical devices - Guidance on the application of ISO 14971 - Part
+2: Machine learning in artificial intelligence (ISO/TS 24971-2:2026)
+
+11.040.01
+
+S/S CYS EN
+ISO 111371:2015=W/D
+
+S/S CYS EN
+ISO
+5364:2016
+=W/D
+
+S/S CYS EN
+ISO 803691:2018=W/D
+
+Environment. Health protection. Safety
+
+13
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+16321-3:2022
+/A1:2026
+
+Eye and face protection for occupational use - Part 3:
+Additional requirements for mesh protectors Amendment 1 (ISO 16321-3:2021/Amd 1:2025)
+
+13.340.20
+
+CYS EN ISO
+14119:2025
+/A11:2026
+
+Safety of machinery - Interlocking devices associated
+with guards - Principles for design and selection
+
+13.110
+
+CYS EN
+13238:2026
+
+Reaction to fire tests for building products Conditioning procedures and general rules for selection
+of substrates
+
+13.220.50
+
+CYS CEN/TR
+18326:2026
+
+Report on installation scenarios, available test methods
+and national legislation to be considered for the fire
+performance classification of roof systems with above
+roof mounted PV modules
+
+13.220
+
+CYS EN
+1364-5:2026
+
+Fire resistance tests for non-loadbearing elements Part 5: Air transfer grilles
+
+13.220.50
+
+S/S CYS
+EN 1364-5:2017=W/D
+
+CYS EN
+15254-5:2026
+
+Extended application of results from fire resistance
+tests - Non-loadbearing walls - Part 5: Metal sandwich
+panel construction
+
+13.220.50
+
+S/S CYS
+EN 15254-5:2018=W/D
+
+CYS EN
+15254-7:2026
+
+Extended application of results from fire resistance
+tests - Non-loadbearing ceilings - Part 7: Metal
+sandwich panel construction
+
+13.220.50
+
+S/S CYS
+EN 15254-7:2018=W/D
+
+CYS EN ISO
+6909:2026
+
+Machine tools - Safety - Press brakes (ISO 6909:2026)
+
+13.110
+
+CYS EN
+1717:2025
++A1:2026
+
+Protection against pollution of water intended for
+human consumption in potable water installations and
+general requirements for devices to prevent pollution by
+backflow
+
+13.060.20
+
+CYS EN
+12255-2:2026
+
+Wastewater treatment plants - Part 2: Storm water
+management systems
+
+13.060.30
+
+ICS1
+
+Withdrawn
+
+S/S CYS EN 13238:2010
+=W/D
+
+S/S CYS EN
+12622:2009+A1:2013=W/D
+S/S CYS EN 1717:2025
+=W/D
+
+2143
+
+CYS EN
+12255-7:2026
+
+Wastewater treatment plants - Part 7: Biological fixedfilm reactors
+
+13.060.30
+
+S/S CYS
+EN 12255-7:2002=W/D
+
+CYS EN
+18185:2026
+
+Sustainability of construction works - Environmental
+product declarations - Product Category Rules for
+precast lightweight concrete with an open structure and
+precast autoclaved aerated concrete
+
+13.020.50
+
+CYS EN
+18158:2026
+
+Waste management - Mobile IT systems Requirements for the XML interface Office-Mobile
+
+13.030.40
+
+CYS EN
+1497213:2026
+
+Fixed firefighting systems - Water mist systems - Part
+13: Test protocol for wet benches and other similar
+processing equipment for open nozzle systems
+
+13.220.20
+
+CYS EN
+14972-2:2026
+
+Fixed firefighting systems - Water mist systems - Part
+2: Test protocol for shopping areas for automatic nozzle
+systems
+
+13.220.20
+
+CYS EN
+1225912:2023
++A1:2026
+
+Fixed firefighting systems - Components for sprinkler
+and water spray systems - Part 12: Pumps
+
+13.220.20
+
+S/S CYS
+EN 12259-12:2023=W/D
+
+CYS EN
+15767-1:2026
+
+Portable equipment for projecting extinguishing agents
+and firefighting support operations - Portable monitors Part 1 : General requirements for portable monitor
+assemblies
+
+13.220.10
+
+S/S CYS
+EN 15767-1:2009=W/D
+
+CYS EN
+16202:2026
+
+Compost and digestate - Determination of the content
+of macroscopic impurities and stones
+
+13.030.20
+
+S/S CYS CEN/TS
+16202:2013
+=W/D
+
+CYS EN
+18161:2026
+
+Water quality - Guidance standard on survey and
+monitoring freshwater mussel populations and their
+environment
+
+13.060.70
+
+CYS EN ISO
+17805:2026
+
+Water quality - Sampling, capture and preservation of
+environmental DNA from water (ISO 17805:2026)
+
+13.060.70
+
+CYS CEN/TS
+18272-1:2026
+
+Textiles - Circular economy for textile products - Part 1:
+General principles and guidance
+
+13.020.20
+
+CYS EN
+45545-6:2024
++A1:2026
+
+Railway applications - Fire protection on railway
+vehicles - Part 6: Fire control and management
+systems
+
+13.220.20
+
+CYS CEN/TS
+18275:2026
+
+Ambient air - Definition and use of modelling quality
+objectives for air quality assessment
+
+13.040.20
+
+CYS EN ISO
+6338:2026
+
+Method to calculate GHG emissions at LNG plant (ISO
+6338:2023)
+
+13.020.40
+
+CYS EN ISO
+6338-1:2026
+
+Calculations of greenhouse gas (GHG) emissions
+throughout the liquefied natural gas (LNG) chain - Part
+1: General (ISO 6338-1:2024)
+
+13.020.40
+
+CYS EN ISO
+6338-2:2026
+
+Calculations of greenhouse gas (GHG) emissions
+throughout the liquefied natural gas (LNG) chain - Part
+2: Natural gas production and transport to LNG plant
+(ISO 6338-2:2024)
+
+13.020.40
+
+CYS EN ISO
+5667-15:2026
+
+Water quality - Sampling - Part 15: Preservation and
+handling of samples of sludge, sediment and
+suspended matter (ISO 5667-15:2026)
+
+13.030.20
+
+CYS CEN/TR
+18325:2026
+
+Rubber materials obtained from EndofLife Tyres –
+Guidelines for the compliance to CLP and REACH
+regulations – Granulates and powders
+
+13.300
+
+CYS EN ISO
+18090-1:2026
+
+Radiological protection - Characteristics of reference
+pulsed radiation - Part 1: Photon radiation (ISO 180901:2026)
+
+13.280
+
+S/S CYS CEN ISO/TS
+18090-1:2019=W/D
+
+CYS EN ISO
+13196:2026
+
+Soil quality - Screening soils for selected elements by
+energy-dispersive X-ray fluorescence spectrometry
+using a handheld or portable instrument (ISO
+13196:2026)
+
+13.080.10
+
+S/S CYS
+EN ISO 13196:2015
+=W/D
+
+S/S CYS EN 17805:2023
+=W/D
+
+S/S CYS
+EN 45545-6:2024=W/D
+
+S/S CYS EN ISO 566715:2009=W/D
+
+2144
+
+CYS EN ISO
+23611-1:2026
+
+Soil quality - Sampling of soil invertebrates - Part 1:
+Hand-sorting and extraction of earthworms (ISO 236111:2026)
+
+13.080.05
+
+S/S CYS EN ISO 236111:2018=W/D
+
+CYS EN ISO
+23611-6:2026
+
+Soil quality - Sampling of soil invertebrates - Part 6:
+Design of sampling programmes with soil invertebrates
+(ISO 23611-6:2026)
+
+13.080.30
+
+S/S CYS EN ISO 236116:2013=W/D
+
+CYS EN ISO
+14021:2026
+
+Environmental statements and programmes for
+products - Self-declared environmental claims (ISO
+14021:2026)
+
+13.020.50
+
+S/S CYS
+EN ISO 14021:2016
+(+A1:2021)
+=W/D
+
+CYS EN ISO
+14025:2026
+
+Environmental statements and programmes for
+products - Environmental product declarations (EPDs)
+(ISO 14025:2026)
+
+13.020.50
+
+S/S CYS
+EN ISO 14025:2010
+=W/D
+
+CWA
+18407:2026
+
+Introductory Human-Centric Exposure Modelling (HCEM) method for estimating exposure to indoor air
+PM2,5
+
+13.040.20
+
+CWA
+18408:2026
+
+Protocol for quantification of exposure to Ultrafine
+Particles as part of Indoor Air Quality study
+
+13.040.20
+
+CWA
+18390:2026
+
+Guidelines for Disaster Risk Preparedness Solutions Project tools, platforms and processes - Good practice
+recommendations
+
+17
+
+13.200
+
+Metrology and measurement. Physical phenomena
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+9053-1:2026
+
+ICS1
+
+Withdrawn
+
+Acoustics - Determination of airflow resistance - Part 1: Static
+method (ISO 9053-1:2026)
+
+17.140.01
+
+S/S CYS EN
+ISO 90531:2018=W/D
+
+CYS EN
+12096:2026
+
+Mechanical vibration - Declaration and verification of vibration
+emission values
+
+17.160
+
+S/S CYS EN
+12096:1997
+=W/D
+
+CYS EN ISO
+1938-1:2026
+
+Geometrical product specifications (GPS) - Dimensional measuring
+equipment - Part 1: Plain limit gauges of linear size (ISO 19381:2026)
+
+17.040.40
+
+S/S CYS EN
+ISO 19381:2015=W/D
+
+21
+
+Mechanical systems and components for general use
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+8743:2026
+
+Fasteners - Grooved pins - Half-length centre grooved (ISO
+8743:2026)
+
+23
+
+ICS1
+
+Withdrawn
+
+21.060.50
+
+S/S CYS
+EN ISO
+8743:1998
+=W/D
+
+Fluid systems and components for general use
+
+CYS EN
+Document:
+
+Title
+
+CYS EN
+13445-1:2026
+
+Unfired pressure vessels - Part 1: General
+
+ICS1
+
+Withdrawn
+
+23.020.30
+
+S/S CYS
+EN 134451:2021=W/D
+
+2145
+
+CYS EN
+13445-10:2026
+CYS EN
+13445-2:2026
+
+CYS EN
+13445-3:2026
+
+Unfired pressure vessels - Part 10: Additional requirements for
+pressure vessels of nickel and nickel alloys
+Unfired pressure vessels - Part 2: Materials
+
+Unfired pressure vessels - Part 3: Design
+
+23.020.30
+
+S/S CYS
+EN 1344510:2021=W/D
+
+23.020.30
+
+S/S CYS EN
+13445-2:2021
++A1:2023
+=W/D
+
+23.020.30
+
+S/S CYS
+EN 134453:2021
++A1:2026
+=W/D
+
+CYS EN
+13445-5:2026
+
+Unfired pressure vessels - Part 5: Inspection and testing
+
+23.020.30
+
+S/S CYS
+EN 134455:2021
++A1:2024
+=W/D
+
+CYS EN
+13445-6:2026
+
+Unfired pressure vessels - Part 6: Requirements for the design and
+fabrication of pressure vessels and pressure parts constructed
+from spheroidal graphite cast iron
+
+23.020.30
+
+S/S CYS
+EN 134456:2021=W/D
+
+CYS EN
+13445-11:2026
+
+Unfired pressure vessels - Part 11: Additional requirements for
+pressure vessels of titanium and titanium alloys
+
+23.020.30
+
+S/S CYS
+EN 1344511:2024=W/D
+
+CYS EN
+13445-8:2026
+
+Unfired pressure vessels - Part 8: Additional requirements for
+pressure vessels of aluminium and aluminium alloys
+
+23.020.30
+
+S/S CYS
+EN 134458:2021=W/D
+S/S CYS
+EN 134454:2021
++A1:2023
+=W/D
+
+CYS EN
+13445-4:2026
+
+Unfired pressure vessels - Part 4: Fabrication
+
+23.020.30
+
+CYS CEN/TR
+18341:2026
+
+District heating and cooling systems - Supplementary information
+on usage of CEN/TC 107 documents
+
+23.040.07
+
+CYS EN ISO
+11301-1:2026
+
+Piping systems for rehabilitation of underground gas supply
+networks - Part 1: Polyethylene (PE) material (ISO 11301-1:2026)
+
+23.040.45
+
+S/S CYS EN
+ISO 212252:2018,
+CYS EN ISO
+212251:2018,
+CYS EN ISO
+112993:2018, CYS
+EN ISO
+112992:2018, CYS
+EN ISO
+112991:2018=W/D
+
+CYS EN
+12693:2026
+
+Refrigerating systems and heat pumps - Safety and environmental
+requirements - Positive displacement refrigerant compressors
+
+23.140
+
+S/S CYS EN
+12693:2008
+=W/D
+
+ICS1
+
+Withdrawn
+
+Manufacturing engineering
+
+25
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+18491:2026
+
+Welding and allied processes - Measurement of arc energies (ISO
+18491:2026)
+
+25.160.01
+
+2146
+
+CYS CEN
+ISO/ASTM TR
+52958:2026
+
+Additive manufacturing of metals - Powder bed fusion (PBF) - Insitu coaxial photodiode monitoring for lack of fusion flaw detection
+in PBF-LB (ISO/ASTM TR 52958:2026)
+
+25.030
+
+CYS EN
+ISO/ASTM
+52951:2026
+
+Additive manufacturing - Data - Data packages for AM parts
+(ISO/ASTM 52951:2026)
+
+25.030
+
+CWA
+18409:2026
+
+Grasp-free, surface-based robotic manipulation - Vocabulary,
+characteristics, performance criteria and related test methods
+
+25.040.30
+
+27
+
+Energy and heat transfer engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+16994:2026
+
+Solid biofuels and pyrogenic biocarbon - Determination of sulfur
+and chlorine content (ISO 16994:2026)
+
+31
+
+ICS1
+
+Withdrawn
+
+27.190
+
+S/S CYS
+EN ISO
+16994:2016
+=W/D
+
+Withdrawn
+
+Electronics
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN ISO
+22248:2026
+
+Lasers and laser-related equipment - Test methods for laserinduced damage threshold - Classification of medical beam
+delivery systems (ISO 22248:2020)
+
+31.260
+
+CYS EN ISO
+13694:2026
+
+Optics and photonics - Lasers and laser-related equipment - Test
+methods for laser beam irradiance (fluence) distribution (ISO
+13694:2026)
+
+31.260
+
+S/S CYS
+EN ISO
+13694:2018
+=W/D
+
+ICS1
+
+Withdrawn
+
+Information technology
+
+35
+
+CYS EN
+Document:
+
+Title
+
+CYS CEN/TS
+18098:2026
+
+Guidelines for the onboarding of user personal identification data
+within European Digital Identity Wallets
+
+35.240.15
+
+CYS CEN/TS
+18212-5:2026
+
+Personal identification - Requirements for biometric products - Part
+5: Face biometrics
+
+35.240.15
+
+CYS CEN/TR
+17689-1:2026
+
+BAC Control loop components - Quality and performance
+assessment - Part 1: General framework and procedure
+
+35.240.67
+
+CYS CEN/TS
+16157-8:2026
+
+Intelligent transport systems - DATEX II data exchange
+specifications for traffic management and information - Part 8:
+Traffic management publications and extensions dedicated to the
+urban environment
+
+35.240.60
+
+S/S CYS
+CEN/TS
+161578:2020=W/D
+
+CYS EN
+12896-1:2026
+
+Public transport - Reference data model - Part 1: Common
+concepts
+
+35.240.60
+
+S/S CYS EN
+128961:2016=W/D
+
+2147
+
+CYS EN
+12896-2:2026
+
+Public transport - Reference data model - Part 2: Public transport
+network
+
+35.240.60
+
+S/S CYS EN
+128962:2016=W/D
+
+CYS EN
+12896-6:2026
+
+Public transport - Reference data model - Part 6: Passenger
+information
+
+35.240.60
+
+S/S CYS EN
+128963:2019=W/D
+
+CYS EN
+12896-3:2026
+
+Public transport - Reference data model - Part 3: Timing
+information and vehicle scheduling
+
+35.240.60
+
+S/S CYS EN
+128963:2016=W/D
+
+CYS EN
+12896-5:2026
+
+Public transport - Reference data model - Part 5: Fare
+management
+
+35.240.60
+
+S/S CYS EN
+128965:2019=W/D
+
+CYS EN
+12896-4:2026
+
+Public transport - Reference data model - Part 4: Operations
+monitoring and control
+
+35.240.60
+
+S/S CYS EN
+128964:2019=W/D
+
+CYS EN
+12896-7:2026
+
+Public transport - Reference data model - Part 7: Driver
+management
+
+35.240.60
+
+S/S CYS EN
+128967:2019=W/D
+
+CYS CEN/TS
+16931-34:2026
+
+Electronic invoicing - Part 3-4: Syntax binding for UN/EDIFACT
+INVOIC D16B
+
+35.240.20
+
+S/S CYS
+CEN/TS
+16931-34:2020=W/D
+
+CYS CEN/TS
+16931-33:2026
+
+Electronic invoicing – Part 3-3: Syntax binding of EN 16931-1 to
+UN/CEFACT XML Industry Invoice
+
+35.240
+
+S/S CYS
+CEN/TS
+16931-33:2020=W/D
+
+CEN/TS
+16931-32:2026
+
+Electronic invoicing – Part 3-2 Syntax binding of EN 16931-1 to
+ISO/IEC 19845 (UBL) invoice and credit note
+
+35.240.20
+
+S/S CYS
+CEN/TS
+16931-32:2020=W/D
+
+CYS EN
+ISO/IEC
+27000:2026
+
+Information security, cybersecurity and privacy protection Information security management systems - Overview (ISO/IEC
+27000:2026)
+
+35.030
+
+S/S CYS EN
+ISO/IEC
+27000:2020
+=W/D
+
+CYS EN
+17640:2022
++A1:2026
+
+Fixed-time cybersecurity evaluation methodology for ICT products
+
+35.030
+
+S/S CYS EN
+17640:2022
+=W/D
+
+CYS EN
+18286:2026
+
+Artificial intelligence - Quality management system for EU AI Act
+regulatory purposes
+
+35.240.01
+
+CYS
+CEN/CLC/TS
+18331:2026
+
+Maturity assessment of Common European Data Spaces
+
+35.210
+
+CWA
+18398:2026
+
+AI Professional Role Profiles and Educational Profiles
+
+35.020
+
+43
+
+Road vehicles engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN
+13856:2026
+
+ICS1
+
+Withdrawn
+
+LPG equipment and accessories - Minimum requirements for the
+content of the user manual for automotive LPG systems
+
+43.060.40
+
+S/S CYS EN
+13856:2002
+=W/D
+
+CYS EN ISO
+15118-20:2022
+/A1:2026
+
+Road vehicles - Vehicle to grid communication interface - Part 20:
+2nd generation network layer and application layer requirements Amendment 1: AC DER service, MCS service, and improved
+security concept (ISO 15118-20:2022/Amd 1:2026)
+
+43.120
+
+CYS EN
+17860-2:2024
++A1:2026
+
+Carrier Cycles - Part 2: Lightweight single track carrier cycles Mechanical aspects
+
+43.150
+
+S/S CYS EN
+178602:2024=W/D
+
+2148
+
+45
+
+Railway engineering
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN
+18128-1:2026
+
+Railway applications - New materials - Part 1: Guideline and
+validation methodology
+
+45.040
+
+CYS EN
+13262:2026
+
+Railway applications - Wheelsets and bogies - Wheels - Product
+requirements
+
+45.040
+
+S/S CYS EN
+13262:2020
+=W/D
+
+Withdrawn
+
+47
+
+Withdrawn
+
+Shipbuilding and marine structures
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN ISO
+20650:2026
+
+Inland navigation vessels - Small floating working machines Requirements and test methods (ISO 20650:2025)
+
+47.060
+
+CYS EN ISO
+16315:2026
+
+Small craft - Electrical systems used for electrical propulsion (ISO
+16315:2026)
+
+47.080
+
+CYS EN ISO
+10087:2022
+/A1:2026
+
+Small craft - Craft identification - Coding system - Amendment 1
+(ISO 10087:2022/Amd 1:2026)
+
+47.080
+
+49
+
+S/S CYS
+EN ISO
+16315:2016
+=W/D
+
+Aircraft and space vehicle engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN
+6104:2026
+
+Aerospace series - Rivets, solid, in aluminium or aluminium alloy Inch series - Technical specification
+
+CYS EN
+3545-005:2026
+
+Aerospace series - Connectors, electrical, rectangular, with sealed
+and non-sealed rear, plastic housing, locking device, operating
+temperatures - 55 C to 175 C - Part 005: Female coding and
+attachment System for mounting on free housing (plug) - Product
+standard
+
+CYS EN
+4165-018:2026
+CYS EN
+3078:2026
+
+ICS1
+
+Withdrawn
+
+49.030.60
+
+49.060
+
+S/S CYS
+EN 3545005:2014
+=W/D
+
+Aerospace series - Connectors, electrical, rectangular, modular Operating temperature 175 °C continuous - Part 018: Protective
+cover for 1, 2 and 4 module receptacles series 2 and 3 - Product
+standard
+
+49.060
+
+S/S CYS
+EN 4165018:2015
+=W/D
+
+Aerospace series - P, Q and saddle clamps with rubber cushion Technical Specification
+
+49.060
+
+53
+
+Materials handling equipment
+
+CYS EN
+Document:
+
+Title
+
+CYS EN
+13135:2026
+
+Cranes - Safety - Requirements for equipment
+
+53.020.20
+
+S/S CYS EN
+13135:2013+A1:2018=W/D
+
+CYS EN
+13586:2026
+
+Cranes - Access
+
+53.020.20
+
+S/S CYS EN 13586:2020
+=W/D
+
+CYS EN
+1684211:2026
+
+Powered industrial trucks - Visibility - Test methods and
+verification - Part 11: Pallet-stacking trucks (rider
+controlled)
+
+ICS1
+
+53.060
+
+Withdrawn
+
+2149
+
+55
+
+Packaging and distribution of goods
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN ISO
+8367-1:2026
+
+Packaging - Dimensional tolerances for general purpose sacks Part 1: Paper sacks (ISO 8367-1:2026)
+
+55.080
+
+S/S CYS EN
+ISO 83671:1997=W/D
+
+ICS1
+
+Withdrawn
+
+59
+
+Textile and leather technology
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+11092:2026
+
+Textiles - Physiological effects - Measurement of thermal and
+water-vapour resistance under steady-state conditions (sweating
+guarded-hotplate test) (ISO 11092:2026)
+
+59.080.01
+
+S/S CYS
+EN ISO
+11092:2014
+=W/D
+
+CYS EN ISO
+105-X11:2026
+
+Textiles - Tests for colour fastness - Part X11: Colour fastness to
+hot pressing (ISO 105-X11:2026)
+
+59.080.01
+
+S/S CYS EN
+ISO 105X11:1996
+=W/D
+
+CYS EN ISO
+10325:2026
+
+Fibre ropes - High modulus polyethylene - 8-strand braided ropes,
+12-strand braided ropes and covered ropes (ISO 10325:2026)
+
+59.080.50
+
+S/S CYS
+EN ISO
+10325:2018
+=W/D
+
+CYS EN
+12131:2026
+
+Feather and down - Test methods - Determination of the
+quantitative composition of feather and down (manual method)
+
+59.040
+
+S/S CYS EN
+12131:2018
+=W/D
+
+ICS1
+
+Withdrawn
+
+65
+
+Agriculture
+
+CYS EN
+Document:
+
+Title
+
+CWA
+18410:2026
+
+Methodology to quantify food loss at primary production
+
+67
+
+65.020.99
+
+Food technology
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN
+602:2026
+
+Aluminium and aluminium alloys - Wrought products - Chemical
+composition of semi-finished products used for the fabrication of
+articles for use in contact with foodstuff
+
+67.250
+
+S/S CYS EN
+602:2004
+=W/D
+
+CYS CEN
+ISO/TS
+21569-10:2026
+
+Horizontal methods for molecular biomarker analysis - Methods of
+analysis for the detection of genetically modified organisms and
+derived products - Part 10: Construct- and event-specific detection
+methods for genetically modified salmon expressing CS-GHc2
+growth hormone (ISO/TS 21569 10:2026)
+
+67.120.30
+
+CYS EN ISO
+21415-2:2026
+
+Wheat and wheat flour - Gluten content - Part 2: Determination of
+wet gluten and gluten index by mechanical means (ISO 214152:2026)
+
+67.060
+
+S/S CYS EN
+ISO 214152:2015=W/D
+
+2150
+
+71
+CYS EN
+Document:
+CYS EN ISO
+10873:2026
+
+Chemical technology
+
+Title
+Dentistry - Denture adhesives (ISO 10873:2026)
+
+75
+
+ICS1
+
+Withdrawn
+
+71.100.70
+
+S/S CYS
+EN ISO
+10873:2021
+=W/D
+
+ICS1
+
+Withdrawn
+
+Petroleum and related technologies
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+19901-7:2026
+
+Specific requirements for offshore structures - Part 7:
+Stationkeeping systems for floating offshore structures and mobile
+offshore units (ISO 19901-7:2026)
+
+75.180.10
+
+S/S CYS EN
+ISO 199017:2013=W/D
+
+CYS EN ISO
+19901-2:2026
+
+Specific requirements for offshore structures - Part 2: Seismic
+design (ISO 19901-2:2026)
+
+75.180.10
+
+S/S CYS EN
+ISO 199012:2022=W/D
+
+CYS EN ISO
+20815:2026
+
+Oil and gas industries including lower carbon energy - Production
+assurance and reliability management (ISO 20815:2026)
+
+75.180.01
+
+S/S CYS
+EN ISO
+20815:2018
+=W/D
+
+CYS EN ISO
+19008:2026
+
+Oil and gas industries including lower carbon energy - Standard
+cost coding system (ISO 19008:2026)
+
+75.020
+
+S/S CYS
+EN ISO
+19008:2018
+=W/D
+
+CYS EN ISO
+20846:2026
+
+Petroleum and related products - Determination of sulfur content of
+automotive fuels - Ultraviolet fluorescence method (ISO
+20846:2026)
+
+75.160.20
+
+S/S CYS
+EN ISO
+20846:2019
+=W/D
+
+75.080
+
+S/S CYS EN
+ISO 42591:2017
+(+Α1:2019
++Α2:2020)
+=W/D
+
+CYS EN ISO
+4259-1:2026
+
+Petroleum and related products - Precision of measurement
+methods and results - Part 1: Determination of precision data in
+relation to methods of test (ISO 4259-1:2026)
+
+CYS EN ISO
+4259-2:2026
+
+Petroleum and related products - Precision of measurement
+methods and results - Part 2: Interpretation and application of
+precision data in relation to methods of test (ISO 4259-2:2026)
+
+75.080
+
+S/S CYS EN
+ISO 42592:2017
+(+A1:2019)
+=W/D
+
+CYS EN
+15721:2026
+
+Ethanol as a blending component for petrol - Determination of
+higher alcohols, methanol and other impurities - Gas
+chromatographic method
+
+75.160.20
+
+S/S CYS EN
+15721:2013
+=W/D
+
+CYS EN ISO
+7278-2:2022
+/A1:2026
+
+Petroleum measurement systems - Part 2: Pipe prover design,
+calibration and operation - Amendment 1 (ISO 7278-2:2022/Amd
+1:2026)
+
+75.180.30
+
+CYS EN ISO
+15589-1:2026
+
+Oil and gas industries including lower carbon energy - Cathodic
+protection of pipeline transportation systems - Part 1: On-land
+pipelines (ISO 15589-1:2026)
+
+75.200
+
+S/S CYS EN
+ISO 155891:2017=W/D
+
+2151
+
+77
+
+Metallurgy
+
+CYS EN
+Document:
+
+Title
+
+CYS EN
+601:2026
+
+ICS1
+
+Withdrawn
+
+Aluminium and aluminium alloys - Castings - Chemical composition
+of castings for use in contact with foodstuff
+
+77.150.10
+
+S/ S CYS EN
+601:2004
+=W/D
+
+CYS EN ISO
+14577-1:2026
+
+Metallic materials - Instrumented indentation test for hardness and
+materials parameters - Part 1: Test method (ISO 14577-1:2026)
+
+77.040.10
+
+S/S CYS EN
+ISO 145771:2015=W/D
+
+CYS EN ISO
+14577-2:2026
+
+Metallic materials - Instrumented indentation test for hardness and
+materials parameters - Part 2: Verification and calibration of testing
+machines (ISO 14577-2:2026)
+
+77.040.10
+
+S/S CYS EN
+ISO 145772:2015=W/D
+
+CYS EN ISO
+12135:2026
+
+Metallic materials - Unified method of test for the determination of
+quasistatic fracture toughness (ISO 12135:2021, including
+corrected version 2022-08)
+
+77.040.10
+
+CYS EN
+10365:2026
+
+Hot rolled steel channels, I and H sections - Dimensions and
+masses
+
+77.140.70
+
+S/S CYS EN
+10365:2017
+=W/D
+
+Wood technology
+
+79
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN
+15146:2026
+
+Solid softwood panelling and cladding - Machined profiles without
+tongue and groove
+
+79.080
+
+S/S CYS EN
+15146:2006
+=W/D
+
+CYS EN
+14519:2026
+
+Solid softwood panelling and cladding - Machined profiles with
+tongue and groove
+
+79.080
+
+S/S CYS EN
+14519:2005
+=W/D
+
+CYS EN
+14951:2026
+
+Solid hardwood panelling and cladding - Machined profiles
+
+79.080
+
+S/S CYS EN
+14951:2006
+=W/D
+
+Rubber and plastic industries
+
+83
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN
+15425:2023
++A1:2026
+
+Adhesives - One component polyurethane (PUR) for load-bearing
+timber structures - Classification and performance requirements
+
+83.180
+
+S/S CYS EN
+15425:2023
+=W/D
+
+CYS EN
+301:2023
++A1:2026
+
+Adhesives, phenolic and aminoplastic, for load-bearing timber
+structures - Classification and performance requirements
+
+83.180
+
+S/S CYS EN
+301:2023
+=W/D
+
+CYS EN
+302-8:2023
++A1:2026
+
+Adhesives for load-bearing timber structures - Test methods - Part
+8: Static load test of multiple bond line specimens in compression
+shear
+
+83.180
+
+S/S CYS
+EN 3028:2023=W/D
+
+CYS EN ISO
+844:2026
+
+Rigid cellular plastics - Determination of compressive properties
+(ISO 844:2026)
+
+83.100
+
+S/S CYS
+EN ISO
+844:2021
+=W/D
+
+2152
+
+CYS EN
+438-9:2026
+
+High-pressure decorative laminates (HPL) - Sheets based on
+thermosetting resins (usually called laminates) - Part 9:
+Classification and specifications for alternative core laminates
+
+83.140.20
+
+S/S CYS
+EN 4389:2017=W/D
+
+CYS EN ISO
+3451-1:2026
+
+Plastics - Determination of ash - Part 1: General methods (ISO
+3451-1:2026)
+
+83.080.01
+
+S/S CYS EN
+ISO 34511:2019=W/D
+
+CYS EN
+16662-3:2026
+
+Road vehicles - Supplementary grip devices for tyres of passenger
+cars and light duty vehicles - Part 3: Production control (selfmonitoring) and third-party surveillance
+
+83.160.10
+
+91
+
+Construction materials and building
+
+CYS EN
+Document:
+
+Title
+
+CYS EN ISO
+8100-2:2026
+
+ICS1
+
+Withdrawn
+
+Lifts for the transport of persons and goods - Part 2: Design rules,
+calculations, verifications and tests of lift components (ISO 81002:2026)
+
+91.140.90
+
+S/S CYS
+EN 8150:2020=W/D
+
+CYS EN ISO
+8100-1:2026
+
+Lifts for the transport of persons and goods - Part 1: Safety rules
+for the construction and installation of passenger and goods
+passenger lifts (ISO 8100-1:2026, including corrected version
+2026-05)
+
+91.140.90
+
+S/S CYS
+EN 8120:2020=W/D
+
+CYS EN
+1520:2026
+
+Precast lightweight concrete products with an open structure
+
+91.100.30
+
+S/S CYS EN
+1520:2011
+=W/D
+
+ICS1
+
+Withdrawn
+
+93
+
+Civil engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS CEN/TS
+18301:2026
+
+Road materials - Environmental product declarations - Product
+category rules complementary to EN 15804 for bituminous
+mixtures
+
+CYS EN
+16431:2026
+
+Railway applications - Infrastructure - Hollow sleepers and bearers
+
+CYS EN
+13848-6:2026
+
+Railway applications - Track - Track geometry quality - Part 6:
+Characterization of track geometry quality
+
+97
+CYS EN
+Document:
+
+93.080.20
+93.100
+
+S/S CYS EN
+16431:2014
+=W/D
+
+93.100
+
+S/S CYS EN
+13848-6:2014
++A1:2020
+=W/D
+
+Domestic and commercial equipment. Entertainment. Sports
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN
+1069-1:2026
+
+Water slides - Part 1: Safety requirements and test methods
+
+97.220.40
+
+S/S CYS EN
+1069-1:2017
++A1:2019
+=W/D
+
+CYS EN
+1069-2:2026
+
+Water slides - Part 2: Instructions
+
+97.220.40
+
+S/S CYS
+EN 10692:2017=W/D
+
+2153
+
+CYS EN
+16282-1:2026
+
+Equipment for commercial kitchens - Components for ventilation in
+commercial kitchens - Part 1: General requirements including
+calculation method
+
+97.040.99
+
+S/S CYS
+EN 162821:2017=W/D
+
+ΠΡΟΤΥΠΑ ΠΟΥ ΕΧΟΥΝ ΑΠΟΣΥΡΘΕΙ ΚΑΙ ΔΕΝ ΕΧΟΥΝ ΑΝΤΙΚΑΤΑΣΤΑΘΕΙ ΑΠΟ ΑΛΛΑ
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN
+101:1991
+
+Ceramic tiles - Determination of scratch hardness of surface
+according to Mohs
+
+91.100.25
