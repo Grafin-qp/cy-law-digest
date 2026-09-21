@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.opiniq.lawdigest</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/CHANGE_ME/Skills/opiniq-law-digest/deploy/macos-launchd/run.sh</string>
+    </array>
+    <!-- Monday 07:00 local time; launchd runs a missed job at the next wake -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key>
+        <integer>1</integer>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/tmp/com.opiniq.lawdigest.out</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/com.opiniq.lawdigest.err</string>
+</dict>
+</plist>
