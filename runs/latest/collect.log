@@ -1,50 +1,25 @@
 DEBUG urllib3.util.retry: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.mof.gov.cy:443
-DEBUG urllib3.util.retry: Incremented Retry for (url='/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
-WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='www.mof.gov.cy', port=443): Read timed out. (read timeout=40.0)")': /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16
-DEBUG urllib3.connectionpool: Starting new HTTPS connection (2): www.mof.gov.cy:443
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16 HTTP/1.1" 200 4797
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/F8FD4F7575FB32F8C2258E84002CD159?OpenDocument HTTP/1.1" 200 4255
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/F8FD4F7575FB32F8C2258E84002CD159/$file/5097%202%2010%202026%20PARARTIMA%201o%20MEROS%20I.pdf HTTP/1.1" 200 870182
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2 HTTP/1.1" 200 4684
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/90BA24B8F34980DDC2258E84002D038B?OpenDocument HTTP/1.1" 200 4308
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/90BA24B8F34980DDC2258E84002D038B/$file/4556%202%2010%202026%20PARARTHMA%201o%20MEROS%20II.pdf HTTP/1.1" 200 850926
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3 HTTP/1.1" 200 4653
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6 HTTP/1.1" 200 5383
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/3D8BA11AE56F6085C2258E84002062B2?OpenDocument HTTP/1.1" 200 4260
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/3D8BA11AE56F6085C2258E84002062B2/$file/6051%202%2010%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 273177
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/BC9A85FB4978FECBC2258E8200615E97?OpenDocument HTTP/1.1" 200 4265
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/BC9A85FB4978FECBC2258E8200615E97/$file/6050%2030%209%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 258769
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/EFA4E02212CF0108C2258E82002EE2A1?OpenDocument HTTP/1.1" 200 4263
-DEBUG urllib3.connectionpool: Resetting dropped connection: www.mof.gov.cy
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/EFA4E02212CF0108C2258E82002EE2A1/$file/6049%2030%209%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 2798546
-INFO root: gazette: 11 items
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6 HTTP/1.1" 200 5385
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/100EB966EF9339CCC2258E8B001BE090?OpenDocument HTTP/1.1" 200 4267
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/100EB966EF9339CCC2258E8B001BE090/$file/6052%209%2010%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 434778
+INFO root: gazette: 6 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.cylaw.org:443
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/2026_arith_index.html HTTP/1.1" 200 38939
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_125.pdf HTTP/1.1" 200 832134
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_124.pdf HTTP/1.1" 200 580694
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_123.pdf HTTP/1.1" 200 594621
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/2026_arith_index.html HTTP/1.1" 200 39967
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_128.pdf HTTP/1.1" 200 113515
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_127.pdf HTTP/1.1" 200 128579
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_126.pdf HTTP/1.1" 200 216071
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_044.pdf HTTP/1.1" 200 776871
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_043.pdf HTTP/1.1" 200 793049
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_042.pdf HTTP/1.1" 200 1086231
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_041.pdf HTTP/1.1" 200 1667795
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_040.pdf HTTP/1.1" 200 1442366
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2_039.pdf HTTP/1.1" 200 766470
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_006.pdf HTTP/1.1" 200 5412238
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_005.pdf HTTP/1.1" 200 5397237
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_004.pdf HTTP/1.1" 200 4190560
-INFO root: cylaw: 1 items
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/2026.html HTTP/1.1" 200 101017
+INFO root: cylaw: 0 items
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/2026.html HTTP/1.1" 200 101898
 INFO root: cylawkdp: 0 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.nomoplatform.cy:443
 DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v2/bill-status?_fields=id%2Cname%2Cslug&per_page=100&page=1 HTTP/1.1" 403 None
@@ -60,25 +35,29 @@ DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v
 WARNING cylaw_digest.http: fetch failed https://www.nomoplatform.cy/wp-json/wp/v2/competent-ministry?_fields=id%2Cname%2Cslug&per_page=100&page=1 -> 403 cloudflare
 INFO root: nomoplatform: 0 items (BLOCKED: cloudflare)
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.gov.cy:443
-DEBUG urllib3.connectionpool: https://www.gov.cy:443 "GET /wp-json/wp/v2/posts?after=2026-09-28T00%3A00%3A00&before=2026-10-04T23%3A59%3A59&categories=182%2C183%2C254%2C218%2C188%2C217&per_page=100&page=1&orderby=date&order=desc&_fields=id%2Cdate%2Cmodified%2Clink%2Ctitle%2Cexcerpt%2Ccontent%2Ccategories HTTP/1.1" 200 None
-INFO root: govcy: 38 items
+DEBUG urllib3.connectionpool: https://www.gov.cy:443 "GET /wp-json/wp/v2/posts?after=2026-10-05T00%3A00%3A00&before=2026-10-11T23%3A59%3A59&categories=182%2C183%2C254%2C218%2C188%2C217&per_page=100&page=1&orderby=date&order=desc&_fields=id%2Cdate%2Cmodified%2Clink%2Ctitle%2Cexcerpt%2Ccontent%2Ccategories HTTP/1.1" 200 None
+INFO root: govcy: 32 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.companies.gov.cy:443
+DEBUG urllib3.util.retry: Incremented Retry for (url='/gr/%CE%B2%CE%AC%CF%83%CE%B7-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/%CE%BD%CE%AD%CE%B1'): Retry(total=1, connect=None, read=None, redirect=None, status=None)
+WARNING urllib3.connectionpool: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<HTTPSConnection(host='www.companies.gov.cy', port=443) at 0x7fbffc031d60>, 'Connection to www.companies.gov.cy timed out. (connect timeout=40.0)')': /gr/%CE%B2%CE%AC%CF%83%CE%B7-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/%CE%BD%CE%AD%CE%B1
+DEBUG urllib3.connectionpool: Starting new HTTPS connection (2): www.companies.gov.cy:443
 DEBUG urllib3.connectionpool: https://www.companies.gov.cy:443 "GET /gr/%CE%B2%CE%AC%CF%83%CE%B7-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/%CE%BD%CE%AD%CE%B1 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.companies.gov.cy:443 "GET /gr/%CE%B2%CE%AC%CF%83%CE%B7-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/%CE%BD%CE%AD%CE%B1/%CE%B4%CE%B9%CE%B1%CE%B3%CF%81%CE%B1%CF%86%CE%AE-%CE%B5%CE%B3%CE%B3%CE%B5%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AD%CE%BD%CF%89%CE%BD-%CE%BF%CF%81%CE%B3%CE%B1%CE%BD%CE%B9%CF%83%CE%BC%CF%8E%CE%BD-%CE%BB%CF%8C%CE%B3%CF%89-%CE%BC%CE%B7-%CE%BA%CE%B1%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%AE%CF%82-%CF%84%CE%BF%CF%85-%CE%B5%CF%84%CE%AE%CF%83%CE%B9%CE%BF%CF%85-%CF%84%CE%AD%CE%BB%CE%BF%CF%85%CF%82 HTTP/1.1" 200 None
-INFO root: registrar: 1 items
+INFO root: registrar: 0 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.centralbank.cy:443
 DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/tender-19-2026 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/fine-on-banque-sba-cyprus-09-2026 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/cbc-countercyclical-buffer-rate-unchanged-29-09-2026 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/sustainable-debt-securities-cy-residents-29-09-2026 HTTP/1.1" 200 None
-INFO root: cbc: 4 items
-window 2026-09-28..2026-10-04: collected 55, kept 14, other laws 2, dropped 41
-  gazette       ok                                       items=11
-  cylaw         ok                                       items=1
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/09-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/coin-workshop-09-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/imir-aug26-09-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/iref-08-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/publication-of-external-statistics-data-05-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/monetary-financial-institutions-05-10-2026 HTTP/1.1" 200 None
+INFO root: cbc: 6 items
+window 2026-10-05..2026-10-11: collected 44, kept 8, other laws 0, dropped 36
+  gazette       ok                                       items=6
+  cylaw         ok                                       items=0
   cylawkdp      ok                                       items=0
   nomoplatform  BLOCKED cloudflare                       items=0
-  govcy         ok                                       items=38
-  registrar     ok                                       items=1
-  cbc           ok                                       items=4
-→ runs/2026-09-28_2026-10-04/skeleton.md
+  govcy         ok                                       items=32
+  registrar     ok                                       items=0
+  cbc           ok                                       items=6
+→ runs/2026-10-05_2026-10-11/skeleton.md
