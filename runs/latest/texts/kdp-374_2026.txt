@@ -1,0 +1,104 @@
+2506
+Ε.Ε. Παρ. ΙΙΙ(Ι)
+Αρ. 6053, 16.10.2026
+
+Αριθμός 374
+ΟΙ ΠΕΡΙ ΤΥΠΟΠΟΙΗΣΗΣ, ΔΙΑΠΙΣΤΕΥΣΗΣ ΚΑΙ ΤΕΧΝΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ ΝΟΜΟI ΤΟΥ 2002 ΕΩΣ 2012
+Γνωστοποίηση βάσει του άρθρου 5 του βασικού νόμου 156(Ι)/2002
+και του άρθρου 6 του Τροποποιητικού Νόμου 57(Ι)/2011
+Με το παρόν γνωστοποιείται ότι βάσει των άρθρων 5 του βασικού νόμου 156(Ι) του 2002 και 6 του Τροποποιητικού
+Νόμου 57(Ι)/2011 που ρυθμίζουν τις δραστηριότητες της Τυποποίησης, Διαπίστευσης και Τεχνικής Πληροφόρησης,
+ο Κυπριακός Οργανισμός Τυποποίησης (CYS) δημοσιεύει ως Κυπριακά πρότυπα τα πιο κάτω Διεθνή πρότυπα:
+
+Services. Company organization, management and quality.
+Administration. Transport. Sociology
+
+03
+
+CYS EN
+Document:
+
+Title
+
+CYS ISO
+37000:2021
+
+Governance of organizations – Guidance (ISO 37000:2021, IDT)
+
+03.100.02
+
+CYS ISO
+37002:2021
+
+Whistleblowing management systems — Guidelines (ISO 37002:2021, IDT)
+
+03.100.01
+
+CYS ISO
+37003:2025
+
+Fraud control management systems — Guidance for organizations managing the
+risk of fraud (ISO 37003:2025, IDT)
+
+03.100.01
+
+CYS ISO
+37004:2023
+
+Governance of organizations — Governance maturity model — Guidance
+(ISO 37004:2023, IDT)
+
+03.100.02
+
+CYS ISO
+37005:2024
+
+Governance of organizations — Developing indicators for effective governance
+(ISO 37005:2024, IDT)
+
+03.100.02
+
+CYS ISO/TS
+37008:2023
+
+Internal investigations of organizations — Guidance (ISO/TS 37008:2023, IDT)
+
+03.100.02
+
+CYS ISO
+37009:2025
+
+Conflict of interest in organizations — Guidance (ISO 37009:2025, IDT)
+
+03.080.99
+
+CYS ISO
+37301:2021
+(+A1:2024)
+
+Compliance management systems — Requirements with guidance for use
+(ISO 37301:2021+ A1:2024, IDT)
+
+03.100.01
+
+CYS ISO
+37302:2025
+
+Compliance management systems — Guidance for the evaluation of effectiveness
+(ISO 37302:2025, IDT)
+
+03.100.01
+
+CYS ISO
+37303:2025
+
+Compliance management systems — Guidance for competence management
+(ISO 37303:2025, IDT)
+
+03.100.01
+
+ICS1
+
+Tυπώθηκε στο Tυπογραφείο της Kυπριακής Δημοκρατίας, 1445 Λευκωσία, Κύπρος
+Τηλ. 22405824, Φαξ 22303175 – www.mof.gov.cy/gpo
+Aντίτυπα της Eπίσημης Eφημερίδας πωλούνται προς €2,00 το καθένα
