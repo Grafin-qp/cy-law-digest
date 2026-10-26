@@ -1,14 +1,19 @@
 DEBUG urllib3.util.retry: Converted retries value: 2 -> Retry(total=2, connect=None, read=None, redirect=None, status=None)
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.mof.gov.cy:443
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16 HTTP/1.1" 200 4743
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16 HTTP/1.1" 200 4791
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/D9D0740ED72FBB3EC2258E980056B439?OpenDocument HTTP/1.1" 200 4255
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/D9D0740ED72FBB3EC2258E980056B439/$file/5099%2022%2010%202026%20PARARTIMA%201o%20MEROS%20I.pdf HTTP/1.1" 200 803396
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/7E35AF1BC688CC88C2258E97002E7BB8?OpenDocument HTTP/1.1" 200 4254
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/7E35AF1BC688CC88C2258E97002E7BB8/$file/5098%2021%2010%202026%20PARARTIMA%201o%20MEROS%20I.pdf HTTP/1.1" 200 685172
 DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2 HTTP/1.1" 200 4619
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3 HTTP/1.1" 200 4596
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6 HTTP/1.1" 200 5386
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/E07CDE31001DB96EC2258E92001CAE79?OpenDocument HTTP/1.1" 200 4261
-DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/E07CDE31001DB96EC2258E92001CAE79/$file/6053%2016%2010%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 1476814
-INFO root: gazette: 15 items
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3 HTTP/1.1" 200 4316
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6 HTTP/1.1" 200 5387
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/All/985307A4A04F3EA6C2258E99001CFAE3?OpenDocument HTTP/1.1" 200 4262
+DEBUG urllib3.connectionpool: https://www.mof.gov.cy:443 "GET /mof/gpo/gazette.nsf/985307A4A04F3EA6C2258E99001CFAE3/$file/6054%2023%2010%202026%20PARARTIMA%203o%20MEROS%20I.pdf HTTP/1.1" 200 273932
+INFO root: gazette: 18 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.cylaw.org:443
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/2026_arith_index.html HTTP/1.1" 200 40153
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/2026_arith_index.html HTTP/1.1" 200 40364
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_129.pdf HTTP/1.1" 200 218491
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_128.pdf HTTP/1.1" 200 113515
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_127.pdf HTTP/1.1" 200 128579
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_1_126.pdf HTTP/1.1" 200 216071
@@ -18,23 +23,13 @@ DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_2
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_006.pdf HTTP/1.1" 200 5412238
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_005.pdf HTTP/1.1" 200 5397237
 DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /nomoi/arith/2026_3_004.pdf HTTP/1.1" 200 4190560
-INFO root: cylaw: 0 items
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/2026.html HTTP/1.1" 200 106922
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_357.pdf HTTP/1.1" 200 770549
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_361.pdf HTTP/1.1" 200 833735
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_362.pdf HTTP/1.1" 200 786939
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_363.pdf HTTP/1.1" 200 747158
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_364.pdf HTTP/1.1" 200 797406
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_365.pdf HTTP/1.1" 200 797031
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_366.pdf HTTP/1.1" 200 770671
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_368.pdf HTTP/1.1" 200 770570
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_369.pdf HTTP/1.1" 200 797276
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_370.pdf HTTP/1.1" 200 769636
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_371.pdf HTTP/1.1" 200 830529
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_372.pdf HTTP/1.1" 200 748215
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_373.pdf HTTP/1.1" 200 995427
-DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_374.pdf HTTP/1.1" 200 804325
-INFO root: cylawkdp: 14 items
+INFO root: cylaw: 1 items
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/2026.html HTTP/1.1" 200 107920
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_375.pdf HTTP/1.1" 200 238025
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_376.pdf HTTP/1.1" 200 121442
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_377.pdf HTTP/1.1" 200 114029
+DEBUG urllib3.connectionpool: https://www.cylaw.org:443 "GET /KDP/data/2026_1_378.pdf HTTP/1.1" 200 173022
+INFO root: cylawkdp: 4 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.nomoplatform.cy:443
 DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v2/bill-status?_fields=id%2Cname%2Cslug&per_page=100&page=1 HTTP/1.1" 403 None
 WARNING cylaw_digest.http: fetch failed https://www.nomoplatform.cy/wp-json/wp/v2/bill-status?_fields=id%2Cname%2Cslug&per_page=100&page=1 -> 403 cloudflare
@@ -49,29 +44,25 @@ DEBUG urllib3.connectionpool: https://www.nomoplatform.cy:443 "GET /wp-json/wp/v
 WARNING cylaw_digest.http: fetch failed https://www.nomoplatform.cy/wp-json/wp/v2/competent-ministry?_fields=id%2Cname%2Cslug&per_page=100&page=1 -> 403 cloudflare
 INFO root: nomoplatform: 0 items (BLOCKED: cloudflare)
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.gov.cy:443
-DEBUG urllib3.connectionpool: https://www.gov.cy:443 "GET /wp-json/wp/v2/posts?after=2026-10-12T00%3A00%3A00&before=2026-10-18T23%3A59%3A59&categories=182%2C183%2C254%2C218%2C188%2C217&per_page=100&page=1&orderby=date&order=desc&_fields=id%2Cdate%2Cmodified%2Clink%2Ctitle%2Cexcerpt%2Ccontent%2Ccategories HTTP/1.1" 200 None
-INFO root: govcy: 35 items
+DEBUG urllib3.connectionpool: https://www.gov.cy:443 "GET /wp-json/wp/v2/posts?after=2026-10-19T00%3A00%3A00&before=2026-10-25T23%3A59%3A59&categories=182%2C183%2C254%2C218%2C188%2C217&per_page=100&page=1&orderby=date&order=desc&_fields=id%2Cdate%2Cmodified%2Clink%2Ctitle%2Cexcerpt%2Ccontent%2Ccategories HTTP/1.1" 200 None
+INFO root: govcy: 42 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.companies.gov.cy:443
 DEBUG urllib3.connectionpool: https://www.companies.gov.cy:443 "GET /gr/%CE%B2%CE%AC%CF%83%CE%B7-%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD/%CE%BD%CE%AD%CE%B1 HTTP/1.1" 200 None
 INFO root: registrar: 0 items
 DEBUG urllib3.connectionpool: Starting new HTTPS connection (1): www.centralbank.cy:443
 DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/cyprus-euro-coins-2025-and-2026-16-10-2026 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/cyprus-euro-coins-mint-year-2026-16-10-2026 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/statistical-bulletin-october-2026-16-10-2026 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/leventis-municipal-museum-10-26 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/article-stelios-georgakis-digital-euro-10-26 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/kleanthis-ioannides-interview-amla-10-26 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/cir-statistics-september-2026-14-10-2026 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/fin-lit-12-10-26 HTTP/1.1" 200 None
-DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/12-10-2026 HTTP/1.1" 200 None
-INFO root: cbc: 9 items
-window 2026-10-12..2026-10-18: collected 60, kept 15, other laws 0, dropped 45
-  gazette       ok                                       items=15
-  cylaw         ok                                       items=0
-  cylawkdp      ok                                       items=14
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/bank-holiday-22-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/behind-every-number-20-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/economic-brief-20-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/commemorative-2026-19-10-2026 HTTP/1.1" 200 None
+DEBUG urllib3.connectionpool: https://www.centralbank.cy:443 "GET /en/announcements/npls-31-july-2026-19-10-2026 HTTP/1.1" 200 None
+INFO root: cbc: 5 items
+window 2026-10-19..2026-10-25: collected 65, kept 19, other laws 7, dropped 46
+  gazette       ok                                       items=18
+  cylaw         ok                                       items=1
+  cylawkdp      ok                                       items=4
   nomoplatform  BLOCKED cloudflare                       items=0
-  govcy         ok                                       items=35
+  govcy         ok                                       items=42
   registrar     ok                                       items=0
-  cbc           ok                                       items=9
-→ runs/2026-10-12_2026-10-18/skeleton.md
+  cbc           ok                                       items=5
+→ runs/2026-10-19_2026-10-25/skeleton.md

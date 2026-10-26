@@ -1,22 +1,31 @@
 {
   "window": {
-    "start": "2026-10-12",
-    "end": "2026-10-18"
+    "start": "2026-10-19",
+    "end": "2026-10-25"
   },
-  "generated": "2026-10-19T09:11:22",
-  "host": "runnervm8k3b6",
+  "generated": "2026-10-26T09:14:42",
+  "host": "runnervmtai0g",
   "sources": {
     "gazette": {
-      "items": 15,
+      "items": 18,
       "gazette_app16": {
         "ok": true,
-        "listed": 4,
-        "in_window": 0,
+        "listed": 5,
+        "in_window": 2,
         "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16",
         "warning": null,
         "label": "Παρ. Ι(Ι)",
-        "issues": [],
-        "latest_listed": "2026-10-02"
+        "issues": [
+          {
+            "number": "5099",
+            "date": "2026-10-22"
+          },
+          {
+            "number": "5098",
+            "date": "2026-10-21"
+          }
+        ],
+        "latest_listed": "2026-10-22"
       },
       "gazette_app2": {
         "ok": true,
@@ -30,13 +39,13 @@
       },
       "gazette_app3": {
         "ok": true,
-        "listed": 1,
+        "listed": 0,
         "in_window": 0,
         "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3",
         "warning": null,
         "label": "Παρ. Ι(ΙΙΙ)",
         "issues": [],
-        "latest_listed": "2026-07-24"
+        "latest_listed": null
       },
       "gazette_app6": {
         "ok": true,
@@ -47,24 +56,24 @@
         "label": "Παρ. ΙΙΙ(Ι)",
         "issues": [
           {
-            "number": "6053",
-            "date": "2026-10-16"
+            "number": "6054",
+            "date": "2026-10-23"
           }
         ],
-        "latest_listed": "2026-10-16"
+        "latest_listed": "2026-10-23"
       }
     },
     "cylaw": {
-      "items": 0,
+      "items": 1,
       "cylaw_index_2026": {
         "ok": true,
-        "entries": 178,
+        "entries": 179,
         "url": "https://www.cylaw.org/nomoi/2026_arith_index.html"
       },
       "cylaw_walk_2026_I": {
-        "fetched": 3,
-        "listed": 128,
-        "highest": "128(I)/2026",
+        "fetched": 4,
+        "listed": 129,
+        "highest": "129(I)/2026",
         "checked_down_to": "126(I)/2026"
       },
       "cylaw_walk_2026_II": {
@@ -81,20 +90,19 @@
       }
     },
     "cylawkdp": {
-      "items": 14,
+      "items": 4,
       "kdp_index_2026": {
         "ok": true,
-        "entries": 373,
-        "in_window": 14,
+        "entries": 377,
+        "in_window": 4,
         "url": "https://www.cylaw.org/KDP/2026.html",
-        "latest": "374/2026",
+        "latest": "378/2026",
         "issues": [
-          "3065",
-          "6053"
+          "6054"
         ]
       },
       "kdp_pdfs_2026": {
-        "fetched": 14
+        "fetched": 4
       }
     },
     "nomoplatform": {
@@ -131,9 +139,9 @@
       "reason": "cloudflare"
     },
     "govcy": {
-      "items": 35,
+      "items": 42,
       "ok": true,
-      "posts": 35
+      "posts": 42
     },
     "registrar": {
       "items": 0,
@@ -141,20 +149,20 @@
       "listed": 9
     },
     "cbc": {
-      "items": 9,
+      "items": 5,
       "ok": true,
-      "listed": 768
+      "listed": 773
     }
   },
   "http": {
-    "requests": 47,
+    "requests": 38,
     "cached": 0,
     "failed": 4
   },
   "counts": {
-    "collected": 60,
-    "kept": 15,
-    "dropped": 45,
-    "other_laws": 0
+    "collected": 65,
+    "kept": 19,
+    "dropped": 46,
+    "other_laws": 7
   }
 }
