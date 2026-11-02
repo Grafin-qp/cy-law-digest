@@ -1,0 +1,693 @@
+2527
+Ε.Ε. Παρ. ΙΙΙ(Ι)
+Αρ. 6055, 30.10.2026
+
+Αριθμός 384
+ΟΙ ΠΕΡΙ ΤΥΠΟΠΟΙΗΣΗΣ, ΔΙΑΠΙΣΤΕΥΣΗΣ ΚΑΙ ΤΕΧΝΙΚΗΣ ΠΛΗΡΟΦΟΡΗΣΗΣ ΝΟΜΟI ΤΟΥ 2002 ΕΩΣ 2012
+Γνωστοποίηση βάσει του άρθρου 5 του βασικού νόμου 156(Ι)/2002
+και του άρθρου 6 του Τροποποιητικού Νόμου 57(Ι)/2011
+Με το παρόν γνωστοποιείται ότι βάσει των άρθρων 5 του βασικού νόμου 156(Ι) του 2002 και 6 του Τροποποιητικού
+Νόμου 57(Ι)/2011 που ρυθμίζουν τις δραστηριότητες της Τυποποίησης, Διαπίστευσης και Τεχνικής Πληροφόρησης, ο
+Κυπριακός Οργανισμός Τυποποίησης (CYS) δημοσιεύει ως Κυπριακά πρότυπα τα πιο κάτω Ευρωπαϊκά πρότυπα:
+STANDARDS FROM EUROPEAN COMMITTEE FOR ELECTROTECHNICAL STANDARDIZATION (CENELEC)
+
+03
+
+Services. Company organization, management and quality. Administration. Transport.
+Sociology
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+63223-2:2026
+
+Management of network assets in power systems - Part 2: Riskinformed decision-making process
+
+13
+
+ICS1
+
+Withdrawn
+
+03.100.01
+
+Environment. Health protection. Safety
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+62046:2026
+
+ICS1
+
+Withdrawn
+
+Safety of machinery - Application of protective equipment to detect
+the presence of persons
+
+13.110
+
+S/S CYS
+EN IEC
+62046:2018
+=W/D
+
+CYS EN IEC
+62820-12:2026
+
+Building intercom systems - Part 1-2: System requirements Building intercom systems using the Internet protocol (IP)
+
+13.320
+
+S/S CYS EN
+62820-12:2017=W/D
+
+CYS CLC/TS
+50752:2026
+
+Design for recycling guidelines for styrenics and polyolefins
+products and parts in electrical and electronic equipment, with
+focus on ABS, PP and PS
+
+13.030.50
+
+CYS EN IEC
+60335-2101:2026
+
+Household and similar electrical appliances - Safety - Part 2-101:
+Particular requirements for vaporizers
+
+13.120
+
+CYS EN IEC
+60335-2101:2026
+/A11:2026
+
+Household and similar electrical appliances - Safety - Part 2-101:
+Particular requirements for vaporizers
+
+13.120
+
+CYS EN IEC
+60335-2111:2026
+
+Household and similar electrical appliances - Safety - Part 2-111:
+Particular requirements for electric ondol-mattress with a nonflexible heated part
+
+13.120
+
+CYS EN IEC
+60335-2111:2026
+/A11:2026
+
+Household and similar electrical appliances - Safety - Part 2-111:
+Particular requirements for electric ondol-mattress with a nonflexible heated part
+
+13.120
+
+S/S CYS EN
+60335-2101:2002
+(A2:2014
++A1:2008)
+=W/D
+
+S/S CYS EN
+IEC 60335-2111:2019
+=W/D
+
+2528
+
+17
+
+Metrology and measurement. Physical phenomena
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+60909-0:2026
+
+ICS1
+
+Withdrawn
+
+Short-circuit currents in three-phase AC systems - Part 0:
+Calculation of currents
+
+17.220.01
+
+S/S CYS EN
+609090:2016=W/D
+
+CYS EN IEC
+63580:2026
+
+Measuring equipment for electrical and electromagnetic quantities Environmental aspects
+
+17.220.20
+
+CYS EN IEC
+60645-6:2022
+/A1:2026
+
+Electroacoustics - Audiometric equipment - Part 6: Instruments for
+the measurement of otoacoustic emissions
+
+17.140.50
+
+CYS EN IEC
+61326-27:2026
+
+Electrical equipment for measurement, control and laboratory use EMC requirements - Part 2-7: Particular requirements - Test
+configurations, operational conditions, test levels and performance
+criteria for devices with Ethernet-APL interfaces
+
+17.220.20
+
+19
+
+Testing
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN IEC
+62475:2026
+
+High-current test techniques - Definitions and requirements for test
+currents and measuring systems
+
+19.080
+
+S/S CYS EN
+62475:2010
+=W/D
+
+23
+
+Fluid systems and components for general use
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+61514-2:2026
+
+Industrial process control systems - Methods of evaluating the
+performance of valve positioners with pneumatic outputs - Part 2:
+Test Methods for intelligent positioners mounted on an actuator
+valve assembly
+
+25
+
+ICS1
+
+Withdrawn
+
+23.060.99
+
+S/S CYS EN
+615142:2013=W/D
+
+ICS1
+
+Withdrawn
+
+25.180.10
+
+S/S CYS EN
+61308:2006
+=W/D
+
+Manufacturing engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+61308:2026
+
+High-frequency dielectric heating installations - Test methods for
+the determination of power output
+
+2529
+
+CYS EN IEC
+61307:2026
+
+Industrial microwave heating installations - Test methods for the
+determination of power output
+
+25.180.10
+
+CYS EN IEC
+63082-1:2026
+
+Intelligent device management - Part 1: Concepts and terminology
+
+25.040.40
+
+27
+
+S/S CYS
+EN IEC
+61307:2011
+=W/D
+
+Energy and heat transfer engineering
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN IEC
+61853-2:2026
+
+Photovoltaic (PV) module performance testing and energy rating Part 2: Spectral responsivity, incidence angle and nominal module
+operating temperature measurements
+
+27.160
+
+S/S CYS EN
+618532:2016=W/D
+
+CYS EN IEC
+61400-40:2026
+/AC:2026-09
+
+Wind energy generation systems - Part 40: Electromagnetic
+compatibility (EMC) - Requirements and test methods
+
+27.180
+
+29
+
+Electrical engineering
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+Withdrawn
+
+CYS EN IEC
+60076-4:2026
+
+Power transformers - Part 4: Lightning impulse and switching
+impulse tests of power transformers and reactors
+
+29.180
+
+S/S CYS EN
+600764:2002=W/D
+
+CYS EN IEC
+62271201:2026
+
+High-voltage switchgear and controlgear - Part 201: AC solidinsulation enclosed switchgear and controlgear for rated voltages
+above 1 kV and up to and including 52 kV
+
+29.130.10
+
+S/S CYS EN
+62271201:2014
+=W/D
+
+29.220.10
+
+S/S CYS EN
+IEC 600862:2021
+(+AC:202604+AC:202207) =W/D
+
+CYS EN IEC
+60086-21:2026
+
+Primary batteries - Part 2-1: Physical and electrical specifications
+of batteries with aqueous electrolyte
+
+CYS EN IEC
+60086-22:2026
+
+Primary batteries - Part 2-2: Physical and electrical specifications
+of lithium batteries
+
+29.220.10
+
+CYS EN IEC
+60086-2:2021
+(+AC:202207+AC:202604) =W/D
+
+CYS EN IEC
+61058-1:2026
+
+Switches for appliances - Part 1: General requirements
+
+29.120.40
+
+S/S CYS EN
+IEC 610581:2018=W/D
+
+CYS EN IEC
+63066:2026
+
+Low-voltage docking connectors for removable energy storage
+units
+
+29.120.30
+
+2530
+
+CYS EN IEC
+60127-4:2026
+
+Miniature fuses - Part 4: Universal modular fuse-links (UMF) Through-hole and surface mount types
+
+29.120.50
+
+CYS EN IEC
+63585:2026
+
+Interpretation of dissolved gas analysis (DGA) in natural and
+synthetic esters
+
+29.040.10
+
+CYS EN IEC
+60691:2023
+/A2:2026
+
+Thermal-links - Requirements and application guide
+
+29.120.50
+
+CYS EN
+61811-1:2015
+/A2:2026
+
+Electromechanical telecom elementary relays of assessed quality Part 1: Generic specification and blank detail specification
+
+29.120.70
+
+CYS EN IEC
+60079-290:2026
+/AC:2026-09
+
+Explosive atmospheres - Part 29-0: Gas detection equipment General requirements and test methods
+
+29.260.20
+
+CYS EN IEC
+62196-3:2026
+/AC:2026-09
+
+Plugs, socket-outlets, vehicle connectors and vehicle inlets Conductive charging of electric vehicles - Part 3: Dimensional
+compatibility requirements for DC and AC/DC pin and contact-tube
+vehicle couplers
+
+29.120.30
+
+CYS EN IEC
+60309-2:2022
+/AC:2026-09
+
+Plugs, fixed or portable socket-outlets and appliance inlets for
+industrial purposes - Part 2: Dimensional compatibility
+requirements for pin and contact-tube accessories
+
+29.120.30
+
+31
+
+S/S CYS EN
+60127-4:2005
+(+A1:2009
++A2:2013)
+=W/D
+
+Electronics
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CYS EN IEC
+63203-4031:2026
+
+Wearable electronic devices and technologies - Part 403-1: Test
+method of surface electromyography sensors on forearm and hand
+for wearable applications
+
+31.020
+
+CYS EN IEC
+63287-3:2026
+
+Semiconductor devices - Generic semiconductor qualification
+guidelines - Part 3: Guidelines for reliability qualification plans for
+power semiconductor module
+
+31.080.01
+
+CYS EN IEC
+62228-7:2026
+
+Integrated circuits - EMC evaluation of transceivers - Part 7: CXPI
+transceivers
+
+31.200
+
+33
+
+Withdrawn
+
+S/S CYS EN
+IEC 622287:2022=W/D
+
+Telecommunications. Audio and video engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN
+50117-91:2026
+
+Coaxial cables - Part 9-1: Sectional specification for coaxial
+cables for analogue and digital signal transmission - Indoor
+drop cables for systems operating at 5 MHz - 1 000 MHz
+
+ICS1
+33.120.10
+
+Withdrawn
+S/S CYS EN 501179-1:2019=W/D
+
+2531
+CYS EN IEC
+61850-7410:2026
+
+Communication networks and systems for power utility
+automation - Part 7-410: Basic communication structure Hydroelectric power plants, steam and gas turbines - Logical
+node classes
+
+33.200
+
+S/S CYS EN 618507-410:2013
+(+A1:2016)
+=W/D
+
+CYS EN IEC
+61000-429:2026
+
+Electromagnetic compatibility (EMC) - Part 4-29: Testing and
+measurement techniques - Voltage dips, short interruptions
+and voltage variations on d.c. input power port immunity
+tests
+
+33.100.20
+
+S/S CYS EN 610004-29:2000=W/D
+
+CYS EN IEC
+61300-22:2026
+
+Fibre optic interconnecting devices and passive components
+- Basic test and measurement procedures - Part 2-2: Tests Mating durability
+
+33.180.20
+
+S/S CYS EN 6130022:2009(+corrigendum
+May 2009) =W/D
+
+CYS EN IEC
+61300-330:2026
+
+Fibre optic interconnecting devices and passive components
+- Basic test and measurement procedures - Part 3-30:
+Examinations and measurements - Endface geometry of
+rectangular ferrule
+
+33.180.20
+
+S/S CYS EN IEC
+61300-330:2021=W/D
+
+43
+
+Road vehicles engineering
+
+CYS EN
+Document:
+
+Title
+
+ICS1
+
+CWA
+50786:2026
+
+Reference driving cycle for off-road electric vehicles
+
+43.120
+
+45
+
+Withdrawn
+
+Railway engineering
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+61373:2026
+
+Railway applications - Rolling stock equipment - Shock and
+vibration tests
+
+97
+
+ICS1
+
+Withdrawn
+
+45.060.01
+
+S/S CYS EN
+61373:2010
+(+AC:201709) =W/D
+
+Domestic and commercial equipment. Entertainment. Sports
+
+CYS EN
+Document:
+
+Title
+
+CYS EN IEC
+60335-2110:2026
+CYS EN IEC
+60335-2110:2026
+/A11:2026
+
+ICS1
+
+Withdrawn
+
+Household and similar electrical appliances - Safety - Part 2-110:
+Particular requirements for commercial microwave appliances with
+insertion or contacting applicators
+
+97.040.20
+
+S/S CYS EN
+IEC 60335-2110:2021
+(+A1:2023)
+=W/D
+
+Household and similar electrical appliances - Safety - Part 2-110:
+Particular requirements for commercial microwave appliances with
+insertion or contacting applicators
+
+97.040.20
+
+2532
+CYS EN IEC
+60335-262:2026
+
+Household and similar electrical appliances - Safety - Part 2-62:
+Particular requirements for commercial electric rinsing sinks
+
+97.040.50
+
+CYS EN IEC
+60335-262:2026
+/A11:2026
+
+Household and similar electrical appliances - Safety - Part 2-62:
+Particular requirements for commercial electric rinsing sinks
+
+97.040.50
+
+CYS EN IEC
+60335-282:2026
+
+Household and similar electrical appliances - Safety - Part 2-82:
+Particular requirements for amusement machines and personal
+service machines
+
+97.180
+
+CYS EN IEC
+60335-282:2026
+/A11:2026
+
+Household and similar electrical appliances - Safety - Part 2-82:
+Particular requirements for amusement machines and personal
+service machines
+
+97.180
+
+S/S CYS EN
+IEC 60335-262:2022=W/D
+
+S/S CYS EN
+IEC 60335-282:2022
+(+A1:2025)
+=W/D
+
+Tυπώθηκε στο Tυπογραφείο της Kυπριακής Δημοκρατίας, 1445 Λευκωσία, Κύπρος
+Τηλ. 22405824, Φαξ 22303175 – www.mof.gov.cy/gpo
+Aντίτυπα της Eπίσημης Eφημερίδας πωλούνται προς €2,00 το καθένα

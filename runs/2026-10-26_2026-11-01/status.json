@@ -1,0 +1,165 @@
+{
+  "window": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "generated": "2026-11-02T11:31:41",
+  "host": "runnervm48cm3",
+  "sources": {
+    "gazette": {
+      "items": 9,
+      "gazette_app16": {
+        "ok": true,
+        "listed": 6,
+        "in_window": 1,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16",
+        "warning": null,
+        "label": "Παρ. Ι(Ι)",
+        "issues": [
+          {
+            "number": "5100",
+            "date": "2026-10-30"
+          }
+        ],
+        "latest_listed": "2026-10-30"
+      },
+      "gazette_app2": {
+        "ok": true,
+        "listed": 1,
+        "in_window": 0,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2",
+        "warning": null,
+        "label": "Παρ. Ι(ΙΙ)",
+        "issues": [],
+        "latest_listed": "2026-10-02"
+      },
+      "gazette_app3": {
+        "ok": true,
+        "listed": 0,
+        "in_window": 0,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3",
+        "warning": null,
+        "label": "Παρ. Ι(ΙΙΙ)",
+        "issues": [],
+        "latest_listed": null
+      },
+      "gazette_app6": {
+        "ok": true,
+        "listed": 17,
+        "in_window": 1,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6",
+        "warning": null,
+        "label": "Παρ. ΙΙΙ(Ι)",
+        "issues": [
+          {
+            "number": "6055",
+            "date": "2026-10-30"
+          }
+        ],
+        "latest_listed": "2026-10-30"
+      }
+    },
+    "cylaw": {
+      "items": 2,
+      "cylaw_index_2026": {
+        "ok": true,
+        "entries": 193,
+        "url": "https://www.cylaw.org/nomoi/2026_arith_index.html"
+      },
+      "cylaw_walk_2026_I": {
+        "fetched": 5,
+        "listed": 143,
+        "highest": "143(I)/2026",
+        "checked_down_to": "139(I)/2026"
+      },
+      "cylaw_walk_2026_II": {
+        "fetched": 3,
+        "listed": 44,
+        "highest": "44(II)/2026",
+        "checked_down_to": "42(II)/2026"
+      },
+      "cylaw_walk_2026_III": {
+        "fetched": 3,
+        "listed": 6,
+        "highest": "6(III)/2026",
+        "checked_down_to": "4(III)/2026"
+      }
+    },
+    "cylawkdp": {
+      "items": 6,
+      "kdp_index_2026": {
+        "ok": true,
+        "entries": 383,
+        "in_window": 6,
+        "url": "https://www.cylaw.org/KDP/2026.html",
+        "latest": "384/2026",
+        "issues": [
+          "6055"
+        ]
+      },
+      "kdp_pdfs_2026": {
+        "fetched": 6
+      }
+    },
+    "nomoplatform": {
+      "items": 0,
+      "api_failures": [
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/bill-status?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        },
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/thematic-unit?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        },
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/type-of-legislation?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        },
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/competent-ministry?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        }
+      ],
+      "terms": {
+        "bill-status": 0,
+        "thematic-unit": 0,
+        "type-of-legislation": 0,
+        "competent-ministry": 0
+      },
+      "blocked": true,
+      "reason": "cloudflare"
+    },
+    "govcy": {
+      "items": 0,
+      "ok": false,
+      "reason": "http_error",
+      "url": "https://www.gov.cy/wp-json/wp/v2/posts?after=2026-10-26T00%3A00%3A00&before=2026-11-01T23%3A59%3A59&categories=182%2C183%2C254%2C218%2C188%2C217&per_page=100&page=1&orderby=date&order=desc&_fields=id%2Cdate%2Cmodified%2Clink%2Ctitle%2Cexcerpt%2Ccontent%2Ccategories"
+    },
+    "registrar": {
+      "items": 0,
+      "ok": true,
+      "listed": 9
+    },
+    "cbc": {
+      "items": 6,
+      "ok": true,
+      "listed": 780
+    }
+  },
+  "http": {
+    "requests": 40,
+    "cached": 0,
+    "failed": 5
+  },
+  "counts": {
+    "collected": 15,
+    "kept": 5,
+    "dropped": 10,
+    "other_laws": 2
+  }
+}
