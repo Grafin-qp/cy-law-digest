@@ -1,0 +1,173 @@
+{
+  "window": {
+    "start": "2026-11-02",
+    "end": "2026-11-08"
+  },
+  "generated": "2026-11-09T11:56:29",
+  "host": "runnervmwuk1x",
+  "sources": {
+    "gazette": {
+      "items": 12,
+      "gazette_app16": {
+        "ok": true,
+        "listed": 7,
+        "in_window": 1,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16",
+        "warning": null,
+        "label": "Παρ. Ι(Ι)",
+        "issues": [
+          {
+            "number": "5101",
+            "date": "2026-11-06"
+          }
+        ],
+        "latest_listed": "2026-11-06"
+      },
+      "gazette_app2": {
+        "ok": true,
+        "listed": 2,
+        "in_window": 1,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2",
+        "warning": null,
+        "label": "Παρ. Ι(ΙΙ)",
+        "issues": [
+          {
+            "number": "4557",
+            "date": "2026-11-06"
+          }
+        ],
+        "latest_listed": "2026-11-06"
+      },
+      "gazette_app3": {
+        "ok": true,
+        "listed": 0,
+        "in_window": 0,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3",
+        "warning": null,
+        "label": "Παρ. Ι(ΙΙΙ)",
+        "issues": [],
+        "latest_listed": null
+      },
+      "gazette_app6": {
+        "ok": true,
+        "listed": 18,
+        "in_window": 2,
+        "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6",
+        "warning": null,
+        "label": "Παρ. ΙΙΙ(Ι)",
+        "issues": [
+          {
+            "number": "6057",
+            "date": "2026-11-06"
+          },
+          {
+            "number": "6056",
+            "date": "2026-11-06"
+          }
+        ],
+        "latest_listed": "2026-11-06"
+      }
+    },
+    "cylaw": {
+      "items": 1,
+      "cylaw_index_2026": {
+        "ok": true,
+        "entries": 194,
+        "url": "https://www.cylaw.org/nomoi/2026_arith_index.html"
+      },
+      "cylaw_walk_2026_I": {
+        "fetched": 4,
+        "listed": 144,
+        "highest": "144(I)/2026",
+        "checked_down_to": "141(I)/2026"
+      },
+      "cylaw_walk_2026_II": {
+        "fetched": 3,
+        "listed": 44,
+        "highest": "44(II)/2026",
+        "checked_down_to": "42(II)/2026"
+      },
+      "cylaw_walk_2026_III": {
+        "fetched": 3,
+        "listed": 6,
+        "highest": "6(III)/2026",
+        "checked_down_to": "4(III)/2026"
+      }
+    },
+    "cylawkdp": {
+      "items": 7,
+      "kdp_index_2026": {
+        "ok": true,
+        "entries": 390,
+        "in_window": 7,
+        "url": "https://www.cylaw.org/KDP/2026.html",
+        "latest": "391/2026",
+        "issues": [
+          "6056"
+        ]
+      },
+      "kdp_pdfs_2026": {
+        "fetched": 7
+      }
+    },
+    "nomoplatform": {
+      "items": 0,
+      "api_failures": [
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/bill-status?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        },
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/thematic-unit?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        },
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/type-of-legislation?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        },
+        {
+          "url": "https://www.nomoplatform.cy/wp-json/wp/v2/competent-ministry?_fields=id%2Cname%2Cslug&per_page=100&page=1",
+          "reason": "cloudflare",
+          "status": 403
+        }
+      ],
+      "terms": {
+        "bill-status": 0,
+        "thematic-unit": 0,
+        "type-of-legislation": 0,
+        "competent-ministry": 0
+      },
+      "blocked": true,
+      "reason": "cloudflare"
+    },
+    "govcy": {
+      "items": 33,
+      "ok": true,
+      "posts": 33
+    },
+    "registrar": {
+      "items": 0,
+      "ok": true,
+      "listed": 9
+    },
+    "cbc": {
+      "items": 4,
+      "ok": true,
+      "listed": 783
+    }
+  },
+  "http": {
+    "requests": 42,
+    "cached": 0,
+    "failed": 4
+  },
+  "counts": {
+    "collected": 49,
+    "kept": 12,
+    "dropped": 37,
+    "other_laws": 1
+  }
+}
