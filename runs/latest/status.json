@@ -1,85 +1,89 @@
 {
   "window": {
-    "start": "2026-11-02",
-    "end": "2026-11-08"
+    "start": "2026-11-09",
+    "end": "2026-11-15"
   },
-  "generated": "2026-11-09T11:56:29",
-  "host": "runnervmwuk1x",
+  "generated": "2026-11-16T11:52:53",
+  "host": "runnervmccnms",
   "sources": {
     "gazette": {
-      "items": 12,
+      "items": 25,
       "gazette_app16": {
         "ok": true,
-        "listed": 7,
+        "listed": 8,
         "in_window": 1,
         "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=16",
         "warning": null,
         "label": "Παρ. Ι(Ι)",
         "issues": [
           {
-            "number": "5101",
-            "date": "2026-11-06"
+            "number": "5102",
+            "date": "2026-11-13"
           }
         ],
-        "latest_listed": "2026-11-06"
+        "latest_listed": "2026-11-13"
       },
       "gazette_app2": {
         "ok": true,
         "listed": 2,
-        "in_window": 1,
+        "in_window": 0,
         "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=2",
         "warning": null,
         "label": "Παρ. Ι(ΙΙ)",
-        "issues": [
-          {
-            "number": "4557",
-            "date": "2026-11-06"
-          }
-        ],
+        "issues": [],
         "latest_listed": "2026-11-06"
       },
       "gazette_app3": {
         "ok": true,
-        "listed": 0,
-        "in_window": 0,
+        "listed": 1,
+        "in_window": 1,
         "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=3",
-        "warning": null,
+        "warning": "live view starts at 2026-11-13, window starts 2026-11-09 – older issues are only in the yearly archive",
         "label": "Παρ. Ι(ΙΙΙ)",
-        "issues": [],
-        "latest_listed": null
+        "issues": [
+          {
+            "number": "4320",
+            "date": "2026-11-13"
+          }
+        ],
+        "latest_listed": "2026-11-13"
       },
       "gazette_app6": {
         "ok": true,
-        "listed": 18,
-        "in_window": 2,
+        "listed": 20,
+        "in_window": 3,
         "url": "https://www.mof.gov.cy/mof/gpo/gazette.nsf/dmlgaz_appsw_gr/dmlgaz_appsw_gr?OpenDocument&OpenView&Count=1000&cp=12&app=6",
         "warning": null,
         "label": "Παρ. ΙΙΙ(Ι)",
         "issues": [
           {
-            "number": "6057",
-            "date": "2026-11-06"
+            "number": "6060",
+            "date": "2026-11-13"
           },
           {
-            "number": "6056",
-            "date": "2026-11-06"
+            "number": "6059",
+            "date": "2026-11-13"
+          },
+          {
+            "number": "6058",
+            "date": "2026-11-13"
           }
         ],
-        "latest_listed": "2026-11-06"
+        "latest_listed": "2026-11-13"
       }
     },
     "cylaw": {
-      "items": 1,
+      "items": 0,
       "cylaw_index_2026": {
         "ok": true,
         "entries": 194,
         "url": "https://www.cylaw.org/nomoi/2026_arith_index.html"
       },
       "cylaw_walk_2026_I": {
-        "fetched": 4,
+        "fetched": 3,
         "listed": 144,
         "highest": "144(I)/2026",
-        "checked_down_to": "141(I)/2026"
+        "checked_down_to": "142(I)/2026"
       },
       "cylaw_walk_2026_II": {
         "fetched": 3,
@@ -95,19 +99,17 @@
       }
     },
     "cylawkdp": {
-      "items": 7,
+      "items": 0,
       "kdp_index_2026": {
         "ok": true,
         "entries": 390,
-        "in_window": 7,
+        "in_window": 0,
         "url": "https://www.cylaw.org/KDP/2026.html",
         "latest": "391/2026",
-        "issues": [
-          "6056"
-        ]
+        "issues": []
       },
       "kdp_pdfs_2026": {
-        "fetched": 7
+        "fetched": 0
       }
     },
     "nomoplatform": {
@@ -144,9 +146,9 @@
       "reason": "cloudflare"
     },
     "govcy": {
-      "items": 33,
+      "items": 41,
       "ok": true,
-      "posts": 33
+      "posts": 41
     },
     "registrar": {
       "items": 0,
@@ -154,20 +156,20 @@
       "listed": 9
     },
     "cbc": {
-      "items": 4,
+      "items": 6,
       "ok": true,
-      "listed": 783
+      "listed": 790
     }
   },
   "http": {
-    "requests": 42,
+    "requests": 38,
     "cached": 0,
     "failed": 4
   },
   "counts": {
-    "collected": 49,
-    "kept": 12,
-    "dropped": 37,
-    "other_laws": 1
+    "collected": 72,
+    "kept": 22,
+    "dropped": 50,
+    "other_laws": 7
   }
 }
